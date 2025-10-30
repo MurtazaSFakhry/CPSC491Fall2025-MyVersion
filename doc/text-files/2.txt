@@ -1,0 +1,191 @@
+ 
+https://crsreports.congress.gov  
+January 17, 2018
+Emergency Alerting —False Alarm  in Hawaii
+Background  
+On Saturday, January 13, 2018, at 8:07 a.m., an emergency 
+alert was issued by  Hawaii’s Emergency Management 
+Agency ( HI-EMA) warning residents  and visitors in Hawaii 
+of an i ncoming ballistic missile.  The message was sen t by 
+HI-EMA through the state’s emergency alert system which 
+distributed it to radio and television stations and to 
+thousands of cell phone users in Hawaii. Widespread fear 
+and panic was reported.   
+ 
+Within minutes, HI -EMA officials received the alert on 
+their own cell phones and realized the message was sent in 
+error. HI-EMA reported that a team member issued an 
+actual alert instead of a test alert d uring a required test of 
+the system  at a shift change.  HI -EMA then had difficulty 
+issuing a correction/retraction message.   
+When they received the alert, t he Hawaii National Guard 
+reportedly contacted U.S. Pacific Command  (USPACOM) 
+which confirmed there had been no missile launch. 
+Representative  Tulsi Gabbard contacted the Hawaii 
+National Guard, confirmed there was no threat, and released 
+a “FALSE ALARM” me ssage on Twitter at 8:19 a.m .  
+ 
+HI-EMA posted a “FALSE ALARM” message on 
+Facebook and Twitter at 8: 20 a.m., but the official 
+correction from HI -EMA through the state’s emergency 
+alerting system was not  released until 8:45 a.m. —38 
+minutes after the initial alert.  
+Residents and elected officials criticized the length of time 
+HI-EMA took to issue the corre ction.  Timeline  
+HI-EMA shared a timeline of events at a press confe rence 
+held on January 13, 2018:   
+8:07 a.m.—The initial alert was sent . 
+8:10—HI-EMA o fficials received the alert on their own cell 
+phones  and started the cancellation process . 
+8:13—Hawaii’s State Warning Point  (the state’s central 
+communication center)  initiated the process  to stop 
+transmitting the message . 
+8:20—HI-EMA posted the cancellation message 
+to Facebook and Twitter.  
+8:24—Governor Ige retweet ed the cancellation message .  
+8:30—Governor  Ige posted the cancellation on Facebook . 
+8:45—HI-EMA issued a second alert over the emergency 
+alert system, announcing the false alarm.   
+The Nation’s Alerting System  
+In 2006, President George W. Bush issued Executive Order 
+(E.O.) 13407 establishing a pol icy for national alerts and 
+warnings.  The E.O.  provide s the President with a means to 
+communicate with citizens during emergencies, and 
+recognizes the role of state, local, tribal , and territorial 
+entities in  emergency response.   
+The E.O. requires the Dep artment of Homeland Security 
+(DHS) to lead the effort, in coordination with federal, state, 
+local, tribal, territorial , and private sector partners  – to 
+integrate and modernize the n ation’s p ublic alert and 
+warning systems.  These systems include:  
+ Emergency  Alert System (EAS) ; 
+ National Warning System (NAWAS) ; 
+ Wireless Emergency Alert s (WEA) ; and  
+ NOAA Weather Radio All Hazards . 
+The network is designed to integrate the nation’s warning 
+systems into one system , called the Integrated Public Al ert 
+and Warning System (IPAWS).  IPAWS is managed and 
+funded by the Federal Emergency Management Agency 
+(FEMA), a component of DHS.  IPAWS  allows alerts to be 
+originated by federal, state, local, tribal, and territorial 
+officials , and then sent through the IPAWS system w hich 
+disseminates the message to the  public using multiple 
+alerting systems  (e.g., EAS sends the alert to television and 
+radio, WEA sends the alert to cell phones).  
+Emergency Alerting —False Alarm in Hawaii  
+https://crsreports.congress.gov  The benefit of IPAWS is that it allows authorized state and 
+local officials to send one messag e to many channels at the 
+same time, reducing the time needed to send messages, 
+reducing the possibility  of errors in message content and 
+delivery, and ensuring timely delivery to citizens who may 
+rely on different devices to receive emergency alerts.   
+As shown in this  incident, officials may leverage multiple 
+means of communication (e.g., social media) to send 
+messages to citizens . This is not part of the national alerting 
+system. The resulting  benefits are that these  messages are 
+fast and easy to send; t he risks are that they may not be 
+accurate or coordinated with emergency management staff.  
+FCC Role  
+The Federal Communications Commission (F CC) plays an 
+impo rtant role in emergency alerts.  In conjunction with 
+FEMA and the National Oceanic and Atmospheric 
+Administration’s (NOAA) National Weather Service 
+(NWS) , the FCC  implements the national Emergency Alert 
+System (EAS) . The EAS is a national public warning 
+system that requires broadcasters (e. g., television, cable, 
+satellite)  to provide c ommunications capabilities to (1 ) the 
+President to address the American public duri ng a national 
+emergency, and (2 ) state and local governments to provide 
+important emergency information to specific areas.  
+The FCC’s role includes prescribing rules that establish 
+technical standards for the EAS, procedures for 
+broadcasters to follow, and testing protocols.  
+Further, the FCC is responsible for implementing the 
+provisions in the Warning, Alert , and Response Networ k 
+(WARN) Act (P.L. 109 -347), which allowed commercial 
+mobile service (CMS) providers to transmit the alerts to cell 
+phones, if they chose.  In 2016, the FCC adopted rules t o 
+improve Wireless Emergency Alerts (WEA) , including 
+making  alert messages longer ( more  characters), supporting 
+URL links to provide additional information to citizens, and 
+supporting Spanish -language alerts.    
+Alerting Authorities  
+A federal, state, terri torial, tribal, or local agency that has 
+been granted authority by its government to alert the public 
+in emergency sit uations can sign up for IPAWS. That 
+agency is known as an “Alerting Authority.”   
+IPAWS is accessed through special software that must mee t 
+IPAWS system requirements. Alerting A uthorities can 
+select software from a list of private sector developers who 
+have successfully tested that software in an IPAWS Open 
+Platform for Emergency Network (IPAWS -OPEN) test 
+environment or they can select their  own software that must 
+then be tested in the IPAWS -OPEN test environment.   
+While access to IPAWS is free, and there is no cost to 
+sending messages, Alerting Authorities must purchase the 
+IPAWS -compatible software to access the system.  Incident in Hawaii —After Alert Was 
+Sent  
+Immediately a fter the alert was sent, H I-EMA officials 
+spent time researc hing how to retract the message . HI-EMA 
+officials asked FEMA for clarification about whether they 
+could use IPAWS to rescind an alert .  FEMA stated that HI-
+EMA  did not need approval to retract the alert, that it had 
+authority to cancel or retract any time.  
+In a press conference several hours later, HI-EMA 
+confirmed that the release of the “FALSE ALARM”  was 
+delayed while they consulted FEMA on the retraction 
+policy and crafted the cancellation message.   HI-EMA also 
+confirmed that their alerting software allows for single -
+activation and verification of alerts.  HI -EMA has since 
+changed that protocol to require dual verification.  
+Some congressional policymakers  have called for hearings 
+on the incident, citing a need to review  federal -state-local 
+communications and response protocols during national 
+security incidents, and  request ing preparedness assistance. 
+The state legislature is also conducting hearings .  
+Issues  for Congress  
+Congressional hearings on the incident are planned . Issues 
+for consideration may include:   
+ How a re states prepared for disasters?  Congress may 
+hold hearings on the i ncident to learn about the issues 
+Hawaii  faced  (e.g., communications, trans portation, 
+public health and safety) ; what FEMA has done and is 
+doing to help states prepare for disaster ; how well states 
+feel they are  prepared for disasters; and what FEMA can 
+do to strengthen preparedness in all states.  
+ Are improvements t o the national alert  system needed?  
+Congress may wish  to request that FEMA/IPAWS 
+review the software endorsed for use with IPAWS to 
+ensure any features that could contribute to false alerts 
+are corrected; review training modules to ensure 
+cancellation procedure s are included; provide additional 
+training to states on cancellation protocols; and share 
+lessons learned from Hawaii with other IPAWS users.  
+ How may policymakers  improve alert  systems ?  The 
+system successfully delivered the alert, but provided 
+limited i nformation about what to do in response.  There 
+may be a need for the FCC, FEMA/IPAWS, and state 
+emergency managers to coordinate to improve alerts and 
+the delivery of f ollow -on in structions. T he FCC is 
+investigating the incident in Hawaii. Congress may wish 
+to ask the FCC to share its findings, to determine how 
+Congress may assist in improving alerts.  
+ How may policymakers improve coordination during 
+response?  Congress may review the findings from any 
+after-action reports or investigations of this incident  to 
+address any issues with communications, coordination , 
+and response among feder al, state, and local officials .   
+Jill C. Gallagher , Analyst in Telecommunications Policy    
+IF10816Emergency Alerting —False Alarm in Hawaii  
+https://crsreports.congress.gov  | IF10816  · VERSION 3 · NEW   
+ 
+Disclaimer  
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to 
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. 
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has 
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the 
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be 
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include 
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you 
+wish to copy or otherwise use copyrighted material.  
+ 

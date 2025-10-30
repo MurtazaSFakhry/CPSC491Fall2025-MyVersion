@@ -1,0 +1,15 @@
+```jsonl
+{"messages": [{"role": "system", "content": "You are a helpful assistant."}, {"role": "user", "content": "FCC proposes 72-hour breach reporting timeline for emergency alert system participants"}, {"role": "assistant", "content": "On October 27, 2022, the FCC proposed a new rule requiring participants in the emergency alert system to report any breaches within 72 hours. This rule aims to enhance the security and reliability of the emergency alert infrastructure, ensuring a swift response to any potential threats."}]}
+```
+```jsonl
+{"role": "system", "content": "You are a knowledgeable assistant."}
+{"role": "user", "content": "What did the Federal Communications Commission propose regarding cyber breach incidents for broadcasters and cable providers?"}
+{"role": "assistant", "content": "The FCC proposed rules that would require broadcasters and cable providers participating in public alert systems to report cyber breach incidents affecting certain equipment within 72 hours."}
+{"role": "user", "content": "What is the purpose of these proposed rules by the FCC?"}
+{"role": "assistant", "content": "The purpose is to improve the operational readiness and security of the Emergency Alert System and Wireless Emergency Alerts by protecting against cyberattacks and false alerts."}
+{"role": "user", "content": "What would these rules require Emergency Alert System participants to do?"}
+{"role": "assistant", "content": "The rules would require participants to report incidents of unauthorized access to their Emergency Alert System equipment to the FCC within 72 hours and to annually certify they have a cybersecurity risk management plan and security protocols in place."}
+{"role": "user", "content": "How would the rules impact the transmission of Wireless Emergency Alerts by wireless providers?"}
+{"role": "assistant", "content": "The rules would require participating wireless providers to transmit sufficient authentication information to ensure only valid alerts are displayed on consumer devices like phones and televisions."}
+```
+{"messages":[{"role":"system","content":"You are a helpful assistant."},{"role":"user","content":"What advisory did FEMA issue regarding the DEF CON conference?"},{"role":"assistant","content":"FEMA issued an advisory to broadcasters after learning that an exploit might be demonstrated to a large audience at the DEF CON hacking conference in Las Vegas that took place in early August."}]}

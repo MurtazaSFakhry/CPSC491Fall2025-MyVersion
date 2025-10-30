@@ -1,0 +1,219 @@
+ 
+https://crsreports.congress.gov  
+ 
+January 26, 2022
+Aviation Concerns Regarding the Rollout of 5G Wireless 
+Telecommunications Networks
+The rollout of fifth-generation (5G) wireless 
+telecommunications networks in the United States has 
+roiled passenger and cargo airlines and other aviation 
+operators over fears that certain mid-band or C-band 5G 
+signals could  interfere with aircraft radio altimeter s. These 
+concerns prompted the Federal Aviation Administration 
+(FAA)  to issue alerts to aircraft operators  in late 2021 about 
+possible flight safety risks . FAA asked aircraft operators  for 
+related data , urged them to educate pilots about potential 
+disruptions , and prohibited certain flight proc edures as a 
+safety precaution . At the urging of FAA, the Department of 
+Transportation, the White House,  and some Members of 
+Congress,  telecommunications companies agreed to 
+voluntarily delay the rollout of 5G service near airports , 
+originally scheduled for  early December 2021, until July 
+2022,  to avoid air travel disruptions . This will give FAA 
+and avionics equipment manufacturers additional time to 
+more thoroughly  assess whether C-band 5G signals might 
+interfere with flight operations  and whether equipment 
+upgrades or other mitigation actions will be  needed to 
+adequately shield aircra ft systems from 5G interference . 
+Radiofrequency Spectrum and 5G Signals  
+5G networks are being installed all around the world , but 
+are being assigned different frequency bands in different 
+countries. While low -band (below 1 gigahertz (GHz)) and 
+high-band (above 24 GHz) 5G frequencies are not the focus 
+of current concerns raised by FAA and aviation 
+stakeholders, the assignment of  C-band frequencies in the 
+range of roughly 3 to 5 GHz has alarmed the aviation 
+industry over potential interference with radio altimeters.  
+Europe has allocated spectrum between 3.4 and 3.8 GHz for  
+C-band  5G, while in Japan, frequencies from 3. 4 to 4.1 
+GHz  are assigned . In the  United States, the Federal 
+Communications Commission (FCC) approved use of 
+spectrum between 3.7 and 3.98 GHz for 5G in 2020, and 
+subsequently auctioned licenses in this band to 
+telecommunications providers . U.S. providers paid over 
+$81 billion for C -band l icenses , and are eager to launch 
+service in order to recoup these costs and realize a return o n 
+investment in  5G technology that will give wireless 
+customers faster data transmission speeds and greater 
+reliability than fourth -generation (4G) wireless service.  
+Potential Interference with Radio Altimeters  
+Worldwide, aviation operators have long used a slice of 
+radiofrequency spectrum between 4.2 GHz and 4.4 GHz 
+that is exclusively reserved for radio altimeters . These 
+devices, frequently installed on airliners, regional and 
+business jets , turboprops , advanced helicopters, and 
+military aircraft measure aircraft altitude above the ground 
+by timing how long  it take s for a directional radio 
+transmission  to reach the terrain  below and bounce  back to an onboard receiver . Radar altimeters provide input to  
+aircraft  terrain alerting systems  that provide pilots with 
+information and warnings about  terrain and obstacle 
+clearance. Radar altimeters also provide data to automated 
+flight control systems  used for vertical flight guidance at 
+low altitude, especially during approach to landing. While 
+airplanes can rely on other systems, including precision 
+instrument landing system s, to descend to about 200 feet 
+above the ground , radar  altimeters are essent ial to providing 
+vertical guidance below 200 feet in low -visibility 
+conditions when pilots are unable to clearly see the runway.  
+While such capabilities are essential for all -weather 
+commercial flight operations, radar altimeters are not 
+commonly found on small general aviation aircraft.  
+FAA, along with aviation regulators from other countries, 
+first raised concerns about wireless deployments in the C -
+band in 2015.  They cautioned that 5G signals transmitted 
+on nearby frequencies could potentially interfere with radio 
+altimeter s, particularly if high-powered 5G base stations are 
+placed  close to airport runways.  Although not required  by 
+regulation , most radio altimeters currently in use  have mask 
+filters to block signals on nearby frequencies  that could be 
+mistaken for reflected radio altimeter signals . However, i t is 
+uncertain whether these filters  will adequately block more 
+powerful 5G signals  in all cases . 
+A study by RTCA, an aviation industry technical advisory 
+group founded as the Radio Te chnical Commission for 
+Aeronautics, concluded  that expected interference levels 
+from fundamental 5G emissions in the 3.7 -3.98 GHz range 
+and spurious or stray 5G emissions that bleed over into the 
+4.2-4.4 GHz band were likely to exceed safe interference 
+limits for all envisioned 5G transmitter configurations 
+across all categories of airplanes and helicopters equipped 
+with radio altimeters. Moreover, it determined that stray 5G 
+emissions that might bleed over into the band reserved for 
+radio altimeters would not be considered compliant with 
+international recommendations for radiofrequency 
+protection criteria.  
+The FCC countered  that the RTCA  findings as sume a 
+worse -case scenario, and that alternative testing found  that 
+FCC -mandated  protections, including  limits on the strength 
+of 5G signals and 220 MHz of spectral separation  between 
+5G signals and radio  altimeter s, would  mitigate the 
+potential for interference. Further, the FCC argued that 
+properly engineered radio equipment should not be prone to 
+harmful interference  from 5G signals.  
+Near -Term M itigation Actions  
+Telecommunications  provider s voluntarily pushed back 5G 
+launch schedules from early December 2021 to J anuary Aviation Concerns Regarding the Rollout of 5G Wireless Telecommunications Networks  
+https://crsreports.congress.gov  2022 to provide FAA with additional time to address radio 
+altimeter interference concern s. As C-band 5G deployments 
+were slated to launch in early January 2022, FAA  initially 
+restrict ed the use of approach procedures and automated 
+landing system operations at 88 airports where  it 
+determine d that the presence of C -band 5G signals could 
+pose a risk of  radio altimeter interference. However , service  
+providers  subsequently  agreed  to voluntarily delay 
+activation of 5G transmitters located close to airports  until 
+July 5, 202 2, thus  creating temporary “buffer zones” around 
+airports during  the first si x months of the 5G rollout . If, 
+after this time,  FAA decides to restrict  certain flight 
+procedures due to lingering 5G concerns , aircraft operators 
+could  be forced to execute costly flight diversions  in poor 
+weather  or cancel flights  of aircraft using radio altimet ers 
+not approved by FAA for low -visibility approaches in the 
+presence of 5G. Despite agreements to create temporary 5G 
+buffer zones around U.S. airports, some airlines , including 
+some international airlines,  cance led flights and modified 
+service i n January 2022, apparently in response  to 
+continued uncertainty regard ing possible disruptions to low -
+visibility operations over 5G interference concerns . 
+Approaches in Other Countries  
+Other countries, including Canada, have initially restricted 
+the installation of 5G transmitters near airports. The 5G 
+rollout in Europe over the past three years has not generated 
+the same concerns from aviation, in part  because the 
+approved frequencies have greater separation from  radio 
+altimeter bands  than in the United States, reducing the 
+likelihood of interference.  Moreover, some European 
+countries , notably France,  have insisted that 
+telecommunications providers implement  additional  
+mitigation  measures to reduce potential confl icts between 
+5G signals and radio altimeters, including  restricting power 
+output of 5G towers , restricting placement of 5G antennas 
+in buffer zones near airports , and  requiring that 5G antennas 
+near airports be tilted downward to reduce the likelihood of 
+interference with flight operations (see Figure 1). 
+Figure 1. Comparing 5G Source Mitigation  in France 
+and the United States  
+ 
+Source: Federal Aviation Administration . 
+In Japan, where frequencies up to 4.1 GHz allocated for 5G 
+are even closer to radio altimeter frequencies than in the 
+United States, the government has restricted the placement 
+of 5G transmitters within 200 meters o f airport approach paths. In the United States, however, 5G providers have 
+been reluctant to agree to such measures , as they could 
+reduce the availability and quality of 5G service in areas 
+around airports. Moreover, reducing the power of these 5G 
+transmis sions could give competitors that do not rely on 
+these frequency bands a competitive advantage.  
+Potential Long -Range Resolution  
+It will ultimately be up to FAA to decide whether existing 
+radio altimeter systems adequately protect against 5G 
+interference or  if new replacement units that meet future 
+operational performance standards will be required. As of 
+late January 2022, FAA ha s provisionally approved roughly  
+90% of the U.S. commercial airline fleet equipped with 
+radio altimeters to conduct  low-visibility  landings at 
+airports with nearby 5G towers.  
+FAA is working with industry groups led by RTCA and its 
+Europe counterpart, the European Organization for Civil 
+Aviation Equipment  or EUROCAE , to develop minimum 
+operational performance standards for future radio 
+altimeters that will not be susceptible to potentially harmful 
+radiofrequency interference. Once these  standards are 
+established  and adopted by FAA , manufacturers can begin 
+to design, build, and supply units that are not prone to 
+potential  impacts from C-band 5G. Replacement of radio 
+altimeter s, however,  might prove costly to aircraft 
+operators , including the military . The airline  industry and 
+other  civilian  operators might ask for  federal relief if faced 
+with significant costs to upgrade radio altimeters.  
+The potential impacts of 5G are not limited  to operations 
+around airports.  Helicopters responding to medical 
+emergencies  also rely on radio altimeters whe n landing to 
+pick up pati ents. Citing the critical societal importance of 
+helicopter emergency medical operations, FAA has granted 
+temporary regulatory relief from  radio altimeter 
+requirements for medical helicopters  conducting night 
+vision goggle operations , so long as ground obs ervers 
+remain in radio contact with pilots to guide them regarding 
+terrain and obstacle clearance  around landing zones . This 
+exemption expire s in 2024, at which point medical 
+helicopters may also need upgraded  radio altimeters . 
+Lingering Policy Implication s 
+The ongoing concerns  over potential aviation safety 
+impacts from  the 5G rollout in the United States point to 
+broader concerns that may be of particular interest to 
+Congress . These include coordination between  FAA and the 
+National Telecommunications and Information 
+Administration , the federal agency that represents federal 
+agency spectrum concerns to the FCC; FAA’s relationship 
+with other regulatory agencies such as the FCC ; and FAA’s 
+ability to address complex challenges brought about by the 
+proliferatio n of wireless technologies and the rapidly 
+evolving technical  landscape  in which aviation must 
+operate.  
+Bart Elias , Specialist in Aviation Policy    
+IF12028
+  
+Aviation Concerns Re garding the Rollout of 5G Wireless Telecommunications Networks  
+https://crsreports.congress.gov  | IF12028  · VERSION 4 · NEW   
+ 
+Disclaimer  
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to 
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. 
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has 
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the 
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be 
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include 
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you 
+wish to copy or otherwise use copyrighted material.  
+ 

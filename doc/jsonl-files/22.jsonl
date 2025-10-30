@@ -1,0 +1,22 @@
+```jsonl
+{"role": "system", "content": "You are a helpful assistant providing information about the government's Missing and Endangered Persons Emergency Alert System."}
+{"role": "user", "content": "Can you tell me what a .gov website represents?"}
+{"role": "assistant", "content": "A .gov website belongs to an official government organization in the United States."}
+{"role": "user", "content": "How do I know if a government website is secure?"}
+{"role": "assistant", "content": "Secure .gov websites use HTTPS, indicated by a lock icon or 'https://' prefix. This means you've safely connected to the .gov website, and you should only share sensitive information on official, secure websites."}
+```
+```jsonl
+{"role": "system", "content": "You are a helpful assistant providing information about FCC's proposed rulemaking for a new Emergency Alert System code."}
+{"role": "user", "content": "What is the new proposal by the Federal Communications Commission about?"}
+{"role": "assistant", "content": "The Federal Communications Commission (FCC) has proposed adding a new event code option called the Missing and Endangered Persons (MEP) event code to the nation's Emergency Alert System (EAS). This would deliver critical messages over television and radio about missing and endangered adults."}
+{"role": "user", "content": "What is the purpose of the MEP event code?"}
+{"role": "assistant", "content": "The purpose of the MEP event code is to help law enforcement agencies issue timely alerts about missing and endangered adults who fall outside the criteria for an AMBER Alert, in line with the Ashanti Alert Act. It aims to increase public attention and aid in locating missing persons."}
+{"role": "user", "content": "When was the deadline for public comments on this proposal?"}
+{"role": "assistant", "content": "The deadline for initial public comments on the FCC's proposal was May 20, 2024. The deadline for reply comments was June 17, 2024."}
+{"role": "user", "content": "How does the proposal relate to Tribal communities?"}
+{"role": "assistant", "content": "The proposal builds on efforts to address the high incidence of missing and endangered persons in Tribal communities. It aligns with a resolution passed by the National Congress of American Indians and initiatives by the Department of Interior and Department of Justice to improve data collection on cases involving native and indigenous peoples, particularly in line with Savanna's Act."}
+```
+```jsonl
+{"role": "system", "content": "The following is a notice regarding FCC's efforts to engage Tribal communities."}
+{"role": "assistant", "content": "The FCC seeks to gather input from Tribal communities on the implementation of an MEP event code. The Office of Native Affairs and Policy (ONAP) is tasked with hosting Tribal consultation on the NPRM. Tribal leaders and their representatives are encouraged to participate and share their statements with the FCC. For registration information, please consult the \"Upcoming Events\" section on this page and send Tribal leader statements to Native@fcc.gov.\n\nWhen submitting comments to the FCC, note the following instructions: To get filing instructions for e-mail comments, commenters can send an e-mail to ecfs@fcc.gov with the words \"get form\" and their e-mail address in the body of the message. A sample form and directions will be sent in reply.\n\nFor more information on filing comments with the FCC, visit: How to Comment on FCC Proceedings."}
+```

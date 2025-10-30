@@ -1,0 +1,2237 @@
+This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+1 
+ RPTR DEAN  
+EDTR HUMKE  
+ 
+ THE FISCAL YEAR 2025 FEDERAL COMMUNICATIONS COMMISSION BUDGET  
+TUESDAY, JULY 9, 2024  
+House of Representatives,  
+Subcommittee on Communications  
+and Technology,  
+Committee on Energy and Commerce,  
+Washington, D.C.  
+   
+ 
+ 
+The subcommittee met, pursuant to notice, at 10:00 a.m., in Room 2123, Rayburn 
+House Office Building, Hon. Bob Latta [chairman of the subcommittee] presiding.  
+Present:  Representatives Latta, Carter, Bilirakis, Walberg, Curtis, Joyce, Allen, 
+Balderson, Fulcher, Pfluger, Harshbarger, Cammack, Obernolte, Rodgers (ex officio), 
+Matsui, Clarke, Veasey, Soto, Eshoo, Cardenas, Craig, Fletcher, Dingell, Kuster, Kelly, and 
+Tonko.  
+Staff Present:  Slate Herman, Counsel; Nate Hodson, Staff Director; Tara 
+Hupman, Chief Counsel; Noah Jackson, Clerk; Sean Kelly, Press Secretary; Emily King, This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+2 
+ Member Services Director; Giulia Leganski, Professional Staff Member; John Lin, Senior 
+Counsel; Kate O'Connor, Chief Counsel, Communications and Technology; Karli Plucker, 
+Director of Operations (WA- 05); Carla Rafael, Senior Staff Assistant; Jennifer Epperson, 
+Minority Chief Counsel, Communications and Technology; Waverly Gordon, Minority 
+Deputy Staff Director and General Counsel; Dan Miller, Minority Professional Staff Member; Sanjana Miryala, Minority Intern; Emma Roehrig, Minority Staff Assistant; Michael Scurato, Minority FCC Detailee; and Johanna Thomas, Minority Counsel, Communications and Technology.This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+3 
+  
+Mr. Latta.   Good morning.  The subcommittee will come to order.  And the 
+chair recognizes himself for an opening statement.  
+Good morning and welcome to today's oversight hearing of the Federal 
+Communications Commission.  This is the third time we have had the FCC before us this 
+Congress and I am pleased that we are maintaining a cadence of consistent oversight hearings.   
+I want to first by starting -- again to once again offer our condolences to the 
+chairwoman for the loss and passing of your father.  We hope that your memories of him have helped you cope during this very difficult time.  And although we can disagree on policy, we can come together to share each others' grief.  So on behalf of the committee we are very sorry on his passing.  
+The last time the FCC was before us we discussed its role in President Biden's 
+broadband takeover and its overregulation of the communications industry.  
+Unfortunately, the agency has continued down this path.   
+Earlier this year the FCC voted to reclassify broadband as a common carrier under 
+Title II of the Communications Act under the guise of net neutrality.  This action expands 
+the FCC's authority over broadband along agency to impose burdensome regulations that 
+will make it harder for proprietors to deploy broadband.   
+As I stated before, this action is absolutely unnecessary.  In 2017, after the FCC 
+reversed the Obama FCC's re -classification of broadband, the Democrats told the world 
+that we would get the internet one  word at a time and that the internet as we knew it 
+would end.  As we all know, none of these fears came true.  In fact, the day after the order was going in on rescinding it, I asked my office to keep track of how many of my This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+4 
+ constituents called in after the repeal to say they have lost their internet and I received 
+zero calls.   
+Instead, broadband networks thrived because of increased investment by private 
+companies that has led to higher speeds and lower prices.  Indeed our networks survived the automa test when they withstood increased usage as a result of COVID- 19 
+pandemic when almost every aspect of everyday life went online.  Contrast what happened in the United States to what happened in Europe where regulators had to ask websites like YouTube and Netflix to throttle and degrade services to withstand the 
+increased demand.   
+At our last hearing, the chairwoman attributed our successes to States enacting 
+their own net neutrality policies, that couldn't be further from the truth.  The internet 
+continued to function normally between the repeal and the States enacting their own 
+laws.  Only a few States enacted and none enacted anything close to utility -style 
+regulations that the FCC repealed and is now reimposing.  The true source of success for 
+our networks is the light -touch regulatory framework that the FCC just moved away from.  
+This action is just one of the many taken by the FCC to hinder U.S. leadership and 
+technology.  The affect of these decisions is that deploying broadband and providing service will be more challenging for providers.   
+These actions could not come at a worse time, Congress has provided $42.5  billion 
+to close the digital divide to the Commission is undermining that effort by imposing 
+regulations that will make it more expensive and more burdensome to deploy.  They 
+should be doing the opposite.  I urge the FCC to reverse course and restore the light -touch regulatory environment that allowed broadband investment to thrive.   
+I have many questions about the direction the Commission is taking.  I thank the This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+5 
+ commissioners for being here today and I look forward to discussing this and these other 
+very important questions that will before the Commission.   
+And I will yield back the balance of my time.  I now recognize the ranking 
+member of the subcommittee, my colleague, the gentlelady from California's Seventh District for an opening statement.  
+[The prepared statement of Mr. Latta follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+6 
+  
+Ms. Matsui.   Thank you, Mr. Chairman.   
+And Madam Chairwoman, I too often my deepest condolences upon your loss.   
+Today's hearing comes at a critical moment as the FCC must tackle challenges with 
+far reaching impacts on U.S. consumers and competitiveness.  I am glad that this FCC 
+has taken needed steps to expand broadband connectivity, deliver on net neutrality and strengthen cybersecurity among other urgent priorities.  I am especially excited about the FCC's recently announced cybersecurity pilot program for schools and libraries.   
+Cyber attacks on our schools are only growing in frequency and sophistication.  
+From 2016 to 2022 alone our K -12 schools suffered over 1,600 cyber attacks.  According 
+to the GAO, every cyber attack at high schools districts cost tens of thousands and even up to millions of dollars.  That is why I introduced Enhancing K -12 Cybersecurity Act to 
+improve school access to cybersecurity resources and nationwide tracking of K -12 cyber 
+attacks.   
+That is also why I have long urged the FCC to modernize cyber tools for schools by 
+adopting a pilot program.  The FCC has taken a positive step toward improving K -12 
+cybersecurity and I look forward to continuing to work with you on this issue.  
+Whether this is cybersecurity or other challenges, we know we have more work 
+ahead of us.  As a subcommittee we should be building up the FCC's ability to protect consumers and oversee our networks.  The stakes are simply too high for Congress to 
+undermine the FCC's progress.  That is why this subcommittee and Congress must push 
+forward on the unfinished work before us and fully empower the FCC to do its job.   
+First, millions of American families are counting on Congress to keep them 
+connected.  Yet as of last month, the Affordable Connectivity Program ran out of funds.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+7 
+ That means more than 23 million households nationwide have lost the support they need 
+to access affordable, high- quality broadband.   
+The end of the ACP puts our low- income families at risk.  According to an FCC 
+survey over two -thirds of ACP households reported having inconsistent or zero 
+connectivity before ACP.  We can't afford to take a leap backwards and request to close the digital divide.  That is why I and more than half of the House support the ACP Extension Act.  Similarly, we can't afford to leave unsecured Chinese gear in our communications networks.  Congress must resolve the funding shortfall for the Rip and 
+Replace Program to ensure we can remove every piece of vulnerable equipment from 
+American networks.   
+Earlier this month, the FCC reported that nearly 40  percent of Rip and Replace 
+funding with recipients said they can't finish replacement work without full funding for the program.  These providers are at risk of shutting down their networks or withdrawing from the Rip and Replace Program.  This is unacceptable.  We must act to 
+curb this risk to our consumers and national security.  I am committed to keeping ACP 
+and Rip and Replace funded.  Let's work together to ensure these critical bipartisan programs do not fall by the wayside.  
+And finally, I want to briefly discuss another urgent matter, renewing the FCC's 
+spectrum option authority.  I know I am not the only member of the subcommittee frustrated by how more than a year later the FCC is still ham stringed in its ability to drive 
+innovation through a healthy spectrum pipeline.  At a time when the FCC is renewing 
+focus on 6G and other innovative technologies that rely on spectrum, we can't afford delay.  We need the FCC fully empowered with option authority and the Federal Government working to advance a unified U.S. spectrum position on the global stage.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+8 
+ With that, I want to thank the chairwoman and commissioners for appearing 
+before us today and I yield the balance of my time.  
+[The prepared statement of Ms. Matsui follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+9 
+  
+Mr. Latta.   Thank you.  The gentlelady yields back.  The chair now recognizes 
+for 5  minutes the ranking member --  the chair of the full committee.  
+The Chair.   I would be the chair.  I am still the chair.  
+Mr. Latta.   No, I am sorry.  I was just thinking that I have to recognize the 
+gentlelady from Michigan because the ranking member is not here.  Sorry about that.  
+But the chair of the full committee, the gentlelady from Washington for 5  minutes.  
+The Chair.   Good morning thank you Chairman Latta, chairwomen, 
+commissioners welcome back.  Bridging the digital divide is one of this committee's top priorities and it is the FTC's statutory responsibility to assist us in that effort.  But unfortunately, the FCC has been failing in its mission.  The commission's recent action to reclassify broadband internet access as a public utility under Title II of the Communications Act, as well as the agency's broad rules on digital discrimination have undermined our efforts to ensure every American has access to broadband.   
+This could not come at a worse time.  We are on the verge of closing the digital 
+divide.  Congress has dedicated billions of dollars to achieve this effort, including $42 billion for the Broadband Equity Access and Deployment Program at the National Telecommunications and Information Agency.  Those efforts are undercut when the Commission then places every handed regulations and micromanages providers, making it harder to encourage participation in these programs to deploy and operate new 
+networks and get more people connected.   
+As has already been proven once, Title II is a solution in search of a problem.  It is 
+a century -old framework designed it address telephone monopolies, whereas today's 
+broadband marketplace is incredibly competitive.  These regulations will hurt This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+10 
+ consumers most, resulting in higher prices and slower internet speeds.   
+The FCC has failed to learn from previous efforts and has no legitimate jurisdiction 
+for these heavy handed regulations.   
+The talking points that these regulations protect consumers from harmful ISP 
+practices are not rooted in fact and have already been disproven once by the incredible 
+performance of our networks, especially in the wake of the COVID -19 pandemic.   
+The facts are that speeds are up, investment and broadband networks is up, and 
+prices for consumers are down.  The fast lanes blocking and throttling the traffic that 
+Democrats warned about never transpired.  Our light -touch regulatory environment 
+works.  And turning away from this success with unnecessary regulations is wrongful 
+action.   
+Reclassifying broadband under Title II is not only bad policy, it is also unlawful.  
+As the Republicans on this committee and the Senate commerce committee wrote to the Commission before its decision.  The FCC has no authority to reclassify broadband.  
+That is Congress' job, as the Supreme Court recently confirmed.   
+The FCC doesn't get to just claim something is necessary for American national 
+security in order to do whatever they want.  That is for Congress decide, as it has in 
+numerous instances recently with things like our TikTok legislation establishing the Rip and Replace Program and passing the Secure Equipment Act.  The decision on how to regulate broadband can have significant economic and political consequences requires 
+the FCC to have clear authorization from Congress in order to act.   
+When it comes to Title II, we have given the Commission no such authority.  This 
+is not the first time this FCC has exceeded their authority.  Last December the agency 
+approved rules on data breach notification.  That mirrors the rule that Congress This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+11 
+ disapproved of in 2017 through the Congressional Review Act procedures.  The CRA 
+forbids the FCC from enacting rules that are substantially the same as those Congress 
+rejected.  And now the FCC has circulated an order that would regulate the use of 
+artificial intelligence in political ads.  A task that does not fall under the jurisdiction of the Commission which drew condemnation from the Federal Election Commission, the independent agency who does hold that authority.  This pattern of the FCC abusing its authority and ignoring congressional direction is just another example of the Biden administration's efforts to assert more Federal control over the American people's lives.  
+This must end and I look forward to the courts stepping in to he overturn these unlawful 
+power grabs.  This agency is pursuing a partisan agenda that ignores Congress and fails to solve the actual problems impacting Americans like illegal robocalls or permitting 
+reform to help deploy broadband faster or additional ways to secure our networks from the threats posed by our adversaries.   
+Today's hearing presents an opportunity to hold the FCC accountable for its 
+actions.  I look forward it our discussion.  Mr. Chairman, I yield back.  
+[The prepared statement of The Chair follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+12 
+  
+Mr. Latta.   Thank you very much.  The chair yields back the balance of her time.   
+The chair now recognizes the gentlelady from Michigan's Sixth District for an 
+opening statement for 5  minutes.  
+Mrs. Dingell.   Thank you, Mr.  Chair.  I am giving the Ranking Member Pallone's 
+opening statement today.   
+We are here today conducting important oversight of the Federal 
+Communications Commission and its budget for the upcoming year.  We commend the 
+FCC under the leadership of chairwoman Rosenworcel for putting the American people at 
+the heart of every decision it has made over the last 3  years.   
+The FCC has consistently prioritized work to protect consumers, promote public 
+safety and enhance national security in our communications sector, leading the way towards a digital future that is safe and secure for all Americans.  Nowhere has this been more apparent than in the FCC's adoption of a net neutrality protections.  This action 
+corrected the Trump era FCC's misguided rollback of commonsense rules for an open 
+internet.  We strongly support the reinstatement of this authority.  The agency rectified a massive dereliction of its duty and extended bedrock consumer protections to broadband internet access that our Nation has always applied to communication services.   
+The FCC's actions will result in greater oversight over internet providers to 
+mitigate network outages, resolve broadband consumer complaints, prevent 
+anti-consumer and anti -competitive practices and protect our national security.  
+The FCC is also playing a major role in the implementation of the broadband 
+investments President Biden and congressional Democrats delivered as part of Bipartisan Infrastructure Law.  In May, the FCC released its fourth major update to the National This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+13 
+ Broadband Map which serves as the backbone the historic $42 billion investment to bring 
+high speed, affordable broadband to communities overlooked for too long.  Not one 
+Republican on this subcommittee voted in favor of that bill and yet they continue to 
+attack it and jeopardize its success at every opportunity.   
+We are also likely to hear today attacks from Republican commissioners against 
+the implementation of the BEAD program.  These attacks fail to recognize that this is the largest investment in broadband deployment in our Nation's history.  And we want to make sure that we get it right.  I would think we would all agree with that.  These 
+attacks are only going to hurt communities throughout the entire Nation that have either 
+been unserved or underserved for too long.   
+As part of the Bipartisan Infrastructure Law, we also created the Affordable 
+Connectivity Program, which has made broadband more affordable for 23 million American families.  I commend the FCC for successfully implementing this program and working to get eligible families signed up.   
+Unfortunately, House Republican leadership allowed the program to lapse last 
+month, leaving all of these families with the very difficult decision of paying higher internet bills every month and many of them can't afford it, pure and simple, can't afford it or they lose the service all together.  Extending the popular Affordable Connectivity Program should be something that Democrats and Republicans can agree on.  After all, it benefits red and blue districts alike and I look forward someday to us going back to just 
+being Americans, including rural, urban and suburban communities.   
+I would also like to commend the chairwoman for recently proposing that any 
+political ads containing content generated using artificial intelligence must disclose that 
+fact.  This approached requirement will help viewers better understand how political This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+14 
+ campaigns are attempting to influence them.   
+We appreciate the chairwoman's efforts on the subject and will continue to 
+support efforts to increase transparency around campaign ads and the use of AI finally.   
+Finally, there is increasing concern about extreme and Republican efforts to 
+destroy agencies like the FCC and the important role it plays on behalf of the public in 
+overseeing critical services like our communication networks.  These Republican attacks against our Federal agencies would be devastating for consumers and would only help powerful companies to increase their profits even more.  Trump's Project 2025 plan, 
+authored in part by a Republican commissioner before us today would exasperate these 
+consumer harms by eliminating expert agencies, gutting the civil service and consolidating power under the President.  This will have serious negative consequences for 
+Americans, leading to higher prices, lower quality services and decreased safety and security.  We simply cannot allow that to happen.  So I appreciate the FCC's work in protecting American consumers and I thank the commissioners for being here today.  
+Since I have almost no time left, I yield back the balance of it.  Thank you, Mr. Chairman.  
+[The prepared statement of Mrs. Dingell follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+15 
+  
+Mr. Latta.   Thank you.  The gentlelady's time has expired.  And this will 
+conclude member opening statements.   
+The chair reminds members that pursuant to committee rules, all members' 
+opening statements will be made part of the record.   
+Again, we want to thank our witnesses for appearing before us today.  Our 
+witnesses will have 5  minutes providing an opening statement which will be followed by a 
+round of questions from our members.   
+The witnesses here before us today are Jessica Rosenworcel, the chairman of the 
+FCC, Brendan Carr, the commissioner FCC, Geoffrey Starks, commissioner FCC, Nathan 
+Simington, commissioner FCC and Anna Gomez, commissioner FCC.  I know for our witnesses that the timer light on the table will turn yellow when you have 1  minute 
+remaining, it will turn red when he your time has expired.   
+Chairwoman Rosenworcel, you are recognized for 5  minutes for your opening 
+statement and thank you for being here.This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+16 
+  
+STATEMENTS OF JESSICA ROSENWORCEL, CHAIRMAN, FCC; BRENDAN CARR, 
+COMMISSIONER, FCC; GEOFFREY STARKS, COMMISSIONER, FCC; NATHAN SIMINGTON, 
+COMMISSIONER, FCC; AND ANNA GOMEZ, COMMISSIONER, FCC  
+ STATEMENT OF JESSICA ROSENWORCEL  
+ 
+Ms. Rosenworcel.   Chair Latta, Ranking Member Matsui, and members of the 
+subcommittee, thank you for the opportunity to appear before you to discuss our budget effort, and effort to build a digital future that works for everyone.   
+Since I appeared before you last year a lot has happened at the FCC.  Let me start 
+with this, we won an Emmy.  The academy honored the FCC for its work repurposing broadcast airwaves for new wireless uses.  I am going to bet that makes us unique among agencies in Washington.  We are also unique because we get a lot done.   
+So beyond the bright lights and red carpet let me tell you about it.  First, the FCC 
+is working to connect everyone everywhere.  We built the Affordable Connectivity Program, the largest broadband affordability effort in our Nation's history, 23 million households rely on it, but funding expired in May and we need Congress to continue it.   
+Second, the FCC is working to protect consumers and enhance competition.  In 
+April we took steps to ensure that the Nation's expert communications authority has 
+basic oversight over the most essential communications of our time by reinstating net 
+neutrality because every consumer deserves internet access that a fast, open and fair.   
+We introduced new broadband nutrition labels so consumers can compare service 
+plans.  We launched the U.S. Cyber Trust Mark so consumers have confidence Internet This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+17 
+ of Things devices.  And next week we are voting on a proposal to unlock wireless phones 
+because you bought the phone, you should be able to use it with any carrier you choose.   
+Third, the FCC created the National Broadband Map, this map is the most accurate 
+data we have telling us where broadband is and is not.  We need funding for the Broadband DATA Act to continue because this map is how we ensure accountability for all new broadband spending.   
+Fourth, the FCC is making connectivity more accessible.  Last year we kicked off a 
+proceeding to make video conferencing services accessible to people with disabilities.  
+We also improved wireless emergency alerts, making them available in more than a 
+dozen languages.   
+Fifth, the FCC is working to connect the most vulnerable.  We implemented the 
+Safe Connections Act helping survivors of domestic violence get secure communications they need.  And we proposed to add a new missing and endangered persons code for emergency alerts so we can help save more lives, especially in Tribal communities.   
+Sixth, the FCC is connecting families.  Next week we will vote to implement the 
+Martha Wright -Reed Just and Reasonable Communications Act which will significantly 
+lower rates for phone calls for those who are incarcerated and their kin.   
+Seventh, the FCC securing your communications.  For the first time in history we 
+are have revoked the authorization to provide telecommunication services in the United States for four Chinese companies.  This action will soon include broadband and not just 
+voice service.   
+In May, we proposed plans to mitigate internet routing vulnerabilities identified 
+by DOJ, DHS and DOD.  On top of this, we continue to work to remove Huawei and ZTE 
+equipment in our networks.  But without more funding, carriers may not be able to This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+18 
+ complete the process, threatening national security and risking the shut down of rural 
+networks.   
+Eighth, the FCC is doubling down on efforts to stop scam robocalls and rotexts.  
+We made clear that AI generated robocalls are illegal, issued hundreds of millions of dollars in fines and are now working with 49 State Attorneys General to get this junk off the line.  But we need more authority from Congress to keep these scam artists at bay.   
+Ninth, the FCC is supporting the growing space economy.  There is been a huge 
+increase in the number and complexity of applications for satellite services.  In response 
+we created the Space Bureau, streamlined satellite processing, freed spectrum for 
+commercial space launches and established a first of its kind in the world framework for the coming convergence of satellite and terrestrial services, we call it the single network 
+future.   
+And last but not least, the FCC is working to free up more spectrum for 5G, 6G and 
+beyond.  But to do this, we need Congress to restore the agency's action authority.  For 
+the first time in 3  decades we do not have it.  Restoring this authority will provide the 
+United States with the strongest foundation to compete in a global economy, counter our 
+adversaries technology ambitions and safeguard our national security.   
+And using this authority we won and Emmy award, bring it back and let's see what 
+we can do with it next.   
+So those are some of things that the FCC is doing to build a digital future that 
+works for everyone.  I look forward to answering any questions you may have.  
+[The prepared statement of Ms. Rosenworcel follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+19 
+  
+Mr. Latta.   Well, thank you very much for your testimony.  
+Commissioner Carr, you are recognized for 5 minutes for an opening statement.  
+ 
+STATEMENT OF BRENDAN CARR   
+ 
+Mr. Carr.   Thanks.  Chair Latta, Ranking Member Matsui, and members of the 
+subcommittee, thank you for the invitation to testify.  I want to start with the subject of 
+today's hearing, the FCC's 2025 budget request.  As I detailed in testimony, I do not 
+support the FCC's request for a nearly 15  percent increase in its budget.  This significant 
+increase is out of line with agency precedent and out of step with the House's focus on reining in spending.   
+More broadly, though, the FCC's request reflects the Biden administration's 
+misplaced priorities and a massive regulatory overreach.  
+One area where you can see this is the Biden administration's $42 billion internet 
+infrastructure plan known as BEAD which puts partisan political goals ahead of smart policy.   
+BEAD is the administration's signature plan for extending high speed internet to 
+millions of Americans.  And it is a program that is going off the rails.  It has now been 967 days since President Biden signed his $42 billion plan into law.   
+967 days later, not one person has been connected to the internet with those 
+dollars, not even one shovel worth of dirt has been turned in those 967  days.  And it 
+gets worse.  The administration says no construction projects will even start until next year at the earliest.  This makes President Biden's signature $42 billion initiative the This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+20 
+ slowest moving broadband deployment program in recent history.   
+The Biden administration's failure to launch is not only predictable it was 
+predicted.  Members of Congress 2  years ago wrote the administration and explained 
+that its own decisions would create a complex, nine step, iterative structure review 
+process that is likely to mire the program in excessive bureaucracy and delay connecting Americans.  A year later members again explain that the administration's rules divert resources away from bringing broadband service to rural America.   
+So what has the Biden administration been doing in those 967  days instead of 
+connecting Americans?  It has been layering on red tape in advancing a wish list of progressive policy goals.  The administration is using this program to pursue a climate change agenda, DEI requirements, technology biases, price controls and preferences for 
+government -run networks.   
+None of this has do with quickly connecting Americans.  And it is not to say that 
+there aren't broadband bills underway today with dollars the Biden administration has 
+made available, but those other initiatives have their own sets of problems from lack of 
+coordination to spending dollars on the penny.   
+One example, in 2020 the FCC secured a commitment from Starlink to provide 
+high speed internet to over 640,000 locations for about $1,300 per location in Federal support, but the government revoked that award in 2022.  The Biden administration is now spending orders of magnitude more in Federal taxpayer dollars to connect locations 
+through its own initiatives.   
+The administration's $42 billion BEAD initiative isn't the only instance of regulatory 
+overreach that merits this subcommittee's attention.  There are growing set of FCC 
+decisions that plainly deviate from the laws that you hear in Congress have passed.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+21 
+ The Supreme Court's decision in Loper Bright only underscores the need for the 
+FCC to change course in a very fundamental way.  That should start with the FCC 
+abandoning its unlawful plan to regulate political speech on the eve of a national election.   
+This effort which echoes a DNC -backed initiative at the FEC would impose new 
+regulations on AI -generated political speech, just before voters hit the ballot boxes this 
+fall.  I oppose it.   
+The FCC should also withdraw its decision to vote on a WiFi hotspot order, as well 
+as its proposal to regulate bulk billing, which could only raise prices for Americans that live in apartments, condos and public housing.  At bottom, the FCC needs to get back to 
+our core mission, closing the digital divide.  That means freeing up spectrum in modernizing our infrastructure rules.  It is time to correct course.   
+In closing, I want to thank you again for the opportunity to testify.  I look forward 
+your questions.  
+[The prepared statement of Mr. Carr follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+22 
+  
+Mr. Latta.   Thank you very much.  
+Mr. Starks, you are recognized for 5  minutes.   
+Mr. Starks.   Thank you, Chairman Latta, Ranking Member Matsui, members of 
+the subcommittee.  Thank you for the opportunity to appear before you here today.   
+One of my highest priorities as a commissioner has been to connect all Americans 
+everywhere to high -quality broadband regardless of where they live or how much money 
+that they make.  And on this front I cannot overstate the importance of the Affordable 
+Connectivity Program for the over 23 American households that relied on this program it 
+offered them a critical opportunity to get and stay connected.  
+I think about Paul, a senior that I met in Illinois in February, he told me that his 
+internet connection was  "like air."  And that is the reality of how vital broadband is to 
+Americans today.   
+I think about Ron, a veteran who utilized his internet connection to contact the VA 
+hospitals to set up medical appointment, more importantly to attend virtual meetings where he said he could share his experience with PTSD to help empower other veterans like himself.   
+I think about my visit to Fort Wayne, Indiana and about the families that I heard 
+from there who relied on ACP to keep their children from falling behind in school.  I 
+remember my friend Debra who asked me if she was going to have to eat less food when 
+ACP went away because she would still need the internet.  It was letter link to her family 
+and to her church that was otherwise many hours away.  Seniors, veterans, vulnerable families in rural areas, Tribal lands, urban spaces and everything in between, these are the stories of ACP and people that I know.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+23 
+ So let me be clear.  ACP is the most effective program we have had in helping 
+low-income Americans get online and stay connected.  In fact in my opinion, it's been 
+the most successful program ever and our decade's long bipartisan effort to solve the 
+digital divide.   
+We have made real progress in closing that digital device through ACP and he can 
+we cannot afford to let it slide backwards.  And so I look forward to working with those of you on this committee as you reconsider funding this critical program.  Making sure that broadband is affordable is just 1  piece of puzzle.   
+We also need to make sure that it was safe and secure so in April we reclassified 
+broadband internet access  under Title II of the Communications Act, a service that vitally 
+needs oversight.   
+I remain concerned as well about the threats to our Nation's networks, but I am 
+confident that the FCC's recent bipartisan actions will help protect them.  Just last month the Commission unanimously approved a proposal to require ISPs to adopt 
+security risk management plans for their use of border gateway protocol and this will help 
+Americans' data and make sure it is securely and accurately routed.  In addition, we must prioritize fully funding our Rip and Replace Program.   
+We have made great progress here, but additional funding is absolutely needed to 
+complete the removal replacement and destruction of insecure Chinese equipment and services from our communication networks.  Without this funding, providers in rural 
+America, including those that support our military installations, are perilously close to 
+being shut down.   
+While participating in the Rip and Replace Program they cannot update or 
+maintain their legacy networks and they need our help.  Network threats including from This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+24 
+ state actors like Russia and China are not hypothetical.  America's ability to lead both 
+abroad and here at home relies on an extension of the FCC's spectrum action authority.   
+And restoring that authority will provide the United States with the strongest 
+foundation to compete in a global economy, Tribe growth and investment, enhance competition and ensure national security.   
+One of the most visible ways we promote safety and security comes by the FCC 
+supporting and improving our emergency alert system today.  We are of course watching Hurricane Beryl storm through Texas and Arkansas.  We have also seen historic 
+flooding in the Midwest.  I was in Midwest a few weeks ago and saw flooding in South 
+Dakota, saw flooding in Iowa.   
+It is essential that Americans receive, understand and act upon an emergency 
+immediately.  And that is why we are requiring wireless providers to support alerts in over a dozen languages.  
+One of the agency's chief missions is also protecting consumers.  The Cyber Trust 
+Mark a great advancement here, as well as the junk fee initiatives that the agency has undertaken.   
+Thank you for the opportunity to discuss these and more.  I look forward to your 
+questions.  
+[The prepared statement of Mr. Starks follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+25 
+  
+Mr. Latta.   Thank you for your testimony.  
+And commissioner Simington you are recognized for 5  minutes for your opening 
+statement.  
+ 
+STATEMENT OF NATHAN SIMINGTON   
+ 
+Mr. Simington.   Thank you.  Chairman Latta, Ranking Member Matsui, and 
+distinguished members of the subcommittee it is a privilege to appear before you today.   
+Today I would like to address what I believe is one of the most pressing priorities 
+for the Commission, securing wireless and Internet of Things devices in the face of the 
+accelerating move from a single internet and technology market were fragmented along national borders due to concerns about digital sovereignty, specifically threats to the United States from China.  Device security and technology evolution implicates all of the 
+commission's core functions at a basic level, most specifically its authority over 
+commercial spectrum.   
+However, before I highlight these concerns, I must again express my frustration 
+with the direction that the Commission has taken in dedicating its limited resources to implementation of partisan unnecessary and burdensome policy frameworks like the Title II broadband and digital discrimination regulatory regimes.  These heavy handed 
+priorities leave little room for common sense urgently needed reforms and soak up 
+invaluable commission attention.  Such reforms include not only a comprehensive framework for securing our networks with threats which I will address in detail, but also a 
+universal service fund contribution's overhaul and it continued focus on space leadership.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+26 
+ But now to device security, there was a lot of idealism in the early days of the 
+internet.  There was the universal open network where people from around the world 
+could exchange services and ideas basically without restrictions.  There were no borders 
+online.  If you put up a website in the United States, someone in any other country could access it just a well, perhaps a bit more slowly, but it acts just as well as someone in the United States.  Across the world people were using the same devices, running the same software, usually with no modification and a local translation of the user interface.  But today we have seen that there is potential for foreign technology devices and services to 
+be vehicle for espionage and sabotage.  We really cannot be sure that any non trivial 
+device from China, be it a network router, a laptop, a cell phone can be trusted to not contain backdoors that would allow the Chinese government to exfiltrate data, take 
+control of the device or render it inoperative.  But those same concerns must ultimately extend to any services that store data about Americans in adversary countries or countries and companies that could easily come under the influence of those adversaries.   
+Even the most seemingly benign use of foreign technology can become a security 
+threat.  GPS developed and controlled by the U.S. military was once the only satellite -based global positioning and precision timing system in the world.  But now it 
+faces competition from foreign alternatives like the EU's Galileo, Russia’s Glonass and China's BeiDou.  Supporting those systems there are sometimes a requirement for device manufacturers wishing to sell in those countries.   
+So between achieving economies of scale from manufacturers in all markets and 
+the fact that these positioning systems currently offer higher precision in some cases than the American GPS system.  It appears that many American businesses and consumers are knowingly or unknowingly relying on these foreign systems.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+27 
+ And what is worse, American businesses and consumers often make the decision 
+most likely unknowingly to buy untrustworthy equipment from a Chinese or other foreign 
+company because the equipment is inexpensive or preselected by a preferred and trusted 
+vendor.   
+Unfortunately most of these products come from companies that fail to take 
+security seriously and that are careless in their software development practices.  How many of these routinely failed to correct known security vulnerabilities in a timely manner and many of don't even take the most basis precautions to prevent unauthorized 
+access and control of the now millions of wireless IoT devices they make available to 
+American consumers and businesses.   
+Given all of these increasingly burgeoning threats, I am very pleased that in March 
+of this year my Commission colleagues were willing to reach across the aisle and work diligently alongside me to put teeth into the commission's implementation of the U.S. Cyber Trust Mark program.  This voluntary program sets a high bar for the security of 
+wireless devices.   
+If manufacturers want to be eligible for the mark, they will have to declare that 
+they have taken every reasonable measure to create a secure device.  They will have to 
+commit to support period up front.  During that support period they will have to diligently identify critical vulnerabilities in their products and promptly release updates correcting them.  I look forward to continuing to work with colleagues to figure out how 
+to expand this program to computers, smartphones, routers and other devices.   
+My commission colleagues also agreed to include a further notice of proposed 
+rulemaking on the issue of how to handle devices that were software developed in hostile 
+countries that will receive updates deployed from or that can be controlled by servers in This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+28 
+ such countries or that will store user data in those countries.  Such devices at high risk of 
+being weaponized by hostile powers like China.  And as a result, there is still so much 
+more work to be done to protect the American public.  
+Chairman Latta, vice chair Carter, Ranking Member Matsui and members of the 
+subcommittee, I want to thank you again for holding this hearing and for the opportunity 
+to testify.  And I look forward to answering your questions.  
+[The prepared statement of Mr. Simington follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+29 
+  
+Mr. Latta.   Thank you for your testimony.   
+Commissioner Gomez, you are recognized for 5  minutes for your opening 
+statement.  
+ 
+STATEMENT OF ANNA GOMEZ   
+ 
+Ms. Gomez.   Thank you.  Good morning, Chair Latta, Ranking Member Matsui, 
+and members of the subcommittee.  It is an honor to appear before you today.   
+In the past 9  months, I have had the privilege of traveling across the country to 
+meet with consumers, industry leaders, advocacy groups and local elected officials 
+figures.  These meetings highlighted the importance of communication services in daily life and the FCC's mission to ensure these services are accessible to everyone.   
+We know that high speed internet service is no longer a luxury but a necessity.  
+During a visit to the Orlando Veterans' Affairs Medical Center I learned that 80  percent of 
+medical treatments veterans use for recovery required a broadband connection.  A veteran from Paralyzed Veterans of America told me that connectivity is essential for veterans, particularly veterans with disabilities to obtain healthcare, job opportunities and VA benefits.   
+The importance of digital connectivity in the daily lives of Americans is what 
+makes the funding lapse of the bipartisan Affordable Connectivity Program so concerning.  As of June  1 when funding lapsed, 23 million households across the United States lost 
+support for the connectivity they need for work, school and healthcare.   
+While some internet service providers have voluntarily stepped up to provide This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+30 
+ limited free or lower cost service, these are temporary salves.  And absence action 
+families will face rising bills and disconnections.  I very much empathize because I have 
+lived experience with having to choose between paying rent and paying my phone bill.  
+The ACP is e most successful tool Congress has ever provided to close the digital 
+divide.  The ACP benefited every corner of the country and it connected communities 
+historically on the wrong side of the digital divide.  The end of this program threatens the significant progress.  And I worry that we risk failing to maximize the billions in bipartisan investment in broadband infrastructure.   
+Beyond connectivity, I would like to highlight a few noteworthy consumer -focused 
+actions that the Commission has taken recently.  We now require that wireless emergency alerts reach consumers in 13 languages and American Sign Language.  This 
+will help save lives.   
+We also proposed to establish a new emergency alert code dedicated to help find 
+missing adults that would not be reported though existing alerts.  This can bring comfort 
+to families by helping to find missing loved ones and to address the crisis of missing and 
+murdered indigenous persons, a topic I discussed with the Las Vegas Paiute Tribe recently.   
+We have also implemented Congress's direction the Safe Connections Act by 
+requiring mobile phone providers to separate the line of a domestic abuse survivor from that of their abuser.  And we continue to tax actions to address unwanted robocalls and 
+robotexts.  And the Commission reinstated rules to protect the open internet.  
+Broadband internet access is too important, too essential to the safety, economy, health, education and well- being of this country not to have guardrails in place.   
+From robocalls to spectrum licenses much of our work domestically is tied to our This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+31 
+ work internationally.  As commissioner I have met with multiple counterparts around 
+the world.  From these engagements it is clear that the thirst for wireless innovation is 
+global.  With have been global leaders in wireless innovation and made spectrum 
+options the gold standard for assigning this finite resource.  We must continue to foster innovation to meet our wireless needs and that requires congressional action to reestablish the FCC's action authority.   
+The conversations I have had over the last 9  months have given me a greater 
+appreciation for the critical role the Commission plays in the lives of Americans.  I want 
+to read you a message I received from a young mother.  I am writing to you as a mother 
+of two that really depends on having internet on the ACP to be able to work, to find work and to educate them.  I know it is asking a lot for you to consider keeping this try to find 
+funding for it.  I don't have much to my name.   
+Everything I have is negative standings right now.  If you can manage to find a 
+way or maybe change somebody's mind so that the funding doesn't end.  When I think 
+about the mission of FCC, I think about what is at stake for Americans like this young 
+mother.  There remains much work to do.  And I am honored to have the opportunity to serve the people of the United States.   
+I look forward to collaborating with you, Federal partners, State, local and Tribal 
+leaders and all stakeholders as I continue my service.  
+Thank you.  
+[The prepared statement of Ms. Gomez follows:]  
+ 
+******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+32 
+  
+Mr. Latta.   And thank you very much for your statement.  That will conclude our 
+opening statements from our five commissioners.   
+And we will now begin questioning and I recognize myself for 5  minutes.  I would 
+like to ask unanimous consent for a point of personal privilege to recognize the former 
+chair of full committee, Mr.  Walden.  Good having you back.  We never forget you.  
+Commissioner Carr, this Democratic commission has unfortunately voted to once 
+again reclassify broadband under Title II.  Chairman Rosenworcel claims that the 
+internet did not break when Title II was repealed in 2017 because States stepped in to 
+enact their own net neutrality rules.  That broadband coverage has been expanded, it's fees have increased and costs have decreased throughout the United States, not just in the States that enacted net neutrality rules.  What is your response to this claim?   
+Mr. Carr.   Well, the presence of those State laws is not the reason why we didn't 
+see all of the predictions from 2017 come true.  For one, the State laws didn't take 
+effect for a number of years.  For another, if the potential of State regulation was 
+enough then that undermines the need for the FCC to step in with heavy handed rules.  The reality is is we yes told that repealing these rules in 2017 would be the end of internet as we know it.  Since then, speeds are up over fivefold, prices are down in real terms, millions of Americans were brought across digital divide and COVID -19 was the 
+ultimate stress test with our right regulatory framework or network performed.   
+Whereas those in Europe, which had heavier handed utility style regulation saw 
+speed slowdowns quite dramatically.  In fact, their regulators asked Netflix and YouTube to degrade the quality of the streams to prevent the continent's networks from breaking.  So this was ultimately a solution in search of a problem that didn't exist.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+33 
+ Mr. Latta.   Last meeting that we had, I asked you whether the FCC chair provided 
+any briefings to discuss the disclosing the national security threat needed to be addressed 
+by Title II.  You said no.  Did you receive any such briefings before the April vote?   
+Mr. Carr.   I have had SCIF level briefings.  None of them involved either the FBI 
+or the CIA or National Security Agency, just internal officials in the FCC.  There is nothing 
+that I have seen in those SCIF level briefings that indicate that Title II was necessary to address any national security threat.  In fact, if you look right now reports are that Commerce Department is using existing authorities, part 7 authorities to look at potential 
+issues involving potentially China Mobile, China Telecom if the reports are true.  
+Mr. Latta.   Thank you.  
+I will continue.  While the FCC is expanding its authority and opposing heavy 
+handed regulations in the broadband industry, other Federal agencies are about to 
+provide tens of billions of dollars to connect all Americans.  How would a reclassification as Title II service and the FCC's digital discrimination rules effect the success of these 
+other Federal programs in our efforts to close the digital divide?   
+Mr. Carr.   This regulatory onslaught from Washington is simply increasing the 
+cost artificially of American's broadband builders that are trying to bridge the digital 
+divide.  It is a headwind, not a tailwind.  How do we know this?  At the very last second in our digital equity proceeding, the Biden administration secured an exemption for its own signature $42 billion BEAD program, which I take as evidence that those heavy 
+handed regulations are going to get harder for broadband initiatives to succeed.  
+Mr. Latta.   Well, is this the right time to impose these regulations?  
+Mr. Carr.   I am sorry?  
+Mr. Latta.   Is this the right time to impose these regulations?  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+34 
+ Mr. Carr.   Right now broadband builders are seeing a massive spike in their costs, 
+everything from supply chain issues to just purchasing pickup trucks to do the actual 
+building.  And so right now we need to be focused on eliminating artificial costs, that 
+means streamlining permitting which we are not doing, that means pushing more spectrum out there that we are not doing.  That this regulatory onslaught from Washington is only just further increasing costs in an already inflationary environments.  So we are a headwind right to these efforts.  
+Mr. Latta.   Well, commissioner Simington, do you agree with that?  
+Mr. Simington.   Yes.  
+Mr. Latta.   Thank you.   
+I am part of a bipartisan, bicameral universal service working group that is looking 
+to reform the USF so the programs and funding reflect our country's needs moving forward.   
+Commissioner Carr, what reforms do you think Congress needs to make to the USF 
+into the programs it supports?   
+Mr. Carr.   Well, thanks chairman for your leadership on this.  You know, when it 
+comes to universal service, I am reminded of an old saying from President Reagan that the government oftentimes is like an infant, an insatiable appetite on one end and no sense of responsibility on the other.  Right now the FCC continues to expand our U.S. definition in an unlawful way, in my view including a vote later this month to fund 
+hotspots from schools and libraries.   
+So the first thing we need to do is stick with the statutory terms and not expand 
+the universal service program right now without taking on any responsibility for the fact 
+that the cost of this is being born by the monthly bills of Americans, that cost keeps going This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+35 
+ up and up.  And so I want to commend you for your work.   
+Again the FCC should stop expanding it and we should take a hard look at how we 
+can put this program on firmer, sounder financial footing.  
+Mr. Latta.   Well, thank you.  
+My time has expired and I yield back.  The chair recognizes the ranking member 
+of the subcommittee the gentlelady from California for 5  minutes for questions.  
+Ms. Matsui.   Thank you, Mr. Chairman.  
+America's leadership inspection policy fills just enough technological innovation 
+and WiFi to satellite and advanced wireless networks.  However, the FCC spectrum 
+option lapsed over a year ago.  Undermining America's ability to bring new spectrum to market and advance the spectrum policies in global negotiations.   
+Commissioner Gomez, how is the continued lack of spectrum option authority 
+impacting our international leadership and the ability of American companies to drive innovation?   
+Mr. Gomez.   Thank you for that question, Ranking Member Matsui.  The lack of 
+having our spectrum authority is absolutely putting us behind in terms of being able to advance our U.S. competitive as our global competitiveness in wireless innovation.   
+For a variety of reasons not the least of which is we cannot currently auction 
+spectrum, but we also can't plan for future auctions.  We need that authority in order to be able to take the many steps in advance of an auction in order to be able to initiate an 
+auction.  It also effects our innovators and equipment manufacturing because they too 
+need certainty to know how they should manufacture equipment, develop equipment based on services that we are going to be auctioning.  
+Ms. Matsui.   Thank you.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+36 
+ We talked about a far right connectivity program, the ACP, many times.  
+Chairman Rosenworcel, ACP was a significant resource in addressing disparities and 
+broadband access for undersevered communities.  With the program now expired, what 
+efforts is the FCC taking to secure the progress made by ACP in closing the digital divide?   
+Ms. Rosenworcel.   Thank you for the question.  The Affordable Connectivity 
+Program was the largest program in our Nation's history to help close the digital divide by helping low- income households in every State in this country get online and stay online.   
+We are proud of the work we did to get it up and running, now we want to sustain 
+all of those opportunities to keep people connected.  Obviously the first thing we can do is have Congress continue to fund this program.  But apart from that we have done a lot of work to reach out to outreach partners to make sure that they are aware of alternatives and that they notify those they have been working with about what it means to stay connected.   
+And we are monitoring complaints regarding the Affordable Connectivity Program.  
+And I should add that we have seen a 40  percent increase from consumers on them 
+because they are upset that this program has come to an end.  So if you can find a way to continue it, I think that is good for us.  
+Ms. Matsui.   Thank you very much.  
+Ms. Rosenworcel.   -- digital divide.  
+Ms. Matsui.   As original cosponsor of the Rip and Replace I believe allowing 
+Huawei and other vulnerable equipment gear to continue operating in America networks was simple unacceptable.  But that is exactly what is happening today.  We made progress removing much of it, the ongoing funding shortfall means the job is far from over.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+37 
+ Commissioner Starks did mention the ongoing national security, but what are the 
+limitations that rule carriers face when maintaining or upgrading their networks without 
+full Rip and Replace funding.  
+Mr. Starks.   Yes, thank you for the question and your hard work and leadership 
+here.  I have long said network security is national security.  With our providers 
+receiving on $0.40 on the dollar, 14 out of 126 applicants have only completed their Rip and Replace work.  
+Ms. Matsui.   Okay.  
+Mr. Starks.   And so what that really means is that those that are near military 
+installations we have vulnerabilities there, some of these are the only providers in rural areas so we absolutely need to finish the job.  
+Ms. Matsui.   Okay.  Thank you.   
+Robocalls, those are sort of bane of our existence, I think.  But predatory 
+robocalls and texts threaten consumer privacy and financial well -being.  In 2022 alone 
+the FTC reported more than $1.13 billion in financial losses to consumers from scam phone calls and texts.  That is why I introduced the Stop Scams and Spam Act to expose the worst illegal robocall and robotext campaign and why I introduced the FCC Legal Enforcement Act to further crack down on criminal robo callers.   
+Chairwoman Rosenworcel, do you believe that increased transparency and 
+enforcement as provided in my bills could help protect Americans from scam calls and 
+texts.  
+Ms. Rosenworcel.   Yes, I do.  
+Ms. Matsui.   Okay, great.  Let me just also ask about this too.  We talked 
+about E -Rate many times.  The FCC is at the frontlines of efforts to close the digital This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+38 
+ divide and programs that E -Rate played a crucial role by ensuring education, equity and 
+empowering students with essential resources.   
+Chairman Rosenworcel, this month the FCC plans to vote on the proposal to 
+support WiFi hotspots for off premises use under the E -Rate program.  How would this 
+change impact the digital divide and help close the home ward gap and you have got 
+10 seconds.  
+Ms. Rosenworcel.   Well, you probably remember from the pandemic kids and 
+people sitting in parking lots and outside of schools just trying to get online.  This is an 
+effort to help stop problems like that.  We have authority under the law to make it 
+happen.  Every library should have wireless hotspots alone we should make that the baseline in the United States we should.  
+Ms. Matsui.   Thank you very much.  
+Mr. Latta.   The gentlelady yields back the balance of her time.  And the chair 
+now recognizes the gentleman from Georgia's First District for 5  minutes of questions.  
+Mr. Carter.   Thank you, Mr. Chairman.  And thank all of you for being here 
+today, we appreciate your presence.   
+Commissioner Carr, I want to ask you, I understand that the courts upheld the 
+FCC's previous rules to streamline the broadband permitting process under Chevron.  Now that the Supreme Court has overturned this decision, how important is it that Congress act to codify those provisions?   
+Mr. Carr.   Thank you, Congressman, for your leadership on this.   
+I think the legislation that you have been leading on, the American Broadband 
+Deployment Act would codify a lot of really smart ideas that would turn things around in this country and make sure that we can start actually building out broadband in a cost This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+39 
+ effective way.  So I think particularly in light of Chevron, as you know to having Congress 
+step in with clear authorization for this can only help.  
+Mr. Carter.   Commissioner Simington, would you comment on that as well?  
+Mr. Simington.   Yes, absolutely.  The past permitting reform at the FCC greatly 
+increased buildout speed.  However, with --  in the post Chevron world, seeing action on 
+this from Congress could only benefit closing the digital divide.   
+Mr. Carter.   Great.   
+Commissioner Carr, does the new digital discrimination regime adopted by the 
+commission's majority put the Commission in by extension the trial bar in a position to second guess deployment decisions made by broadband providers?   
+Mr. Carr.   Yeah, this provision was a one -page provision of law tucked into a 
+1,000 page bill.  And the way the FCC read it, it was as if it conveyed more authorities in the entire 1934 communications act and every single statute or provision passed since then.  No was limit under the FCC's reading to authority now, whether it is Wall Street or 
+Madison avenue or construction crews or even governments itself are now subject to 
+second guessing by the FCC here in Washington.  
+Mr. Carter.   So essentially how would the need to defend against these 
+challenges likely decrease investment in risk taking by broadband providers?   
+Mr. Carr.   We now have unlimited liability  based on the --  
+Mr. Carter.   Exactly.  
+Mr. Carr.   -- equity rule.  If you take an action, you, may be liable.  If you don't 
+take an action, because it covers omissions as well, you might be liable.  And so it gives no certainty to capital allocators that need to put and that we should want billions of dollars to go into our networks.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+40 
+ Mr. Carter.   Let me ask you about Loper Bright and the Supreme Court's decision 
+there.  Does that effect FCC's recent digital discrimination rules?   
+Mr. Carr.   I think the digital equity rules and the Title II rules in my view were 
+always going to be subject to major questions doctrine not Chevron.  But fundamentally 
+Chevron reinforces the idea that the Framers want you here in Congress to mike these decisions rather than having the FCC or other agencies take a provision of law that doesn't address an issue or only does so in an ambiguous way and claims expansive authority.   
+So I think the Supreme Court's decision reinforces the constitutional structure of 
+the people's representatives here making these fundamental decisions about what the Federal law should be.  
+Mr. Carter.   What about you, commissioner Simington?   
+Mr. Simington.   Well, on the merits I don't know how I would comply with the 
+digital discrimination rules if I were in the position of having to make those decisions in 
+business.  And I also don't know how we are going to enforce them.  It doesn't seem 
+that there are any real standards as commissioner Carr said, anything that you do or fail to do maybe attributed against you.  
+Mr. Carter.   Exactly.  
+Mr. Simington.   So I agree with his analysis that this would likely come under 
+major questions doctrine and not Chevron.  Nonetheless, I also agree with his statement 
+about how the Supreme Court has allocated the balance of responsibilities.  
+Mr. Carter.   Okay.  Commissioner Carr, disparate impact, that does not appear 
+in section 6506 of the IIJA.  Given the complete absence of that and the complete 
+absence of the explicit direction by Congress to employ such a standard in rules to This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+41 
+ prevent digital discrimination, do you believe the Commission has erred in adopting such 
+a standard in its new rules?  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+42 
+ RPTR DETLOFF  
+EDTR ZAMORA  
+[11:00 a.m.]  
+Mr. Carr.   It did.  The FCC created a record to look for instances of 
+discrimination in the broadband market, and after 2 years, the FCC said its record 
+indicated that there were no such instances of discrimination.   
+Nonetheless, the FCC adopted the strong medicine of this disparate impact 
+theory, which means, even if you have no intent to discriminate, the courts can come in 
+and second -guess it.  What the courts have said is if Congress is going to create a 
+disparate impact theory of liability, it has to use very clear specific words, again, because 
+it is very strong medicine.  Those words were absent from the statute.   
+Mr. Carter.   Commissioner Simington, do you have anything to add to that?   
+Mr. Simington.   Just that, again, the reach of this also needs to be emphasized.  
+Commissioner Carr mentioned that it reaches construction companies.  It reaches 
+anyone who in some way limits access even if involuntarily or unknowingly.  So that is a 
+very broad brush.   
+Mr. Carter.   Great.  Well, obviously, this committee and this Congress have got 
+a lot of work to do to help you guys.  So thank you very much for being here.  Again, I appreciate it.   
+And I yield back.   
+Mr. Latta.   Thank you.  The gentleman yields back the balance of his time.   
+The chair now recognizes the gentleman from California's 29th District for 5 
+minutes for questions.   
+Mr. Cardenas.   Thank you very much, Chairman Latta and also Ranking Member This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+43 
+ Matsui, for holding this important hearing.   
+And I really appreciate the commissioners being here.  I appreciate the 
+information that you are sharing with us, and I certainly agree and disagree with many of 
+your opinions, but here we are.  I would love to discuss a few issues with you.   
+I would like to start with the obvious off the top in that it is a travesty that my 
+Republican colleagues have allowed the funding for the Affordable Connectivity Program to lapse.  The ACP was a vital lifeline for millions of Americans and tens of thousands of families in my district who would otherwise struggle to get connected and stay connected 
+to the internet, a basic necessity in today's world.   
+Allowing funding for this program to expire is negligent on the part of our 
+Republican leadership, and I would like to once again urge my colleagues on the other 
+side of the aisle to work with us to get the ACP up and running again.  All of us here on 
+both sides of the aisle have constituents who benefited from this program.  This should be a no -brainer for all of us to work together on.   
+I would like to start with my questions with the FCC's adoption of its $200 million 
+School Cybersecurity Initiative last month, which I am happy to see that action.   
+As you all know, it was widely reported that L.A. Unified School District, one of the 
+largest in the country, suffered a massive cybersecurity attack in 2022 that compromised the records of thousands of students, including data on COVID test results, driver's licenses, and other personal information.  Improved cybersecurity for our students is 
+critical in investing in and one that hits close to home not only with my community but 
+communities across the country are at risk.  
+Chairwoman Rosenworcel, what are the Commission's goals for this program, and 
+what would success look like?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+44 
+ Ms. Rosenworcel.   Thank you so much.   
+As you know, cyber attacks are reaching school districts across the country, big 
+districts like in Los Angeles and small ones like St. Landry Parish in Louisiana.  And 
+restoring the networks for learning can take anywhere from 3 days to 3 months.   
+So we took a look at the E -rate program, which has long supported broadband to 
+our Nation's schools, and we decided that we would start a pilot program to try to understand this problem and then also understand what partners exist in the solution, and by that I mean the Department of Education, our colleagues at the Cybersecurity 
+Infrastructure Security Agency, and also State and local officials.   
+Mr. Cardenas.   Thank you very much.   
+I would also like to thank the Commission for its efforts to require georouting 
+solutions for wireless calls to the 988 Suicide and Crisis Lifeline.  We have made great 
+strides in improving our response to members of our communities who are experiencing a mental health crisis through the 988 Lifeline.  However, there is always progress to be 
+made.   
+Currently, when you call 988, you are routed to a call center based on your area 
+code, as it should be.  If I were to call 988 from Washington, D.C., I would be connected 
+with someone based in L.A. because that is where my phone is from.  This is a problem when a call center needs to send a mental health response team to help a caller that may be thousands of miles away.  The FCC's 998 georouting proposal would help solve this 
+problem.   
+Chairwoman Rosenworcel, can you talk about the Commission's 988 georouting 
+proposal and the importance of the FCC's efforts to better connect Americans 
+experiencing mental health crisis with location -specific resources?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+45 
+ Ms. Rosenworcel.   Sure.  988 has been around, this month, for 2 years, and in 
+that time, 10 million people have reached out in crisis from all across the country to get 
+help.  It is a success story, but we can make it better.  And the way we make it better is 
+making sure that when someone reaches out for help, they get help from someone nearby.  And what we are doing with georouting is just that.  We are going to --  instead 
+of using the area code, we would use the cell tower that is picking up the call to route to a crisis center.   
+We have sent letters to carriers, we have done some testing, and we started a 
+rulemaking to make sure we have technical standards.  Now, once we complete that rulemaking, we will need the Department of Health and Human Services to work with us to put it in the contract, but I believe all of that is possible this year.   
+Mr. Cardenas.   Thank you very much.   
+Commissioner Starks, can you provide your perspective and how Congress can 
+support your work on this issue?   
+Mr. Starks.   Yes.  On 988, again, this is folks who are calling in a critical part of 
+their life, need help, need it to be done close to where they are.  As we have heard, working with HHS, working with industry, it has been a real collective effort here as well as some of the resiliency and making sure that we have the right requirements in place.  It has been a real team effort.   
+Mr. Cardenas.   Thank you very much.   
+988 has yet to become as common around the country as 911, but it is moving 
+forward fluidly and as it should, and I really appreciate the efforts that the FCC has done.  This is lifesaving work, and that is critical, and I think that is one of the main reasons why we all run for office, to make sure that our Americans are safe in every situation with This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+46 
+ every possibility.   
+My time has expired.  Mr. Chairman, I yield back.   
+Mr. Latta.   Thank you.  The gentleman's time has expired.   
+The chair now recognizes the gentleman from Utah for 5 minutes for questions.   
+Mr. Curtis.   Thank you, Mr. Chairman.   
+Chairwoman Rosenworcel, the Commission has decided to allow speed test 
+submissions as a valid way to challenge claims of mobile service.  However, the FCC will 
+not allow consumers to submit speed test data to verify claims of fixed service.   
+Can you explain why the Commission would not allow a speed test as a valid 
+individual challenge to the fixed broadband map?   
+Ms. Rosenworcel.   Sure.  This is a good question and one we are working 
+through, but I want to correct one or two things you have said.   
+Mr. Curtis.   Sure.  
+Ms. Rosenworcel.   Okay.  With respect to fixed challenges, we do accept speed 
+tests for availability data to prove that services present are not present.   
+With respect to the actual speeds, it is more complicated, because where you 
+place your router in your house has a huge impact on your speeds.  We are looking for a statistical way to validate this so that we can use that data more comprehensively going forward.  I would be happy to make sure your office is kept updated.  
+Mr. Curtis.   Thank you.  Yes, I would appreciate that.   
+Also, I would like to talk about mapping.  The FCC's National Broadband Map acts 
+as the base layer of coordination for important broadband funding programs, including the BEAD.  Ensuring that these maps are accurate and up to date will ensure that funds are not wasted and the digital divide is closed quickly and effectively.  Part of that This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+47 
+ process is challenging the serviceability broadband location.   
+Can you explain how the Commission works with CostQuest to review challenge 
+data and why demonstratable on -the-ground proof of service might be rejected as a valid 
+bulk challenge to the underlying Fabric data?   
+Ms. Rosenworcel.   All right.  It is a complex process we set up.  We did it 
+pursuant to the Broadband DATA Act, which is legislation from this committee.  And 
+what you said about this map and its data being our accountability program for all these broadband spending dollars, I just want to agree with you.  That is spot on.   
+So it is imperative we get it right, and when we get it right, that occurs when we 
+take updates from our vendor, CostQuest, which helps manage our Fabric and also updates from carriers, consumers, and local and State authorities.  We try to combine all that information and crowdsource it and get the best map possible.  It is an iterative process.  We take all that data in and update it every 6 months.  And I would be happy to provide more information about just how we do that if you would like.  
+Mr. Curtis.   Okay.  And with the BEAD program set to improve most, if not all, 
+of State proposals by the end of July, the FCC's National Broadband Map, NBM, is a critical component in making those funding decisions.   
+As FCC continues to update and refine the NBM, how does the FCC plan to address 
+providers who overstate their coverage?   
+Ms. Rosenworcel.   Well, first, providers that overstate their coverage in a willful, 
+malicious, and dishonest way, we send them to enforcement and take action against them.  There are incidental overstatements, and we rely on State officials, authorities, and customers to correct them.   
+But in addition to our process of assessing where service is and is not, I know that This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+48 
+ the BEAD program requires every State to run its own process.  And that is important 
+too, because I really believe local and State officials have a better command of what is 
+going on in their backyard, and that has got to inform where they spend those dollars.  
+Mr. Curtis.   Thank you.   
+Also, Commissioner Carr, if you would also weigh in on this.   
+In May, the FCC adopted a Notice of Proposed Rulemaking to strengthen 
+requirements and oversight of Telecommunications Certified Bodies, TCBs.  I think this is 
+an important action to strengthen our national security.  Can you discuss how the threat 
+posed by TCBs with no ties to our adversaries?   
+Mr. Carr.   Yeah.  Thank you, Congressman, for the question, and thanks for your 
+leadership on all these national security issues.   
+This one is interesting.  So, over the years, Congress has passed laws that have 
+asked the FCC to stop insecure network gear from getting into our networks.  This 
+proposal builds on that, because the idea here is let's make sure that the labs and other 
+certification bodies that are checking for this equipment are themselves trustworthy 
+actors.   
+I really want to thank the chair in particular and her team for the work to move 
+that forward to a proposal.  I look forward to trying to get that to an order soon.  I think it will be another piece of our overall national security strategy.  
+Mr. Curtis.   Chairwoman, would you like to comment as well?   
+Ms. Rosenworcel.   It is really important that we update our Telecommunications 
+Certification Bodies and the labs that give them data, and I have been working with Commissioner Carr on this.  I agree with everything he just said.  
+Mr. Curtis.   Thank you.  Thank you for your succinct answers.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+49 
+ Chairman, I yield my time.  
+Mr. Latta.   Thank you.  The gentleman yields back the balance of his time.   
+The chair now recognizes the gentlelady from Michigan's Sixth District for 5 
+minutes for questions.   
+Mrs. Dingell.   Thank you, Mr. Chair.   
+And thanks again to everybody for joining us today.   
+I do want to say, as I said in my opening statement, we really do need to fund the 
+Affordable Connectivity Program.  There is no question about it.  Many people in my 
+State have talked about it.   
+In Michigan, nearly 1 million households  -- one in four households in the State of 
+Michigan have saved money on their internet bills because of the ACP.  We needed to 
+act yesterday.  It is crucial for ensuring that all Americans are able to participate in the digital economy, access education and healthcare resources, and stay connected to essential services.  I just urge all of my colleagues to work with us to get this program 
+funded.  And as I said in opening remarks, I have had people crying because they can't 
+afford it.  It is bad.   
+I am working on legislation to address the threat of domestic abusers exploiting 
+connectivity tools in vehicles to harass and intimidate their partners.  This effort would establish a process for survivors to request determination or the disabling of connected 
+vehicle services that abusers could misuse, ensuring their safety and confidentiality 
+without imposing additional burdens on them.  This would also allow survivors to 
+maintain access to a vehicle, which is a crucial tool for achieving safety and independence.   
+We have to take proactive measures to address the vulnerabilities in connected This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+50 
+ vehicles.  Ensuring that modern vehicle communications contribute to the safety of 
+domestic abuser survivors is essential.   
+Madam Chair, in April, the Commission issued a Further Notice of Proposed 
+Rulemaking to support survivors of domestic abuse and sexual violence.  Could you provide an update on the Commission's progress?   
+Ms. Rosenworcel.   Thank you for that.   
+I think you know right now cars are like smartphones on wheels.  They are very 
+sophisticated.  
+Mrs. Dingell.   Which most people don't know.  Yeah.  
+Ms. Rosenworcel.   They are very sophisticated.  They can track where we go 
+and what we do.  And there have been press reports that they have been weaponized for victims of domestic violence.   
+We can fix this.  It is within our power.  Congress already directed us with the 
+Safe Connections Act to make survivors of domestic violence have more secure 
+communications.  We have got to apply similar policies to our vehicles.   
+So I appreciate what you are working on.  I will make sure that what we do at the 
+FCC we coordinate with you so that we can work in lockstep to solve this problem.  
+Mrs. Dingell.   I really want to do that.  And we will be introducing bipartisan 
+legislation on this because, by allowing individuals to disable or terminate access to 
+connective vehicle services that abusers could exploit, we are going to protect them.  
+That is just pure and simple dating violence, sexual assault, stalking, and sex trafficking.   
+Let me move to robocalls.  As I brought up in previous hearings in front of this 
+committee, we know that bad actors can take advantage of our vulnerable populations 
+through robocalls and robotexts.  Often driven by artificial intelligence, scammers can This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+51 
+ exploit vulnerable consumers by using tactics to deceive them.  While AI has the power 
+to make it easier for consumers to give information they are looking for, unfortunately, it 
+is also used to trick them.   
+I appreciate the work all the Commission is doing on combating robocalls and 
+robotexts, holding these scammers accountable.   
+Again, Madam Chair, what do you most need from Congress to help the FCC stay 
+ahead of the scammers?  Would more resources for consumer education help?   
+Ms. Rosenworcel.   The answer is yes, but I have got a few things that I think 
+would be really, really helpful.  The first is this:  It was about a year and a half ago that 
+the Supreme Court issued an opinion that narrowed the definition of "auto dialer" under the Telephone Consumer Protection Act.  It took huge swaths of these calls out from our oversight.  It means we get more junk that is now not accountable.  I would like to rework with you on the definition of "auto dialer", update it so that we can go after more of these bad actors.   
+We also in the last year and a half issued $650 million of fines.  That is a lot.  
+But every one of those fines I have to turn over to my colleagues at the Department of Justice, and it takes a really long time for them to go enforce them against those scam artists.  I would like to have the authority to do it ourself.   
+And, separately, I would like access to data from the Bank Secrecy Act.  
+Increasingly, we are identifying that these scam artists are so sophisticated, they will set 
+up a company, we find them and shut them down, and they set up something else 
+somewhere else using the same bank accounts.  The more that we have access to their financial information, the more we will be able to shut down large enterprises responsible for this junk.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+52 
+ Mrs. Dingell.   Thank you.   
+I don't have a lot of time left, but would any of the other commissioners like to 
+add to that?   
+Mr. Carr.   Thank you, Congresswoman, for your leadership on this.   
+One issue that came to mind when we were talking about the connectivity in 
+vehicles that I have been starting to focus a bit more on is -- particularly as we see this 
+rush of vehicles coming in from China  -- when you look at the capacity of connectivity and 
+the surveillance capacity and the information that we pulled in, I think that is something 
+that merits attention because, again, we are looking at everything from drones to 
+applications to devices themselves.  I think we need to continue to scrutinize this issue as well.   
+Mrs. Dingell.   I am out of time, so I will yield back, Mr. Chair, and submit some 
+more questions for the record.  Thanks to all of you.   
+Mr. Latta.   Thank you very much.  The gentlelady's time has expired.   
+The chair now recognizes the gentleman from Michigan's Fifth District for 5 
+minutes for questions.   
+Mr. Walberg.   Thank you, Mr. Chairman.   
+And thanks to the witnesses for being here today.  I appreciate you taking this 
+time.   
+With the recent Supreme Court Chevron deference decision and the scrutiny of 
+the administrative enforcement powers and discretion, do you have  -- Commissioner 
+Carr, do you have concerns with the FCC's enforcement process which often lacks due process protections that would require additional congressional action, and if so, how would you reform the FCC's processes?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+53 
+ Mr. Carr.   I think there is a number of Supreme Court cases recently that really 
+require the FCC to think about correcting course.  One of them is a Supreme Court case 
+called Jarkesy, which has to do with administrative agencies and enforcement.  I think 
+the FCC should start a proceeding to take a look at our existing enforcement mechanisms to make sure that they align with the constitutional parameters outlined by the Supreme Court.  Otherwise, we could be taking enforcement actions that end up getting overturned in court.  So I think we need to take a refresh on our enforcement procedures right now.   
+Mr. Walberg.   Thank you.   
+Chair Rosenworcel, again, my condolences as well with my colleagues.   
+Recently, New York's broadband law was allowed to go into effect, mandating that 
+all fixed broadband providers offer qualifying low -income customers a $15 or $20 service 
+at specified speeds.  In past hearings, you have told me you opposed rate regulation.  In fact, no asterisks.  I will never forget that.  And in your recent order, reclassifying 
+broadband under Title II, you specifically forbeared from rate regulation of any kind.   
+So, Madam Chair, does your order preempt States from engaging in rate 
+regulation of broadband, and do you support the New York law?   
+Ms. Rosenworcel.   Well, first things first, we said no rate regulation as a result of 
+our Title II reclassification.  I have repeatedly said to you I don't support that either ex 
+post or ex ante, and apparently I said no asterisks as well.   
+Mr. Walberg.   Right.  
+Ms. Rosenworcel.   That being said, what you are talking about is a State law that 
+a court let go into effect.  There is no petition before us, but we did say in our order that State broadband affordability efforts do not per se violate our rules.  We will look at any This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+54 
+ individual cases if a petition is filed before us, and one is not before us right now.   
+Mr. Walberg.   Commissioner Carr, would you like to comment on that?   
+Mr. Carr.   The FCC's Title II decision, regardless of what your view as a policy 
+matter is on that, plainly preempts New York State law.  It is true that the FCC said that 
+if a program is labeled as a State broadband affordability, it is not necessarily preempted, but you have to look at the substance.  And the substance of the New York law is naked rate regulation, and we should step up and be clear that we don't support rate regulation and that that provision of New York law is preempted by operation of the agency's Title II 
+decision.   
+Mr. Walberg.   Well, I would hope you would hammer that out as a commission 
+because, frankly, with impunity going against what has been put in place by Federal 
+standard ought to concern us all.   
+Commissioner Carr, both of us have been long -time champions for boosting our 
+telecommunications workforce.  You have climbed towers.  I have offered to climb 
+towers, but nobody wants an old guy to go up, I guess.  So we need young people out 
+there.  I still hear from providers all the time about their workforce struggles as they try to connect people across my district.   
+Do you have an update on what the telecommunications workforce looks like now 
+and what more can be done, if anything?   
+Mr. Carr.   Thanks for the question.  I very much look forward to getting up a 
+tower with you.  I think that would be a lot of fun.  I am happy to come to your district for that.   
+Look, there is billions of dollars, as we have talked about  -- even putting BEAD to 
+the side --  that are going to be rolling out to connect communities, and we are barreling This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+55 
+ towards a workforce shortage.  Again, the 42 billion BEAD dollars haven't hit the ground 
+yet, but when they do, that is going to put a real strain on workforce challenges.  And so 
+we need to be getting ahead of that now.   
+We have been looking to community college programs to stand these up, but we 
+need to sort of move a little faster on that effort.   
+Mr. Walberg.   Okay.  Well, we can all join arms together on that because, 
+frankly, this is now and this is the future.  We can't get behind.   
+So, Mr. Chair, I yield back.   
+Mr. Latta.   Thank you.  The gentleman yields back.   
+The chair now recognizes the gentlelady from California's 16th District for 5 
+minutes for questions.   
+Ms. Eshoo.   Thank you, Mr. Chairman and our Ranking Member Matsui, for 
+holding this important oversight hearing.   
+To the chairwoman  -- distinguished chairwoman, thank you, and welcome.  And 
+to each commissioner, it is good to see you all.   
+This may be the last time I participate in an FCC oversight hearing, and I want to 
+thank the Commission for the work that you are doing, the work that has been done.   
+This is my 32nd year as a Member of the House of Representatives, the great 
+privilege of my life, and 30 years as a member of this subcommittee.  So while previous 
+commissioners and chairmen are not in the chamber, I still want to salute them for their 
+work.   
+I am not going to go through all of the marvelous things that the FCC is doing and 
+has done  -- this FCC Commission.  The chairwoman did that magnificently.  We should 
+all take pride in that.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+56 
+ They are not only proposals but policies that have been put in place, number one, 
+for our national security.  When we take our oath of office to protect and defend, that is 
+you as well as us.  That is our number one priority.  And I am proud that the 
+Commission finally paid attention, under your leadership, Madam Chairwoman.  I knocked down the door for a long time to raise the specter of what the Chinese Government was not only capable of doing but was already doing.  So I salute you for that.   
+Commissioner Carr, I want to say a few things to you.  It is obvious that I don't 
+agree with you on just about everything you said today.  You know, there is an old saying that there are those who know the price of everything but ignore the cost for those who are affected.   
+I ran for Congress to lift people up, to improve the lives of the American people.  
+And the more American people that are lifted up to share in the dream of this country, the better off we all are.  The better off we all are.  To disparage the BEAD program 
+and other undertakings of the Commission that really look after the working stiffs in this 
+country I think is just dead wrong.  When we push people down, we are hurting ourselves.   
+I think that Commissioner Gomez' testimony of who she has met, who has written 
+to her, is one of the great --  they are great voices of this country.   
+So I regret that -- you know, I mean, it was said this morning by the chairwoman of 
+the full committee really berating the Commission, and yet every single Republican of this subcommittee and full committee voted against expanding broadband in our country.   
+When I say I served here, I have served on this subcommittee for 30 years.  For 
+over 20 of those years, Republicans and Democrats were wringing their hands to not only This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+57 
+ have a map but that we invest in it.  And then when it came time for that to be the 
+dream come true for our country, no.  Is that hypocrisy?  I don't know what it is.  The 
+one thing I know what it is is that I think it is very wrong.  Very wrong.   
+Our country is made up of extraordinary ordinary people.  Extraordinary ordinary 
+people.  And when our policies stray from that, we stray away from the core of what this 
+democracy is all about.   
+So I hope that --  let me just give Chairwoman Rosenworcel a moment to accuse 
+the -- Commissioner Carr accused the FCC of unjustly revoking a contract with Starlink to 
+provide broadband to over 600,000 homes.  Do you want to address that?   
+Ms. Rosenworcel.   Sure.  First, you have been a formidable voice on this 
+committee, and I am grateful for the role model you have made, making clear that women can speak up without apology.   
+With respect to what you were speaking about earlier, the last administration 
+made distribution decisions under our rural universal service program 2 weeks before an 
+election.  I inherited those decisions.  We did a full financial and technical review of 
+every preliminary winning bidder.  We found about a dozen of them did not meet financial or technical marks.   
+Mr. Latta.   If the gentlelady could finish up.  The gentlelady's time has expired.   
+Ms. Rosenworcel.   Just 1 second.  One of them was a satellite service because 
+they couldn't consistently meet upload and download down -link speeds.   
+In addition, the company you are mentioning had 6,500 census blocks --   
+Mr. Latta.   The gentlelady's time has expired.   
+Ms. Rosenworcel.   -- that were already served  --  
+Mr. Latta.   The gentlelady's time has expired.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+58 
+ Ms. Rosenworcel.   -- or traffic medians or airports or downtown Chicago.  
+Mr. Latta.   Your question can be taken to a QFR.   
+Ms. Rosenworcel.   We asked them to take the service out.  They refused.   
+Mr. Latta.   Thank you.   
+Ms. Eshoo.   Thank you.  I yield back.   
+Mr. Latta.   The chair now recognizes the gentleman from Pennsylvania's 13th 
+District for 5 minutes of questions.   
+Mr. Joyce.   Thank you, Chairman Latta and Ranking Member Matsui, for holding 
+this oversight hearing.   
+I also appreciate the chairman and all the commissioners for taking time to testify 
+today.   
+Pennsylvania's 13th Congressional District, as I have emphasized to you in the 
+past, is incredibly rural.  It has hills and hollers, nooks and crannies, surrounded by 
+mountains.   
+I appreciate the efforts that the FCC has taken so far to focus on connecting all 
+Americans, specifically the constituents of Pennsylvania 13.  With that comes the responsibility to manage large amounts of grants and Federal funding.  This funding is going out to providers not only in my district but over the entirety of this great land.   
+Chair Rosenworcel, last week, the FCC announced that it will not provide 
+broadband relief for RDOF and CAF II providers that default on their build -out obligations.  
+I applaud that decision.  Providers should be required to fulfill their obligation to the American people.  This issue raises an important consideration about the coordination between the FCC and NTIA as the BEAD program is rolled out.   
+How are the two agencies coordinating to ensure that there is not overbuilding of This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+59 
+ RDOF and CAF build -out locations within the BEAD program?   
+Ms. Rosenworcel.   Thank you, Congressman.   
+This is a really important question.  We have so many broadband programs, we 
+need to make sure we take those resources and use them in a smart way.   
+We have got two initiatives at the FCC that speak to your question.  First, in the 
+last month, I signed, again, a memorandum of understanding with the Department of 
+Treasury, Department of Agriculture, and Department of Commerce, to make sure that we coordinate on all data with our broadband programs.   
+Second, I am producing something called the Broadband Funding Map, and it 
+doesn't get enough attention.  It is a map of all of the enforceable commitments under our broadband programs in the United States.  We can use that map for accountability to make sure there is no overbuilding and that we make sure we reach everyone.  That map is really important, and I encourage every member of this committee to become familiar with it.  
+Mr. Joyce.   Thank you.  And I appreciate you bringing that into this discussion.   
+This rollout is going to be the largest investment of a decade, and might be the 
+best chance that we get to connect rural Americans.  It is our responsibility to use this opportunity to ensure that my constituents are able to connect to reliable and high- speed 
+internet.   
+The 5G Fund is another important funding source that enables rural connectivity.  
+It is imperative that the 5G Fund is distributed efficiently and results in actual 5G wireless services being provided to rural areas.  This program is intended to replace portions of current High Cost Fund, and millions of rural communities risk losing connectivity if it is not implemented correctly.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+60 
+ Commissioner Carr, as written, the 5G Fund uses a minimum of 7/1 speeds.  
+Previous FCC programs require speed thresholds with higher minimums, reflecting 
+services that consumers want and have come to expect, and 7/1 is clearly low for 5G 
+standards.   
+Are you concerned that lowering the bar on the speed thresholds would degrade 
+the intent of the fund?   
+Mr. Carr.   Thank you, Congressman, for the leadership, and thanks for your work 
+in your district.  I have enjoyed the chance to spend some time there with you in a 
+broadband roundtable that you organized.   
+With the 5G Fund, I voted previously to move forward with it.  I have called for 
+this agency to do it.  I think the most important question right now is, how do we do so 
+in a way that makes sense with the BEAD program that is underway as well so we can align the two programs in a way that makes sense from a timing and other perspective?   
+But you are right, we should be funding services at the end of the day with the 5G 
+Fund that are capable of offering 5G services.  
+Mr. Joyce.   Chair Rosenworcel, can it truly be called a 5G Fund if the technical 
+parameters in the current order will not reliably provide 5G services?   
+Ms. Rosenworcel.   All right.  I want to just acknowledge where we are right 
+now.   
+We have a draft that I have put before my colleagues.  We are talking about the 
+draft, including service levels, what is viable in different parts of the country, what technologies are going to be used to make sure that we get to everyone.  So we are not done with this process yet, and I will make sure that our conversations take what you just said into account.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+61 
+ Mr. Joyce.   Thank you.  We would appreciate that, and if you could make this 
+committee aware as you proceed with that.   
+Congress must ensure that we are providing Federal grants to communities where 
+they are needed.  All of us need to be responsible stewards of the taxpayer dollar and 
+providing funds to rural areas  -- not just large urban centers  -- where the connectivity will 
+be life -changing and, in some cases, truly life -sustaining.   
+I thank all of you for being with us here today and for giving your time, and I yield 
+the balance of my time.   
+Mr. Latta.   Thank you.  The gentleman yields back.   
+The chair now recognizes the gentlelady from Illinois' Second District for 5 minutes 
+for questions.   
+Ms. Kelly.   Thank you, Chair Latta and Ranking Member Matsui, for holding this 
+important hearing this morning.   
+And I also want to thank the witnesses -- commissioners for their testimony.   
+I know that closing the digital divide in these communities cannot be 
+accomplished without bold, innovative solutions, and that is why I have been supportive of the Affordable Connectivity Program, or ACP, which helps eligible low -income 
+households afford the broadband they needed.  The success of this program is undeniable, as nearly 23 million Americans have been enrolled in the program.   
+Similarly, with over 2,000 farms in my district, I am keenly aware of the need to 
+expand broadband connectivity in rural and agricultural areas, to ensure farmers can take advantage of the benefits of precision agriculture.   
+Commissioner Starks, can you share how the FCC is working to bring connectivity 
+to our country's agricultural areas, and what role do you see fixed wireless technology This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+62 
+ playing in helping connect rural America?   
+Mr. Starks.   Yes.  Thank you so much for the question.   
+I attended the Farm Progress Show in Decatur, Illinois, many years ago, and so I 
+might have met some of the farmers that are in your district there and heard directly 
+from them what they need for their farms for precision agriculture, what they need to keep family members who --  and their way of life.   
+And so, so much of what we are doing  -- I think the 5G Mobility Fund will make a 
+play on how we are going to help get agricultural better connected.  Obviously, the 
+RDOF that we have discussed here today also has a real play.  But as you pinpointed as 
+well, I think fixed wireless is going to absolutely -- has grown exponentially.  I have seen 
+it as my time as a commissioner, and will continue to play a large role.  
+Ms. Kelly.   Thank you very much.   
+Shifting gears to the FCC's upcoming July open Commission meeting where it was 
+recently announced that the agency would consider the implementation of Martha 
+Wright -Reed Act  -- of the Martha Wright- Reed Act and how to adopt just and reasonable 
+rate caps for incarcerated people's audio and video communication services.   
+Delivering these reforms and ultimately providing relief to incarcerated persons 
+and their families is critical, especially as there have been reports that hundreds of county 
+jails around the U.S. have eliminated in -person visits, making often pricey video calls the 
+only visual connection between detainees and their family.   
+Chairwoman, I am encouraged to see the FCC will be considering rules to 
+implement the bipartisan Martha Wright -Reed Act at the agency's July open meeting.  
+To level set, can you explain the importance of this act championed in the House by my friend, Representative Bobby Rush, and how incarcerated people, their families, and all of This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+63 
+ our communities benefit from these rules?   
+Ms. Rosenworcel.   Yeah.  It was almost 2 years ago that a grandmother, Martha 
+Wright, wrote us and complained that she was paying absolutely usurious amounts to 
+stay in touch with her grandson who was incarcerated.  And when the agency looked into it, we found that for a single call lots of families were paying more than you and I pay for our monthly unlimited plans.  That is not right.  And it doesn't just harm families of the incarcerated; it harms all of us because regular contact with family and kin reduces recidivism.   
+Now, for years, we have tried to fix this problem.  We have gone back and forth 
+with the courts.  But, finally, former Congressman Rush, along with Senator Duckworth -- there is a lot of Illinois here --  came forward and said here is some authority 
+to help you fix that problem.  And this month, I am proud to report that I expect our agency to do just that.   
+Ms. Kelly.   Thank you so much.   
+I am committed to ensuring that incarcerated people can communicate with their 
+loved ones without having to worry about unfair, exorbitant fees, so please know that my staff plans to follow up with you all to learn more about the agency's work in this space.   
+Lastly, I want to know that there has been quite a lot of discussion recently about 
+the FCC starting a proceeding to consider banning or otherwise limiting bulk billing arrangements in multi- premises environments.  From the comments I have received 
+from my district, such an effort could raise concerns.   
+They tell me both deals help keep prices low and give them higher -performance 
+broadband, and ending these deals could eliminate these benefits.  But I also understand that there are many variations of what these arrangements could look like, This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+64 
+ and in some cases they may be driving consumer frustration.   
+I recognize the FCC has yet to adopt the proposal and seek comment on it, so I will 
+continue to monitor the FCC's efforts on this issue and the comments the agency receives 
+to ensure the agency is putting consumers' interests first.   
+With that, I yield back.   
+Mr. Latta.   Thank you.  The gentlelady yields back the balance of her time.   
+The chair now recognizes the gentleman from Florida's 12th District for 5 minutes 
+for questions.   
+Mr. Bilirakis.   Thank you, Mr. Chairman.  I appreciate it very much.   
+To follow up with Ms. Kelly, you can see this is a bipartisan issue.   
+Chair Rosenworcel, you recently announced an NPRM that would prevent bulk 
+billing arrangements between the broadband providers and housing communities.  Since that announcement, I have received letters from 140 constituents unanimously in opposition to the proposal, fearing it would significantly increase costs.  So I am glad 
+that Ms. Kelly brought this up as well.  It is a great concern for our seniors.   
+The vast majority of these messages come from those residing, again, in senior 
+living communities on fixed incomes.  Particularly now with the inflation being so very 
+high, it is so very difficult for our seniors.   
+An FCC report and order in 2010 aligns with these constituent concerns stating, 
+and I quote, It would be a disservice to the public interest if, in order to benefit a few 
+residents, we prohibited bulk billing, because so doing would result in higher MVPD 
+service charges for the vast majority of multi- dwellings unit residents who are content 
+with such arrangements.   
+And I have a letter from Timber Pines.  Timber Pines is an adult This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+65 
+ community -- senior community in my district in Spring Hill, Florida.  Many letters from 
+Timber Pines.   
+How is it in the public interest, Commissioner Chair, to directly cause increased 
+rates for a significant number of Americans under this proposal?   
+Ms. Rosenworcel.   Sure.  I think we can all agree that broadband is an essential 
+service, and we also have policies in place that prevent there from being exclusives in 
+apartment buildings that lock up an apartment building so that folks can't get any other provider and benefit from competition.   
+One-third of the people in this country live in apartment buildings or multiunit 
+dwellings.  That is a lot of people.  But what we are finding now is they are bypassing those exclusive prohibitions and just baking it into the rent or assessment fees on each apartment and unit.   
+And so what I have received as the chair of the agency are a lot of complaints from 
+consumers who say, everyone else gets competition; why don't I get competition?  Why 
+do I have to pay for this service if I don't want to use it?   
+So what we have proposed is a rulemaking to ask those questions, mindful that 
+there are some constituents, including folks like the ones you described, who might like 
+these services.  But it has been 14 years since we looked at this issue, and 14 years in broadband is a long time.  We want everyone to have the benefit of competition.  So opening this issue up for public comment I think is the right thing to do.   
+Mr. Bilirakis.   Well, keep in mind, again, you know, these seniors are in fixed 
+incomes.  It is a big concern.   
+Ms. Rosenworcel.   I promise you that we will do that as we proceed.   
+Mr. Bilirakis.   Please.  Please.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+66 
+ Commissioner Carr, what is your take on this proposal?   
+Mr. Carr.   I think the FCC should withdraw this proposal.  I think it could only 
+raise the prices for Americans living in these types of buildings.   
+And I think when you think about competition, the building or premises owner 
+have a lot of market power, and, in fact, they are competing in a market for services that 
+is very robust.  So if you were to prohibit bulk billing, you would be going from a really frothy competitive environment and force people to get broadband services in a relatively less competitive environment.   
+So it is bad for competition, and it is bad for prices.  I don't think right now is the 
+time when we should be saddling Americans with that.  The FCC has looked at this issue multiple times over the years and found that they do more good than harm, and I think we should stick with that.   
+Mr. Bilirakis.   Thank you.  Thank you, sir.   
+I still have a couple more minutes.  Not a couple, but quite a few seconds.   
+Commissioner Carr, we are constantly trying to ensure our international 
+leadership in various industries, including the wireless marketplace.  What effect will the FCC's Title II order have on American leadership in wireless technology?   
+Mr. Carr.   Well, I think it is a headwind, right.  It only makes it harder to build 
+out and invest.  And more broadly, I think if you look at this administration, it has fallen into a real deep malaise when it comes to one of these most important considerations for 
+economic growth, which is wireless.   
+Right now, we have no plan to turn things around.  Even though we do have a 
+lapsed general spectrum auction authority, we do have authority still to auction 
+spectrum.  In fact, just last week, the FCC missed a statutory deadline to auction 30 This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+67 
+ megahertz of spectrum because the Commerce Department, in 2022, failed to meet a 
+2015 era statutory deadline imposed by Congress for identifying that specific 30 
+megahertz.   
+So not only do we not have auction authority, but the administration isn't taking 
+the steps that would let us move forward with auctions even where we do still have 
+authority.   
+Mr. Bilirakis.   Thank you very much.   
+And I yield back, Mr. Chairman.  I appreciate it.   
+Mr. Latta.   Thank you.  The gentleman's time has expired.   
+The chair now recognizes the gentlelady from New York's Ninth District for 5 
+minutes for questions.   
+Ms. Clarke.   Let me thank you very much, Mr. Chairman, and thank our ranking 
+member.   
+I thank our commissioners for appearing before us today.  Let me thank you for 
+all of your hard work and your dedication.   
+And under the leadership of Chairwoman Rosenworcel, this commission has done 
+critical work to protect consumers and our communications networks, promote innovation, and ensure access to high- speed affordable internet connectivity.  It is a 
+reality for all Americans.   
+Due to the work of the Democrats on this committee, the FCC, until recently, 
+responsible for administering one of the most successful programs in bridging the digital divide, the Affordable Connectivity Program, and now awaiting some movement to get this program back in place.   
+As I have noted at countless hearings over the last year, the undeniable success of This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+68 
+ the ACP brought affordable high- speed broadband across to more than 23 million 
+households.  Unfortunately, House Republican leadership has blocked my bipartisan, 
+bicameral legislation to save the ACP from receiving consideration on the floor of the 
+House, and funding for the ACP lapsed over a month ago, leaving millions of households forced to choose between paying for broadband or other essentials like food and medication.   
+Despite the continued Republican blockade of critical funding to the ACP, I remain 
+hopeful that we can come together in a bipartisan manner to save this critical program 
+and to close the digital divide once and for all.   
+My first question this morning is on the mechanics of the potential restart of the 
+Affordable Connectivity Program.  One concern with allowing ACP funding to lapse even 
+temporarily has been the potential cost of reenrollment.   
+It is essential that we do not lose the sense of urgency regarding ACP funding.  If 
+we allow the ACP to remain inactive for more than a few months, we must keep in mind the enormous strain the increased cost of service is having on families and remember 
+that any attempt to restart or refresh the program after a long pause would require a significant undertaking to reengage skeptical households that previously relied on the ACP before the lapse in funding.   
+So, Chair Rosenworcel, with the lapse in ACP funding, are we still within the 
+window of time where restarting the ACP program would not require significant 
+investment in reenrollment of subscribers, and if so, how much time do we have left?   
+Ms. Rosenworcel.   Yes.  Well, thank you for your leadership on this issue, and 
+like you, I am an optimist we can get this done.  We have systems still in place at our 
+administrator.  We still know every benefit -qualifying individual that signed up for this This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+69 
+ program, and we have got hundreds of outreach partners across the country who are 
+ready to go if Congress finds a way to continue this program.   
+I will keep you posted before we turn any of those systems off.  Again, I am still 
+hopeful that Congress will be able to refund this program because it has been so consequential when it comes to ending the digital divide.  
+Ms. Clarke.   Likewise.  And thank you so much, Chairwoman.   
+In addition to equitable access to broadband services, one of my top priorities for 
+years has been increasing the diversity and independence of the media marketplace.  To 
+that end, I was very pleased to see the Commission's May announcement of the NPRM on 
+fostering independent and diverse sources of video programming.   
+The inclusion of unreasonable Alternative Distribution Methods, ADM, and the 
+most -favored -Nation provisions in carriage agreements can prove significant obstacles for 
+independent programmers seeking carriage -run both Multichannel Video Programming 
+Distributors, or MVPDs, and online platforms.  And while innovations in the marketplace 
+have given consumers multiple ways to consume video content, carriage on MVPDs 
+remain critical for networks of all sizes, especially emerging media companies.   
+So, Chairwoman, what is the FCC doing or what can it do to ensure independent 
+programmers can equitably compete for carriage, and how do you see the marketplace for independent programmers on MVPDs and online video distribution platforms evolving?   
+And Commissioner Starks and Gomez are welcome to offer your thoughts as well.   
+Ms. Rosenworcel.   The ways we watch are changing.  Every one of us now can 
+bring up what we want when we want it on any piece of glass handy, and yet there are old problems that persist on traditional channel lineups.  New voices, independent This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+70 
+ programmers can't always get a fair shot.  We hear that over and over again.   
+So 2 months ago, we started a new rulemaking on this to get an updated record to 
+understand what the problem looks like in this new media environment.  We can keep 
+you posted as the record develops.   
+Mr. Starks.   Yes.  The only thing I would add --  
+Mr. Latta.   Pardon me.  About 10 seconds because the gentlelady's time has 
+expired.   
+Mr. Starks.   Yes, sir.   
+The only thing I would add, in the media space, the last time we looked at this was 
+2016.  Anytime you are talking about such a long gap, it is worthwhile for us to have a refresh.   
+Ms. Clarke.   Very well.   
+And, Mr. Chairman, I yield back.   
+But I just wanted to ask this.  Commissioner Gomez, if you have comments, 
+would you send them to us in writing because my time has elapsed.   
+Thank you very much, Mr. Chairman.  I yield back.  
+Mr. Latta.   Thank you very much.  The gentlelady's time has expired.   
+The chair now recognizes the gentleman from Georgia's 12th for 5 minutes for 
+questions.   
+Mr. Allen.   Thank you, Mr. Chairman, for convening this hearing of the fiscal year 
+2025 Federal Communications Commission agency budget.   
+And I want to thank the commissioners for being here today.   
+I would like to start by recognizing the Commission for their unanimous adoption 
+of the declaratory ruling in February which recognized that calls made with AI -generated This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+71 
+ voices are artificial under the Telephone Consumer Protection Act.  So thank you for 
+that.   
+Yesterday, I introduced my Creating Legal and Ethical AI Recording Voices, or 
+CLEAR Voices Act.  This bill would amend the Communications Act of 1934 to establish technical and procedural standards for artificial or prerecorded voice systems created through generative artificial intelligence.   
+Consistently, some of the biggest concerns I hear from constituents are regarding 
+the robocalls, scam calls, and texts.  With the increasing use of AI in communication, 
+maintaining public trust is crucial, and the CLEAR Voices Act takes great strides in doing 
+that.   
+Chair Rosenworcel, the FCC released a Notice of Proposed Rulemaking to prohibit 
+all early termination fees imposed by cable and direct broadcast service providers.  Even President Biden's statement in connection with his junk fees executive order proposed addressing ETFs only to the extent that they are unjust or unreasonable, which 
+appropriately recognizes the contractual nature of the ETFs and the benefits customers 
+receive when opting for term contracts.   
+Would it not be more appropriate for the FCC to instead address only unjust or 
+unreasonable ETF practices, such as failure to fully disclose them, and not just implement an outright ban?   
+Ms. Rosenworcel.   So we have an open proceeding on this.  We haven't made a 
+decision yet.  We have lots of consumers who complain about early termination fees.  They signed up for a contract, but then they got saddled with some big lump sum they had to pay when they want to get out of it.  We are trying to understand what the scope of what is reasonable is there.  That is why we have an open proceeding on this subject.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+72 
+ I appreciate what you said.  We will make sure we take it into consideration.   
+Mr. Allen.   Okay.  The draft NPRM does not explain how an outright ban of ETFs 
+would be reasonable given the cost savings and other consumer benefits available 
+through term contracts with ETFs and given the month- to-month service options also 
+available to consumers.   
+How do you justify removing customers' options to choose to get a discount in 
+exchange for agreeing to take service for a specified time period?   
+Ms. Rosenworcel.   Well, that is why we are having a rulemaking.  We are asking 
+to try to identify what is reasonable under the context.  That is the purpose of having a rulemaking.  That is the purpose of asking the public, and I hope we can shape the definition of "reasonable" as part of that effort.   
+Mr. Allen.   Commissioner Carr, the chairwoman has announced plans to move 
+forward the 5G Fund.  While I support closing the digital divide that exists in rural America, I am worried that adding the 5G Fund on top of the Rural Digital Opportunity 
+Fund, the BEAD fund, the Capital Projects Fund, and the ReConnect Program will lead to 
+wasted funding instead of connectivity.   
+Do you see this overwhelming amount of broadband dollars as a reason for 
+concern as the FCC considers the rules for the 5G Fund?   
+Mr. Carr.   Thanks, Congressman, for the question.   
+I supported before moving forward with the 5G Fund, but you are right, there has 
+been sort of a sea change in the amount of Federal support that is out there since then.  Not just the $42 billion of BEAD, but by my count, we have made over $800 billion available that could be used for infrastructure, including broadband infrastructure.   
+So as we proceed with the 5G Fund, we have to be so very mindful of all these This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+73 
+ other programs and how do we make sure we move forward in a smart, coordinated way, 
+and those are still issues that I think need to be worked out.   
+Mr. Allen.   Wouldn't it be wise to wait till the BEAD funding is at least partially 
+deployed so that 5G Fund is available to fill in the gaps instead of duplicate funding?   
+Mr. Carr.   That is one of the arguments that we are looking at very closely, is how 
+do you align this with BEAD.  There is the argument that if you wait until after BEAD, you could potentially have the 5G Fund go further.  Others argue that they want to move forward sooner in order to take advantage of the connectivity that would be enabled, and 
+that sort of wrestling of those issues is what we are sort of looking at right now.   
+Mr. Allen.   Chair Rosenworcel, with the NTIA BEAD funding program set to 
+approve most, if not all, State proposals by the end of July, the FCC's National Broadband 
+Map is a critical component in making those decisions.   
+As the FCC continues to update and refine the NBM, how does the FCC plan to 
+address providers who overstate coverage?   
+Ms. Rosenworcel.   If you willfully or maliciously overstate your coverage, we will 
+send you to our Enforcement Bureau, and we will take action.  We have already done so.   
+We are also using all available processes to make sure that that data is accurate, 
+including challenges from State, local authorities, other carriers, and consumers.  And we welcome any information that you have from your office, and we can incorporate that 
+into our mapping efforts too.   
+Mr. Allen.   Thank you.   
+My time is up.  I yield back.   
+Mr. Latta.   Thank you.  The gentleman's time has expired.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+74 
+ And the chair now recognizes the gentlelady from New Hampshire's Second 
+District for 5 minutes for questions.   
+Ms. Kuster.   Thank you, Mr. Chairman.   
+I want to start by thanking all of the commissioners for being with us today.   
+It is clear the agency has gotten straight to work, from the implementation of the 
+Safe Connections Act, which I helped pass, to protect survivors of domestic violence, to its 
+work fighting robocalls and protecting Americans from harmful scams.   
+The FCC also administers, we have discussed today, the Affordable Connectivity 
+Program, making broadband more affordable for 22 million American households, including nearly 40,000 in my district in New Hampshire.  But my Republican colleagues continue to refuse to fund this program, leading to millions of Americans losing access to affordable broadband that they rely upon.   
+As chairwoman of the New Democrat Coalition, I led multiple letters with our 
+Members to House and Senate leadership urging them to put politics aside and fund the 
+ACP.  I will continue fighting to fund the ACP.   
+In the 21st century, access to reliable, affordable internet is not a luxury.  It is a 
+necessity, including, I might add, for our own defense.  When we are talking about 
+recruitment and we are falling short of our recruitment goals, how the hell would 
+somebody sign up to serve in our military if they did not have access to the internet?   
+From connecting job seekers to employers, to accessing telehealth services and 
+education, the ACP has helped millions of hardworking Americans stay connected.   
+As a founder and co -chair of the Bipartisan Mental Health and Substance Use 
+Disorder Task Force, I am committed to ensuring that individuals in crisis can access the help they need when they need it.  The 988 Suicide and Crisis Lifeline is an important This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+75 
+ first step in these efforts, but while this lifeline may help to connect callers to resources, 
+these resources aren't guaranteed to be local.   
+Currently, if someone calls 988 from the State of New Hampshire, their 603 phone 
+number, their call will be routed to local crisis centers in New Hampshire, even if they find themselves far from the Granite State and in need of local assistance.   
+Commissioner Starks, can you speak to how the FCC is working to address this 
+issue and what more needs to be done?   
+Mr. Starks.   Yes.  Thank you so much for the question.  Thank you for your 
+leadership and hard work on this critical issue.   
+It has been just about 2 years now that 988 has been up and running, and we 
+continue to build on that tremendous success.  Nearly 10 million calls that we have had.  We continue to make sure that folks that are dealing with this life crisis have a place that they can call.   
+And so, to your point, making sure that they can interact with a local counselor is 
+something that we have heard from mental health advocates, and that is where we are pushing for our policymaking to go.   
+The last thing that I would say is just it has been such a cooperative effort 
+between industry, mental health, HHS, SAMHSA.  Everybody here has been working so hard together for the American people that are in crisis this way.   
+Ms. Kuster.   And do you think there is some kind of option where they could say 
+where their location is and it wouldn't just be driven by the area code?  Is that something being sorted out?   
+Mr. Starks.   It would not be driven by the area code.  It would be based upon --  
+Ms. Kuster.   GPS or --   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+76 
+ Mr. Starks.   -- where the cell phone is pinging off of.  
+Ms. Kuster.   Okay.  Great.  That is very helpful.  Thank you so much, and we 
+look forward to working with you.   
+Chairwoman Rosenworcel, as Congress works to restore the FCC's spectrum 
+auction authority, can you explain what role the FCC plays in setting technical rules for 
+particular spectrum bands, and are there specific factors that Congress should keep in mind?   
+Ms. Rosenworcel.   I think our record on this is extraordinary.  We are the first 
+country in the world to auction off airwaves.  We are the first country in the world to hold incentive auctions.  We are the first country in the world to have creative dynamic sharing systems to allow for hierarchies of spectrum rights.  We are the first country in the world to take garbage unused spectrum and turn it into unlicensed airwaves which are used for WiFi.  In other words, the record of the United States and the FCC to take airwaves and put them to market is second to none.   
+The challenge we face going forward is there are more things we are connecting 
+wirelessly -- more people, more places, more things  -- and the reality is we are going to 
+need more spectrum to continue to fuel that.   
+So what we will need from Congress is renewing that spectrum authority, and we 
+will need some details on which bands you think we should approach next and convert perhaps from Federal use to new commercial use.   
+Ms. Kuster.   Great.  Very helpful.  Thank you.   
+I will just close by saying, broadband is an essential service in today's digital world, 
+and I appreciate all of the work that you all are doing to make it more accessible and affordable for our constituents.  Thank you so much.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+77 
+ And with that, I yield back 1 second.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+78 
+ RPTR DEAN  
+EDTR ZAMORA  
+[12:00 p.m.]  
+Mr. Latta.   Thank you.  The gentlelady yields back.  
+And the chair now recognizes the gentlelady from Tennessee's First District for 
+5 minutes for questions.  
+Mrs. Harshbarger.   Thank you, Mr. Chairman.  Thank you witnesses for being 
+here today.   
+You know, the First District of Tennessee is home to a large amount of Federal 
+land, specifically the Great Smoky Mountains National Park and the Cherokee National 
+Forest.  And updating wireless internet infrastructure on Federal lands is currently bogged down in the red tape of NEPA and the National Historic Preservation Act.  And I can tell you firsthand, some of the most difficult places in my district to get quality service is going to be the Great Smoky Mountains and the Cherokee National Forest.  And that 
+is just hurting our communities.   
+In February, I introduced the Wireless Broadband Competition and Efficient 
+Deployment Act, which would roll back the red tape, keeping these communities on 
+Federal lands from getting the infrastructure to stay connected.   
+And my question is for you, Commissioner Carr.  How important is it for Congress 
+to take an active role in turning down these barriers to broadband deployment like 
+overburdensome and sometimes ridiculous permitting requirements?   
+Mr. Carr.   Thanks, Congresswoman, for your leadership, particularly on Federal 
+lands, where it simply takes too long and costs too much to build out.  I was just on 
+another national park myself last week, Shenandoah.  And I had virtually no cell phone This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+79 
+ service.  In fact, I had to climb this small little tower to get any service at all.  I ended 
+up climbing that mountain a lot, fairly addicted to the internet.  And so I think we need 
+to move forward with legislation and leadership that you are showing and generally 
+taking a look at permitting reform.   
+Look, we have been spending a lot of money, $800 billion, again by my count; $42 
+billion if you look at BEAD.  But we are not streamlining permitting.  That is just like stepping on the gas and the brakes at the same time.  We have got to get serious about the types of reforms that you have been leading on.  
+Mrs. Harshbarger.   Yeah.  Thank you, sir.  
+Let me follow up with another question for you, Commissioner Carr.  There is 
+general acceptance of the security risk posed by reliance on China to power U.S. communications.  Are you at all concerned that these Chinese -made communication 
+chips may create vulnerabilities or security concerns for the U.S.?   
+Mr. Carr.   Yeah.  Look, I think when you look at the CCP, they aren't just simply 
+coming at us through one vector, even one technology vector.  It is a 1,000 different things that they are doing to try to prod and exploit vulnerabilities.  We have taken action on the device layer, Huawei, ZTE, at the carrier level, China Mobile, but there is more to do, including data centers as well.   
+Your point about chips is exactly right, and I think that can help feed into our 
+proposal to look at labs and certification bodies that are going to be reviewing the 
+components to make sure that those labs are themselves trustworthy.  But we need to 
+sort of play defense across all of these different areas of technology, because we are getting prodded by the CCP across all of them.  
+Mrs. Harshbarger.   You don't have to tell me anything.  That is nothing new.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+80 
+ So I guess another question, you can answer it, Commissioner Carr.  What 
+methodologies can the FCC or other Federal agencies deploy to ensure that broadband 
+programs are making accessible connected devices that are verified and can be trusted?  
+It leads into what you just said.  
+Mr. Carr.   One thing that we can do is complete our proceeding that is looking at 
+these TCBs in labs.  I think another step that I have called for is for the FCC to look at the entities we do regulate and prohibit them from interconnecting with insecure entities, including China Mobile and China Telecom, to the extent that they are not even offering 
+necessarily Title I or Title II services.  I think that is one thing that the FCC should be 
+doing.  
+Mrs. Harshbarger.   Yeah, no joke.  
+In the past year, the FCC has adopted rules governing broadband labels, digital 
+discrimination, net neutrality, and data breaches.  And you are considering more rules in these areas and in other areas, like outage reporting.   
+So my question is, can a company with 20, 30, 50 employees really keep up with 
+all of this without significant burdens to that company?  We want them to survive, but how can they do that?   
+Mr. Carr.   I think what people lose sight of is that the broadband builders in this 
+country that are truly bridging the digital divide in rural communities, it is not these large corporate behemoths.  In many cases, it is mom -and-pop operations, small 20 -person 
+operations, and they are confronting a regulatory onslaught from Washington.  We need to sort of decrease that regulation and that will help unleash their ability to build.   
+Look, they are already dealing with inflation, they are already dealing with high 
+fuel prices.  And on top of that we are raising the regulatory cost.  Again, BEAD I think This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+81 
+ is a perfect example where the Biden administration is layering on all of these regulatory 
+costs that Congress specifically either prohibited them from doing or didn't authorize 
+them to do.  And price controls is a piece of that.   
+Right now, the administration is holding up applications from Tennessee and from 
+other States.  We just got a letter from Tennessee saying that the Biden administration 
+is compelling them to engage in price controls and rate regulation as a condition to getting the money that they are owed through BEAD.  That is just unnecessarily slowing things down in addition to being bad policy.  
+Mrs. Harshbarger.   So you agree, decrease the permitting regulations and just 
+regulations in general.  Okay, I agree.   
+With that, Mr. Chairman, I yield back.  
+Mr. Latta.   The gentlelady's time has expired.   
+The chair now recognizes the gentleman from Texas' 33rd District for 5  minutes of 
+questions.  
+Mr. Veasey.   Thank you, Chairman Latta.   
+And I want to thank the commissioners for being here again.  It probably will not 
+come as a surprise to some of the commissioners on the panel that I want to talk with you today about ACP and about the fact that ACP has lowered internet bills for 23 million American families, which I think is great, because I represent a district in the Dallas -Fort 
+Worth area that is largely lower income.  And I also think that it is great too for my 
+Republican colleagues, because the data shows that in rural areas that they represent, 
+that even more people have signed up for ACP.  And so I think that it has been a win -win 
+for people all around the country.   
+And we all know that the expiration of the ACP is an issue that is really going to This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+82 
+ hurt these 23 million families, and I am very concerned about that.  Also concerned 
+about the fact that Republican leadership hasn't advanced any legislation whatsoever for 
+their rural constituents or the constituents that I represent to make sure that this lifeline 
+doesn't expire.  And as a result, funding ran out in June, and prices have gone up for nearly about 70,000 people in the district that I represent just in the Dallas -Fort Worth 
+area.  So imagine, again, how that impacts people from all around the country.   
+And so I have a question for Chairwoman Rosenworcel.  Has the FCC heard 
+directly from impacted consumers that are having to navigate this new post -ACP world?  
+I was wondering if you could kind of weigh in on that.  And Commissioner Starks and Gomez are also welcome to join in.  Thank you.  
+Ms. Rosenworcel.   Yeah, we have heard from lots and lots of consumers.  We 
+have seen a 40  percent increase in the number of complaints about billing and charges 
+related to ACP.  These are people who are angry, upset, and bewildered by the fact this program has come to an end.  They are from rural America, urban America, and 
+everything in between.  A disproportionate number of them are elderly, single parents, 
+and retired military.  And we have got heartbreaking emails that come to my inbox every day.   
+And I know that Commissioner Starks and Commissioner Gomez spoke eloquently 
+about this in their statements, so I would love it if they would continue the discussion.  
+Mr. Starks.   Yes, thank you.  Agree with all that.  You know, the numbers 
+simply show that one in six households in America are enrolled.  That is a big number.  That is impacting a lot of folks.   
+One thing that I would like to highlight for you, Congressman.  One of the 
+initiatives that I had was Your Home, Your Internet, making sure that those that were in This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+83 
+ Federal housing assistance, HUD housing, Section 8 housing, that they knew about the 
+program, they automatically were qualified.  When I started that initiative, about 
+500,000 eligible households were enrolled.  After the momentum that the FCC gained 
+on it, nearly 2 million at the time of the freeze were enrolled.  So it is a real number of folks that started to know about the program, see what it could benefit for them for telehealth, telemedicine, for young learners.  And So I wanted to highlight that in the work that we have done coordinating with HUD, which is extraordinarily important.  
+Ms. Gomez.   Thank you, Congressman.  And by the way, thank you for the call 
+as well.  I enjoyed speaking with you very much.  
+I absolutely agree with everything that the chairwoman and Commissioner Starks 
+have said.  We are hearing from consumers, heartbreaking emails that we get from them just about every day.   
+In addition, when we go visit localities, we hear from parents who are extremely 
+worried about how they are going to afford connectivity for their children.  We hear 
+from seniors who are relying on the ACP in order to maintain connections.  And we hear 
+from the veterans.  This is both urban and rural areas nationwide, so it is a significant problem.   
+And as I mentioned earlier, I have lived with not having the resources to pay my 
+bills and having to make the difficult decision between paying for food or paying for a phone bill.  And this was before connectivity became so crucial to our daily lives.  So 
+this is a significant issue, and thank you for your leadership.  
+Mr. Veasey.   Yeah.  No, absolutely.  And I also wanted to ask you all, if 
+Congress is able to fund the ACP before the end of July, can the program be restarted 
+using possible bridge funding of $7 billion to $8 billion?  And do you think it also makes This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+84 
+ sense to include ACP in an update to the USF?   
+Ms. Gomez.   Thank you for that question.   
+First of all, I very much encourage the efforts on updating the USF.  We want to 
+make sure that it is sustainable.  And putting ACP as part of the USF funding would make 
+it sustainable as well and then we wouldn't have to have these conversations every few months.  
+Mr. Veasey.   Yeah.  
+Ms. Gomez.   To answer your first question, bridge funding would certainly be 
+helpful.  And if Congress passed it by the end of July, I would probably come here and do cartwheels.  
+Mr. Veasey.   Thank you very much.   
+Thank you, Mr. Chairman.  
+Mr. Latta.   Well, thank you very much.  The gentleman yields back.  
+And the chair now recognizes the gentlelady from Iowa for 5  minutes for 
+questions.  
+Mrs. Miller- Meeks.   Thank you, Chair Latta and Ranking Member Matsui, for 
+holding this hearing today.  And I want to also thank the witnesses for testifying before this committee.   
+I am hearing some very harsh language from the other side of the aisle; perhaps if 
+we prioritized our spending we wouldn't be worried about whether or not we get the 
+money.  But all I know is rampant $1.9 trillion COVID spending at the beginning of this 
+Biden -Harris administration led to rampant inflation, which has led to 20  percent cost 
+increases and has led to record high interest rates which are really challenging everybody.  And having grown up in a very humble family, having to decide whether or not I could This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+85 
+ afford food or something else very necessary, I know those challenges.   
+Commission Carr, in your testimony, you stated that the BEAD initiative is the 
+slowest moving Federal broadband deployment program in recent history.  Specifically, 
+$42 billion program, 967  days since it was signed into law, not one person, home, or 
+business has been connected to the internet with these dollars.  No construction projects will even start, according to the President, until 2025 and many in 2026.   
+Can you explain how the Biden -Harris administration's decision to add additional 
+red tape is causing unnecessary delays and jeopardizing the program?   
+Mr. Carr.   Thank you for the question.   
+I will start with your point about ACP and spending.  Look, the FCC did its own 
+survey, and it found that, of this $17 billion, only 15  percent of people said that they 
+would lose internet service if the program expired.  So I think as people in Congress focus on ACP, let's focus on the 15  percent, or whatever number really needs it, rather 
+than simply pouring more money into that existing program in its current form.  
+With respect to BEAD, $42 billion and a promise to connect millions of Americans, 
+and 967  days later not even a shovel worth of dirt has been turned.  Some people have 
+said we should measure that program by its intention to connect millions of Americans.  I think we should measure it based on its results, and right now, it is off the rails.  We are looking at DEI requirements, climate change requirements, price controls.  Right now, the Biden administration is going back and forth with Virginia that wants the money 
+to move forward, saying, you didn't put enough of a thumb on the scale for a price 
+control, please rewrite it this way.  The same thing with Tennessee.   
+So rather than staying laser- focused on just getting Americans across the digital 
+divide, we are wasting time on things that have nothing to do with connecting them.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+86 
+ Mrs. Miller- Meeks.   Do you think the program will be a success, more 
+importantly?  And then, how do we define success?  To me, it should be defined by the 
+number of households, the number of businesses that have been connected.  
+Mr. Carr.   I think BEAD is a program that is worth fighting for, but it needs a 
+course correction.  We can still do it.  Let's stop trying to pursue DEI and just bridge the 
+digital divide.  Let's stop pushing these climate change agendas and just connect communities.  If we can do those things and get rid of the extraneous political improvising, I think this program will get closer to getting back on track.  
+Mrs. Miller- Meeks.   Commissioner Simington, you indicated in your testimony 
+that the Universal Service Fund is in urgent need of reform.  How would you reform the USF both in terms of distribution and contributions?   
+Mr. Simington.   Absolutely.  So the Universal Service Fund, of course, dates 
+back to the Telecommunications Act of 1996, at a time when the landline market was a lot bigger than it is now.  Thus, on the front end of contributions, it is very difficult to 
+fund a growing program out of a shrinking base.   
+Now, if you look at what the landline network was supposed to do, universal 
+service says it was supposed to connect all Americans in a single network.  In fact, it was 
+to be a network that was intercompatible with all the networks worldwide and, thus, it benefited from the network effects of scale.  Today, the beneficiaries of the networks effects of scale are online companies primarily.  So to put it another way, when Comcast 
+gains a customer, it is not just Comcast; it is Google, it is Meta, it is Amazon.  These are 
+the companies that benefit even more from universal connectivity than individual network operators who do not have the same advantages of scale.  
+Mrs. Miller- Meeks.   How would you change that?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+87 
+ Mr. Simington.   Well, I think by contribution reform, we would say that the main 
+beneficiaries of these network effects should be considered as contributors.  
+Mrs. Miller- Meeks.   Thank you.   
+And lastly, more of a comment, because I think this question has been asked and 
+answered, but in agricultural heavy States like Iowa, the advancement of precision 
+agriculture is essential for our farmers to remain competitive and efficient.  Widespread and ubiquitous either broadband or wireless coverage.  And I have been in the combine with farmers who are using  -- or use Starlink.  I have visited with our manufacturers as 
+well.  It is really important for the adoption and importation of precision agriculture technologies, which would meet some of those sustainability goals that you are trying to implement.  And I would just encourage the FCC to expand and enhance wireless availability, as was mentioned earlier, to meet the growing demands, but also to ensure that the BEAD program is put in place and enacted, and let the providers get to do the work that they do because they are extraordinarily frustrated in my State.   
+And then, a question for the record.  Chairman Rosenworcel, answer a question 
+for the record, we would just like to ask what the FCC's role is in spectrum studies that NTIA is leading.   
+With that, I yield back.  
+Mr. Latta.   Thank you.  The gentlelady yields back.   
+The chair now recognizes the gentleman from Florida's Ninth District for 5  minutes 
+for questions.  
+Mr. Soto.   Thank you, Chairman.   
+We live in a time of incredible technological advances:  autonomous vehicles, 
+artificial intelligence, e -commerce, telehealth, online education.  All these things are This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+88 
+ going through our committee as we speak, and all require high -speed internet; 
+connections that we need to make sure every American has to flourish.   
+On the $42 billion fund for high- speed internet, as well as the $14.2  billion 
+Affordable Connectivity Program, both are part of making this access available to 
+everyone, especially in rural areas.  I have both urban, suburban, and rural in our district.  And the FCC, you all stand at the vanguard of this progress.  The only complaints I hear back home from local folks is it is not happening fast enough and that the Affordable Connectivity Program ran out.  
+Commissioner Gomez, thank you so much for coming to the district, to the 
+Orlando VA, and speaking with local veterans, including many disabled, wounded warriors.  And as you mentioned, 80  percent of medical treatments our veterans are 
+undertaking require broadband connection.  And ACP has provided benefits to 79,000 households in my district and has reduced cost by $37 million.   
+And so can you expand on the importance you think the ACP program plays, 
+especially in healthcare and for our veterans?   
+Ms. Gomez.   Thank you, Congressman, for that question.  And thank you again 
+for the visit in Orlando at the Veterans Affairs Medical Center.  It was really interesting, and I really appreciated hearing directly from beneficiaries of the Affordable Connectivity Program.  
+As you mentioned, 80  percent of healthcare from that medical center requires a 
+connection to broadband.  And we heard from so many folks during that visit about the importance of connectivity and the ways that it actually saves costs for these very veterans, particularly veterans with disabilities.  If they need to go to a hearing in order  -- for their benefits, before they had broadband connectivity, they would have to This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+89 
+ get in the car or a van, drive for hours, get a hotel room for at least a couple of days, in 
+order just to be able to attend the hearing.  Now they can do it online, and that saves 
+them costs, it saves the government costs.  So that is just one example of the things that 
+we heard when we were visiting with the VA center.  
+Mr. Soto.   Thank you.  
+Commissioner  Starks, as you may know, I filed the Launch Communications Act 
+again.  It has passed the House again.  We appreciate the Commission's important work on the issue of ensuring greater spectrum for launches.  We had 73 last year, we 
+will have over 100 this year, and the weather doesn't always cooperate.  So really 
+important that we continue streamlining this process.   
+Can you please discuss the need to expand the amount of spectrum that is 
+available for commercial space launches and reentries and the importance of streamlining the process for accessing spectrum for this use?   
+Mr. Starks.   Yes.  It has been -- thank you for your longstanding work here.  It 
+has been extremely important.   
+We are seeing more launches than ever.  We need to keep pace with the 
+technology, keep pace with innovation.  And we have been able to with the Space Bureau here, now be able to move quicker, be able to be more nimble.  And it has been more important than ever as we are getting more and more connectivity and more of what satellite is going to look like.  
+Mr. Soto.   Chair Rosenworcel, first of all, I am sorry for your loss, and welcome 
+back to the committee.  I am excited about the competition we are seeing in the satellite market.  We are launching so many of the Starlink satellites, and Kuiper Belt is about to come up as well, to expand both satellite internet as well and from low Earth This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+90 
+ orbit.   
+What can the Congress do to make sure the United States continues to lead in 
+building a competitive and dynamic space marketplace?   
+Ms. Rosenworcel.   Well, thank you.  I know that Kennedy Space Center and 
+Cape Canaveral are in your backyard.  And I had the privilege of going there last year 
+and meeting with the Artemis 2 astronauts.  And it really is an out of this world experience what is happening.   
+We have had, nationally, more than 200 space launches in the last year.  It is no 
+longer occasional.  We have built the biggest commercial space industry in the world.  And to the extent that this is a budget hearing, let me be clear, we need more resources for our Space Bureau.  You want us to process this faster and make sure we continue to lead the world?  That is part of the ways to do it.   
+I mean, we have got tens of thousands of satellite applications sitting before us 
+right now.  Everything we can do to get more engineers, economists, and policy experts 
+to review that, be thoughtful about it, and engage with our global counterparts is 
+valuable and it is valuable for our geopolitical leadership.  
+Mr. Soto.   And I second that, Madam Chairwoman.  
+I yield back.  
+Mr. Latta.   The gentleman's time has expired.   
+And the chair now recognizes the gentleman from Idaho's First District for 5 
+minutes of questions.  
+Mr. Fulcher.   Thank you, Mr. Chairman.   
+Mr. Carr, I paid particular attention to your comments just a few minutes ago 
+regarding the importance in the beneficial aspects of speeding up the process of approval This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+91 
+ across Federal lands with NEPA, National Historic Preservation Act.  And I actually have 
+legislation that would do that, and that is in the works.  So, hopefully, that will make 
+some headway with that.   
+But in a previous conversation, you had talked about a Federal Lands Desk, if I 
+recall correctly, and the possibility of a conduit there that might speed things up.  And 
+so this was not part of my original line of questioning, but is there anything further  -- it 
+has been a while since this conversation has taken place  -- is there anything 
+further  -- further developments on this, on the Federal Lands Desk, or is this something 
+that we need to take further steps for here?   
+Mr. Carr.   I think we need to continue to move forward.  There are a lot of 
+infrastructure ideas that we can do.  For instance, we streamlined a lot of rules at the FCC that apply to small cells, just one type of technology.  We need to extend those to more technologies, and the Federal Lands Desk I think would help as well, because Congress has taken a lot of stabs at streamlining the permitting process for Federal lands, 
+but a lot of these agencies, like Forest and otherwise, they have important day jobs as 
+well and they just don't get around to this quickly enough.   
+So I think if we had a place at the FCC where folks could come and help dislodge 
+some of those applications, I think it could be helpful.   
+Mr. Fulcher.   So it is particularly pertinent to my State.  We have got two -thirds 
+of land mass, approximately, where that is an issue.   
+I have also heard about backlogs as a concern, specifically within BLM for service.  
+Are you hearing anything like that that might be slowing down the process or the channels?   
+Mr. Carr.   We hear about this constantly.  I visited places all across the West This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+92 
+ where you will go to a laydown yard, an outdoor warehouse, and they will have, you 
+know, multiple antennas sitting there, many, many miles of conduit sitting there.  So the 
+hard part of, like, getting all that equipment out there and purchasing it is done, they are 
+not just sitting there waiting on approvals from the government to get out there and build it.  And I think that is a real big problem.   
+The further West you go, the higher percentage of Federal lands.  If you pick a 
+spot to build and it just happens to be Federal lands, it can take you two times longer than if that plot of land happened to be privately owned.  We have got to close that gap.  
+Mr. Fulcher.   Appreciate that.   
+Commissioner Rosenworcel, do you want to comment on that?   
+Ms. Rosenworcel.   Yeah.  I just want to acknowledge this is a good point.  
+Across the country, about one -third of our land is owned by Federal authorities.  It is the 
+least built out land when it comes to communications.  And I believe it was in the Middle Class Tax Relief and Job Creation Act that Congress required the GSA to set up a 
+uniform form for all of our Federal agencies when a provider wants to approach them 
+because they want some construction.  I think that form is called Form 299.   
+But the deadlines on that form are long.  They can take 270  days to respond.  
+Just to be clear, the FCC's deadlines for States and localities are 90  days and 150  days.  I 
+think we should expect a faster response time from our Federal authorities, and I would encourage you to you look into the status of Form 299.  
+Mr. Fulcher.   Appreciate that.  Appreciate that very much.  Thank you.  
+I would like to shift gears just a little bit.  This has been touched on as well, but I 
+hear feedback on it.  I want to ask Commissioner Carr if he can expound on this a little bit.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+93 
+ This is regarding the effect of the Title II proposal, and the impacts on small and 
+rural providers.  We have a lot of those in my State, but I am hearing the possibility of 
+price controls.  That is a concern in the industry.  And the potential impact on these 
+smaller and rural providers, I want to get your feedback on that.  Is that a real concern?  And what should we be doing about this?   
+Mr. Carr.   Thanks.  I think price controls as a policy matter is the absolute wrong 
+direction, because we need to be attracting billions of dollars across the country into these networks.  And there is a risk out there.  The FCC in its Digital Equity Order opens 
+the door to rate regulations at the Federal level, even though it disavows it in the 
+separate Title II decision.  But you are seeing a number of States, New York being an example, that are trying to impose price controls on their own.   
+Similarly, you see the Commerce Department, the Biden administration pressuring 
+States  -- Virginia is one example, Tennessee is another -- to adopt price controls, even 
+though the law that you pass here in Congress told Commerce Department no rate 
+regulations.  So there certainly is this latent and growing effort to impose it, and it is a 
+policy and legal mistake as well.  
+Mr. Fulcher.   Thank you for that.  
+Chairman Rosenworcel, this has got to be really quick, and I can follow up with a 
+written question as well.  But can you speak very quickly to the possibility of improving the process of adding entities to the FCC's covered list?   
+Mr. Latta.   And again, the gentleman's time has expired.  
+Ms. Rosenworcel.   Yeah.  The authority was given by Congress to other 
+agencies.  I can follow up with you on that.  I would happy to work with you to  --  
+Mr. Fulcher.   Thank you, Mr. Chairman.  I yield back.  This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+94 
+ Mr. Latta.   Thank you.  The time of the gentleman has expired.  
+The chair now recognizes the gentlelady from the Seventh District in Texas for 5 
+minutes of questions.  
+Mrs. Fletcher.   Thank you so much, Chairman Latta, and thank you, Ranking 
+Member Matsui, for convening today's hearing.   
+And thank you to our commissioners for being here to testify about the FCC and 
+the many important issues under its jurisdiction.   
+And as many of you, I think probably everyone here has seen, Hurricane Beryl hit 
+the Texas Gulf Coast yesterday with my hometown of Houston right in the path of the 
+storm, when this Category 1 hurricane made landfall yesterday and made it right through Houston and our area.  As of last night, there were 2.2  million people without power, 
+including at my own home.  
+And I know that our folks on the ground are working as hard and as quickly as 
+possible to restore power and to restore communications.  And I have spoken with a lot 
+of our local communications providers who have established backup power sources to 
+make sure that my constituents don't lose their ability to be in contact with emergency responders, with family, with friends, and to try to make sure that they can get through the storm during this emergency.   
+So, Chairwoman Rosenworcel, I really want to thank you and thank all of your 
+colleagues for the Mandatory Disaster Response Initiative, MDRI.  And for those who 
+don't know, these are new rules that took effect in May  -- just in May  -- that wireless 
+providers take certain actions to improve and reduce the impact of wireless outages and 
+support faster service restoration during emergencies like this one.  It has been absolutely critical that people have been able to be in contact.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+95 
+ And, you know, one of the actions, of course, is requiring backup power sources 
+for cell sites and infrastructure, and that has proved to be very important, as I really 
+haven't had trouble reaching people, other than that they maybe can't keep their devices 
+powered.  So those are huge challenges.  And I know that in response to Beryl, the FCC announced the activation of the Disaster Information Reporting System and for the first time this mandatory initiative.  
+So, Chairwoman Rosenworcel, with the time that we have, can you just talk a little 
+bit about why it was important for the FCC to move this from a voluntary program to a 
+mandatory program?  And maybe just explain a little bit about what that will mean for 
+my constituents, what some of the actions are that are required, and how in moments like this where we are really in crisis how your agency is working to help make sure that 
+we have the resources and information that we need to stay in communication.  
+Ms. Rosenworcel.   Yeah.  Thank you.   
+Everyone needs communication, and especially in crisis.  And, unfortunately, the 
+Texas Gulf Coast has had more than its fair share of weather events, and as a result, we started the disaster system that takes in data about when services are down.  We also sent individuals down to the Houston area to work with FEMA on this.  We have a lot of people who do that work, they do it quietly.  They are real heroes.  They go and get some ground troops throughout the state of communications and help with restoration.   
+And we also have a first test case of our Mandatory Disaster Response Initiative 
+which requires carriers to work with one another and let their customers roam on each other's networks.  This was previously a volunteer initiative, but I went with Commissioner Carr after Hurricane Ida to Louisiana.  We spoke with a lot of public safety officials, and they convinced us both that this should be required.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+96 
+ So after Hurricane Beryl leaves the Houston area, one thing we are going to do is 
+find out how it worked, because we want to make sure it works for everyone going 
+forward.  This is both a tragedy, but I think it is also an opportunity.  I think you are 
+going to be able to demonstrate to us how our carriers worked with one another and kept people connected.  
+Mrs. Fletcher.   Well, thank you so much for that.  And I have a little bit more 
+time, so I also want to ask, one of the challenges we are seeing is, of course, keeping track of outages of all kinds, including the power outages.  But also, I know that the agency 
+recently issued an order classifying broadband as Title II service that will give the FCC 
+insight into network outages, and that will ultimately, I think, benefit people in my district and across the country.   
+Can you just talk a little bit more about what that will mean?   
+Ms. Rosenworcel.   Yeah.  When broadband goes out, a community goes down.  
+When it goes out in my house, you know, my children are ready for revolution.  It is one 
+of those circumstances that affects everything in modern life.  It is why the Federal 
+Communications Commission needs the authority to collect data about outages, not just in the aftermath of weather disasters, but also outages that occur when we least expect them.   
+There was a community in Michigan that lost service during the pandemic for 
+45 days, but the FCC had no data or information about it.  Now that we have Title II 
+authority back, we will be able to collect information about outages, understand why they occur, and then take action to prevent them from occurring again, which is really, really important for all of us who count on the internet in our day -to-day life.  
+Mrs. Fletcher.   Well, thank you so much for that.  And I am glad to hear about This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+97 
+ how the commissioners are working together in this instance.   
+I don't have time for another question, but with the 10  seconds I have left, I don't 
+think I can close without mentioning my surprise that FCC officials that are nominated by 
+the President and confirmed by the Senate are listed as contributors to the Project 2025 plan, which is really a blueprint for dismantling our government and eviscerating agencies like this one and others and fundamentally changing our country.  So I am surprised and very disappointed to see that.   
+And with that, I yield back.  
+Mr. Latta.   The gentlelady's time has expired.   
+The chair now recognizes the gentlelady from Florida's Third District for 5  minutes 
+for questioning.  
+Mrs. Cammack.   Well, thank you, Mr. Chairman.  Thank you to our 
+commissioners for appearing before us here today.  
+I will start with you, Chairwoman.  In June, the chairman of the Federal Elections 
+Commission sent you a letter regarding the FCC proposed regulations on AI and political advertisements.  Now, in the letter, Chairman Cooksey stated that the FCC lacks the legal authority to promulgate conflicting disclaimers requirements only for political communication.  He also stated that it would create confusion and disarray among political campaigns.   
+Now, have you spoken to Chair Cooksey about this proposal, and do you plan to 
+move forward following the FEC's concerns about the authority and political speech?   
+And I apologize, I am in three conflicting hearings today, so if this has been asked, 
+I appreciate you answering it again.  
+Ms. Rosenworcel.   First of all, I believe in transparency.  I believe every single This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+98 
+ consumer should know if AI is being used.  I think it is good for truth, honesty, and 
+safety that every single one of us knows if AI is being used.   
+I spoke to the vice chair of the FEC who thinks that we have complementary 
+authority here, because since 1930, the FCC has been requiring campaigns, when they advertise on television and radio, to file with us what ad they put up, when it ran, and how much they paid for it.   
+In 1974, Congress --  
+Mrs. Cammack.   No, wait.  Chairwoman?   
+Ms. Rosenworcel.   -- asked cable authorities to do that.  And then in 1992 --   
+Mrs. Cammack.   I asked if you spoke with the chair, not the vice chair.  
+Ms. Rosenworcel.   I have only spoken to the vice chair, but the truth is we have a 
+long history.   
+Mrs. Cammack.   So the chair and the vice chair have differing opinions on this.  
+Ms. Rosenworcel.   Since 1930, we have been collecting this data in our files.  
+Mrs. Cammack.   I am not trying to be adversarial.  I am just trying to get to the 
+bottom of this.   
+So there is a --  
+Ms. Rosenworcel.   Okay.  Fair.  So I have spoken to the vice chair --  
+Mrs. Cammack.   There is a disconnect between the chair and the vice chair over 
+at the FEC.   
+Ms. Rosenworcel.   Yeah.  They have a difference of opinion.  The vice chair 
+says that, clearly, we have complementary authority in this area.  I agree with that.  
+Mrs. Cammack.   So what is the plan, because we are less than 5  months out from 
+a significant election?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+99 
+ Ms. Rosenworcel.   Yeah.  Totally.  I agree with you, but what I have 
+proposed  --  
+Mrs. Cammack.   All of us being candidates, in addition  --  
+Ms. Rosenworcel.   Let's talk about what I proposed, because I feel like this 
+conversation isn't about that.  What I have proposed is a rulemaking, a proposal that we 
+collect public comment on whether or not advertisements that are run on our televisions and radios should just disclose if they use AI.  
+Mrs. Cammack.   I think  --  
+Mr. Latta.   The gentlelady is asking a question.  
+Mrs. Cammack.   Yes.  I don't think that that requires a whole comment period 
+because, by and large, everyone wants transparency, right?  It is a matter of does the FCC have authority to do so.   
+So, Commission Carr -- 
+Ms. Rosenworcel.   We have laws since 19  --  
+Mr. Latta.   No.  The gentlelady from Florida has the floor to ask.   
+Mr. Carr.   The proposal that would have the FCC mark a monumental sea change 
+in the regulation of political speech on the eve of a national election is as unlawful as it is misguided.  As the chairman of the FEC has made clear, Congress has given them exclusive authority with respect to disclosures involving political ads.  Moreover, the FCC can only muddy the waters here.  It would put in place a proposal that applies only to an 
+ad on broadcast TV, but you could see the same ad online or on cable that wouldn't have 
+the disclosure.  That is going to leave consumers less informed, perhaps more confused than they are today.   
+So I think the FCC should abandon this proposal because it can only move forward This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+100  
+ right on the eve of an election.  This is an important debate, the use of AI, no doubt, but 
+that debate should be happening here in Congress, and it is happening at the FEC as well.  
+It is just not a job for the FCC right now.  
+Ms. Rosenworcel.   I don't know why we are so scared of --  
+Mrs. Cammack.   I am sorry, I have to  -- I have to reclaim my time.   
+Mr. Latta.   The gentlelady from Florida is asking the questions and has the floor.  
+Mrs. Cammack.   Chairwoman, I have got to jump to another issue.   
+Thank you, Commissioner Carr, for that feedback.   
+Ms. Rosenworcel.   No problem.  
+Mrs. Cammack.   The 4.9 gigahertz band, as we know, very, very important, first 
+responders public safety.  I want to get to a timeline for making a decision on whether 
+this band will be reallocated to FirstNet or it will be auctioned.  Do we have that?   
+Ms. Rosenworcel.   We have an open docket on that.  We are taking in comment 
+from all kinds of public safety authorities right now.  To be clear, it is not a question of 
+whether it will go to FirstNet or be auctioned.  It is a question of what public safety 
+authorities might be managing these airwaves going forward.  
+Mrs. Cammack.   Timeline?   
+Ms. Rosenworcel.   My hope is that we can do this within the next several 
+months, but, boy, lots of people are filing a lot of stuff before us.  And when it comes at us fast and furious, we have to spend some time looking at it and reading it carefully.   
+Mrs. Cammack.   There is a lot more that I wish I could get to.  I wish you guys 
+could see my notes here, or maybe not, I am not sure.  But I want to leave us in the last 22 seconds with this.  
+I agree with you, Commissioner Carr, that this could severely muddy the waters This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+101  
+ when we are talking about AI.  While I agree wholeheartedly that we need transparency 
+and clarity about the use of AI in political advertisements, the FEC has jurisdiction over 
+this issue.  And the fact that there are divided opinions, conflicting opinions within the 
+FCC, that you have not spoken to the chair of the FEC, is concerning.   
+So with that, my time has expired.  And, Mr. Chairman, I yield.   
+Mr. Latta.   Thank you.  The gentlelady's time has expired.   
+And the chair now recognizes the gentleman from New York, who is waiving on to 
+the subcommittee, who is a member of the full committee.  
+Mr. Tonko.   Thank you, Chair Latta and Ranking Member Matsui, for holding this 
+hearing, and the chair and commissioners for your service in being here today.   
+Before I go on with my questioning, Chair Rosenworcel, I think you wanted to 
+make a statement in response to the AI issue yet.  
+Ms. Rosenworcel.   I just think transparency is a good thing, disclosing when AI 
+use is a good thing.  And the FCC has authority in this area and has had authority since 
+the 1930s.  
+Mr. Tonko.   Thank you.   
+Throughout my tenure in Congress, I have championed efforts to extend 
+broadband access to unserved and underserved areas.  Last Congress, I was proud to 
+support the Bipartisan Infrastructure Law, which allocated over $42 billion for high -speed 
+broadband deployment nationwide.  With these historic investments, accurate 
+broadband maps are essential for the equitable and effective allocation of Federal funds.   
+Chairman Rosenworcel, I appreciated your work on behalf of my district, visiting 
+the district and listening carefully to what my constituents had to say about this issue.  
+And I appreciate your written testimony on the National Broadband Map, and commend This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+102  
+ the FCC for the substantial progress made in updating these maps over the past few 
+years.  However, in the Capital Region of New York, we are still seeing the effects of 
+unreliable data.   
+Communities often struggle with slow speeds, unreliable connections, or no 
+service, despite being designated as having access.  This disparity can hamper economic 
+development and perpetuate systemic inequalities, widening the digital divide.   
+So can you speak please, Commissioner Chair, to  -- can you speak to how the FCC 
+is incorporating consumer- reported data on broadband availability and quality into its 
+mapping efforts and the role public feedback plays in efforts to refine our broadband maps?   
+Ms. Rosenworcel.   Yeah.  Public feedback is so important.  We built maps 
+based on the Broadband DATA Act, which is bipartisan work of this committee.  Those maps are light years ahead of anything we have ever had before, and they are iterative.  They are improving all the time.   
+The primary way that they improve is when consumers and State and local 
+officials go on to that website and register a complaint or a criticism that says, you say there is service here, I am standing right in that location and, no, there is not.  And so I would encourage you to encourage your constituents to work with that map.  And I would be happy to set up times for them to discuss it with our broadband mapping team, because I know feedback from local individuals is the way we get this data right.  
+Mr. Tonko.   Thank you so much.  And can you discuss how the FCC collaborates 
+with other Federal agencies, State governments, and industry stakeholders to streamline broadband mapping efforts and ensure a cohesive approach to improving nationwide broadband access?   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+103  
+ Ms. Rosenworcel.   Yeah.  It is a really, really big task, to be candid with you.  
+When I got to the agency and I took over, one of the first things I did was said, okay, we 
+are going to do better maps.  And then I studied it and I instantly know, understood why 
+nobody had done it before.   
+We had to build a data set of tax records, property records, satellite images that 
+indicated where every single household is in the United States.  And then we had to build a system that was capable of taking in data from all of our carriers, and then feedback and crowdsourced information from local, State, Tribal, and consumers all 
+telling us, what is going on.   
+The system right now is terrific.  We have got 115 million households that we 
+indicate where broadband is.  We know that in 6 million of them it is not present.  But 
+it can always be improved.  That is why we update it every 6  months.  And coming out 
+this week, in fact, is another rulemaking from the FCC that all my colleagues supported which asks questions about how we improve this process further to make sure we take 
+into account smarter approaches to things like fixed wireless and technologies that may 
+not have been at the forefront when the Broadband DATA Act was passed by this committee.  
+Mr. Tonko.   Thank you.  Additionally, earlier this year, I was pleased to see your 
+proposal to improve routing for the 988 Suicide and Crisis Lifeline.  As a co -lead of the 
+bipartisan 988 lifeline improvement act, I am committed to ensuring that callers in crisis 
+receive access to locally relevant mental health resources.   
+In May, the KFF released an analysis of the utilization of the 988 Suicide and Crisis 
+Lifeline's LGBTQ service showing that 10  percent of all 988 outreach was made via the 
+LGBTQ service, but only 20  percent of LGBTQ adults were even aware of the 988 service.   This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+104  
+ So could you discuss any initiatives the FCC is undertaking to raise public 
+awareness about the availability and purpose of 988, especially among vulnerable 
+populations that may benefit most from the service?   
+Ms. Rosenworcel.   Yeah.  Well, first things first, we are seeing substantial 
+increases in the use of 988, the simple three -digit number.  More people understand it, 
+more people know about it.  We are getting many more calls than we previously did 
+under the 10 -digit number that was hard for folks to remember.   
+We are going to have to work on publicizing it with mental health authorities.  
+My colleagues and I have a lot of skills, but we are not mental health experts, so we have been coordinating with the Health and Human Services Department and the Substance Abuse and Mental Health Services agency there.  And going forward, we are going to work with them to make sure that calls are georouted; in other words, we get information off the cell tower so that when we send that 988 caller to a help center, they will be sent to assistance that is nearby.   
+Mr. Tonko.   Thank you so much.   
+And, Mr.  Chair, I yield back.  
+Mr. Obernolte.   [Presiding.]  The gentleman yields back.   
+I will recognize myself for 5 minutes for questions.   
+Chair Rosenworcel, it is very nice to see you again.  I would like to continue a line 
+of questioning that was started by my colleague from Florida, Mrs. Cammack, about the 
+FCC's recent actions to put restrictions on the use of AI in political advertising.   
+And to be clear, I don't think anyone disagrees with the importance of putting 
+some guidelines in place.  I think everyone is disturbed by the thought that a campaign 
+could run an ad with their opponent saying or doing something that they didn't actually This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+105  
+ do with the use of AI to make that happen.  But we want to make sure that we get this 
+done in the appropriate way.   
+And Mrs. Cammack highlighted the fact that the chair of the FEC has objected to 
+the FCC's use of your regulatory authority to do this, and so I just wanted to ask a couple questions about that.   
+If the FCC has authority over broadcast television, so, ostensibly, if you 
+implemented this rule, you could require a disclaimer on ads on broadcast, but could you require that same disclaimer on other channels, such as streaming services or social 
+media?   
+Ms. Rosenworcel.   To be clear, Congress has given us this authority for 
+broadcast, radio, satellite, and cable.  That is a substantial portion of campaign ads.  
+And we have exercised this authority as far back as 1938.  So this is the system everyone has used for decades.  Every single campaign reports when an ad was run, who paid for it.  And on air they say who is responsible for it.  So we are just behind this principle of 
+transparency, which is you should simply say if AI was used.  It is nothing more 
+complicated than that.  We are proposing transparency.  It is very simple.  Was AI used, yes or no?   
+Mr. Obernolte.   Sure.  I understand that.  
+Ms. Rosenworcel.   And separately, though, I want to just make one more point.  
+We have these files for Federal, State, local, and issues.  In other words, it is a far 
+greater community than what the Federal Election Commission oversees.  That is why 
+the vice chair said we have complementary authorities in this area, and I agree.  
+Mr. Obernolte.   So here is a concern that I have, which is that if the FCC imposes 
+this requirement but that requirement is not mirrored by requirements on other This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+106  
+ channels, such as social media and streaming services, then the public could become 
+desensitized when they see an ad on one of those other channels that lacks that 
+disclosure because they assume, they make the assumption that the disclosure applies to 
+all the channels equally.  And that is why we want to make sure that we get this right.   
+This is actually an issue that the Artificial Intelligence Task Force here in the House 
+has discussed.  And I can tell you that the implementation of it is more complicated than merely requiring a disclosure, because you have to talk about what AI is and what it isn't, what it has been used for and what it hasn't.  And the example you and I were talking 
+about absolutely 100  percent is something that not only should require disclosure, it 
+should not be allowed, in my opinion.   
+But the use of AI being  -- to choose the opposite end of the extreme --  to clean up 
+the audio of a candidate in a speech, which also occurs, is something that is completely 
+benign and might not even require disclosure.  So the devil is in the details.   
+Ms. Rosenworcel.   Sure.  So I just want to say, I completely agree with you.  
+This is complicated.  I would be very happy to have a conversation about that, but it is very clear that transparency is a good thing, we have authority here, and also that you have got to start somewhere.  Our proposal is just a request for public comment.  And when you think about AI and the confusion involved and the complexities of these issues, asking for public comment about an issue of transparency is a good thing.  
+Mr. Obernolte.   Right.  I would agree.  And let's work together to make sure 
+that this happens.  We want to make sure it happens in a way that solves the problem completely so it applies to all the channels of communication and solves the problem comprehensively in a way that doesn't devolve into different agencies arguing over does the FCC have the authority, does the FEC, has Congress delegated this authority.  You This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+107  
+ know what, let's get the problem solved by working together.   
+Ms. Rosenworcel.   And, listen, I think our public  -- and I think our Notice of 
+Proposed Rulemaking that I proposed can open up a dialogue for just that.  We can in 
+public discuss these issues; try to refine the kind of definitions that you just described, /understand what applies to Federal elections, State elections, local elections issue campaigns; and make sure that we come up with something that is simple and that people can trust; and just puts transparency front and center for the American public.  I think we are all capable of doing that, and I think that is what our proposal was designed 
+to do.  
+Mr. Obernolte.   Let's work together on that.  
+Mr. Carr.   Yeah.  This is not something that we should be rushing through on 
+the eve of an election.  As you noted, it is complex.  You have got deceptive deep fakes 
+on the one hand, you have got the use of ChatGPT to run scripts for ads on the other end.  This is something that Congress is taking a serious look at.  It is complicated.  We 
+shouldn't be rushing this through before an election.  
+Mr. Obernolte.   Commissioner Carr, I appreciate your engagement on that.  My 
+point about the different channels I stole from your testimony, so thank you very much 
+for being engaged on that.  
+My time has expired.   
+Seeing no further members waiting to be recognized, I would like to thank our 
+witnesses for being here today.  I think this has been a very useful exercise in not only the separation of powers but our ability to work together.  And means a lot to me that you are willing to come here and testify.  
+I would ask unanimous consent to insert in the record the documents included in This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+108  
+ the staff hearing documents list.  Without objection, that will be the order.  
+I remind members that they have 10 business days to submit questions for the 
+record, and I ask the witnesses to respond to the questions promptly, and I know you will.  
+Members should submit their questions by the close of business on Tuesday, July  23.   
+Without objection, the subcommittee is now adjourned.   
+[The information follows:]  
+ ******** COMMITTEE INSERT ********This is an unedited transcript.  The statements within may be 
+inaccurate, incomplete, or misattributed to the speaker.   
+  
+109  
+  
+[Whereupon, at 12:49 p.m., the subcommittee was adjourned.]  
+ 
+ 

@@ -1,0 +1,18 @@
+
+								FCC proposes 72-hour breach reporting timeline for emergency alert system participants							
+
+By
+Nihal Krishan
+
+
+
+October 27, 2022
+
+
+The Federal Communications Commission on Thursday proposed rules that would require companies such as broadcasters and cable providers that participate in public alert systems to report cyber breach incidents that affect certain equipment within 72 hours.
+The FCC's notice of proposed rulemaking, FCC 22-82, was approved on a bipartisan basis by all of the agency's commissioners and is intended to improve the operational readiness and security of the country's public alert and warning systems, the Emergency Alert System and Wireless Emergency Alerts. These systems warn Americans about emergencies through alerts on their televisions, radios, and mobile phones.
+The rulemaking is intended to protect against cyberattacks by requiring Emergency Alert System participants, such as broadcasters and cable providers, to report incidents of unauthorized access to their Emergency Alert System equipment to the Commission within 72 hours, the FCC said in the  proposed action notice. This would allow the Commission to work with participants and other government agencies to resolve an equipment compromise before it is exploited to send false alerts.
+If enacted, the rules would also enhance security measures by requiring Emergency Alert System participants and the wireless providers that deliver Wireless Emergency Alerts to annually certify that they have a cybersecurity risk management plan and implement sufficient security protocols for their alerting systems.
+They would also create a buffer against fake or false alerts by requiring participating wireless providers to transmit sufficient authentication information to ensure that only valid alerts are displayed on consumer devices like phones and televisions.
+The proposals come after the Federal Emergency Management Agency warned in August that hackers can use the U.S. Emergency Alert System to issue TV, radio and cable network alerts if encoder and decoder device software isn't properly updated.
+FEMA issued an advisory to broadcasters after learning the exploit may be used to a large audience at the DEF CON hacking conference in Las Vegas that ran in early August.

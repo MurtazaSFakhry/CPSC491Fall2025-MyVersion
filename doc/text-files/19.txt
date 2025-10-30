@@ -1,0 +1,28 @@
+
+
+	Federal Communications Commission Adopts Rule Requiring Location-Based Routing for 9-1-1 Calls
+
+
+On January 26, 2024, the Federal Communications Commission (FCC) released a report and order, which adopted rules to increase the precision of routing wireless 9-1-1 calls to Public Safety Answering Points (PSAPs). Historically, these calls have been sent to PSAPs simply based on the location of the cell tower that takes the call. This process caused problems when a 9-1-1 call was made from Jurisdiction A, but the nearest cell tower is located in Jurisdiction B; this situation would require PSAPs to transfer the 9-1-1 call among themselves to find the correct jurisdiction. It takes time and resources to make these transfers, leading to increased response times and increased harm to those in need of emergency services. In an extreme example, a six-year-old boy drowned in July 2022, when a 9-1-1 call originating in Missouri was mistakenly routed to Colorado.1
+Under the new FCC rules, wireless providers are required to use technology that allows for location-based routing. This method uses the caller's IP-network to provide a more accurate location from which the call is originating, allowing for the correct PSAP to receive the call.
+The FCC estimates that the cost of this program will be up to $215 million; however, this is drastically outweighed by the $173 billion benefit of eliminating the call transfer time between PSAPs and reducing deaths due to such delay.2
+National wireless providers have until November 13, 2024, to implement their location-based routing programs for wireless calls and until May 13, 2026, for real-time texts (non-national wireless providers have until May 13, 2026, for both wireless calls and texts).
+The Impact on Fire Departments
+The International Association of Fire Chiefs thanks the FCC for moving this impactful and life-saving proposal forward. We will continue to monitor the FCC�s work on Location-Based Routing for 9-1-1 calls and will maintain its efforts to strengthen our membership's ability to conduct operations in the most effective and efficient ways.
+John Drummond is the legal intern for the IAFC Government Relations & Policy department.
+No categories have been created yet.
+SmartTech, Robotics, & the Future of Responder Health: learn what's new at TSI 2024 read more
+The House passes legislation to increase the Social Security benefit for many career fire and EMS personnel and their spouses read more
+Ashburn Volunteer Fire & Rescue Department (AVFRD) recipient of the 2024 William F. Jenaway Illness & Injury Prevention Award. read more
+Spread the word about Lithium-ion battery safety
+Originally developed by the City of Toronto and Toronto Fire Services, these resources have been adapted for fire services across Ontario. With tailored messaging and resources, they empower communities to recognize risks, adopt safer ...
+As Election Day nears, the potential for unrest and other election-related issues remains. This document provides an overview of the current situation, highlighting the importance of continued interagency collaboration and operational coordination during this period.
+The United States Intelligence Community has ...
+Are you ready? As first responders, we know we have to perform in challenging situations, and that there are scenarios we have never encountered ourselves. Do you have a plan to evacuate your city or county? Have you built the ...
+This toolkit provides multimedia resources quickly available for you to be able to share messaging to your community after Hurricane Milton.
+After the Storm Web Resources
+Hurricane Milton disaster declaration page on FEMA.gov in English and in Spanish.
+After the Storm Graphics, Social ...
+Recognizing the challenges that fire chiefs can suddenly find themselves in, the International Association of Fire Chiefs, Homeland Security and Terrorism Committee set out to create a'Fire Service Quick Incident Response Workbook for Civil Unrest and Disturbance to help IAFC member ...
+8251 Greensboro Drive, Suite 650, McLean, VA 22102 | Tel: 703-273-0911 
+ 1999 - 2024 International Association of Fire Chiefs. All Rights Reserved.

@@ -1,0 +1,230 @@
+ 
+https://crsreports.congress.gov  
+ 
+October 8, 2024
+Restoration of Cell Phone Services: Hurricane Helene
+On September 26, 2024, Hurricane Helene  made landfall 
+near Perry, Florida. The hurricane caused flooding and 
+damage to personal property and critical infrastru cture, 
+including roads , power, and communication networks . The 
+storm’s damage spread  across parts of Florida, Alabama, 
+Georgia, the Carolinas, Tennessee, and Virginia. According 
+to data reported to the  Federal Communications 
+Commission (FCC)  by wireless service providers , while 
+cell sites had been repaired in many counties  a week after 
+the storm ( October 3, 2024 ), some counties ’ cell site 
+outages persisted. Congress may examine public -private 
+preparedness for communication outages from Hurric ane 
+Helene and consider how to prepare  for and respond to 
+future disasters and restore cell service in hard -hit regions.  
+Some state and local officials  reported coordination with 
+wireless service providers on preparation and restoration 
+efforts; others, inc luding a mayor  and residents  in North 
+Carolina, reportedly faulted public -private preparation 
+efforts. Wireless providers reported on preparation and  
+restoration efforts but noted challenges in some areas.  
+Challenges derived from damaged critical infrastructure 
+(e.g., roads) inhibiting access to cell sites , damage to cell 
+towers and wire lines (e.g., fiber) that connect cell sites to a 
+provider’s network , and lack of power to cell sites 
+hindering permanent restoration.  
+Federal Role in Restoring Cell Services  
+Generally, wireless networks are privately owned. Network 
+owners take responsibility for repair ing their networks and 
+restor ing services for their customers (e.g., government 
+agencies, businesses, indivi duals) after disasters.  
+When authorized , the Federal Emergency Management 
+Agency ( FEMA ) may deploy communication assets  to 
+support federal, state, local, tribal, and territorial response 
+(e.g., deploying mobile assets for emergency managers). 
+FEMA also coordinates with the p rivate sector to aid in the 
+restoration of private networks (e.g., coordinat ing debris 
+removal to enable access to cell sites, shar ing information 
+on power restoration).  
+The FCC monitors the status of commercial networks and 
+provides government officials and the public with 
+information on the status of communications, outages, and 
+restoration efforts. To do this, the FCC requires providers to 
+report on the status of their networks during disasters.  
+Disaster Information Reporting System  
+In anticipation of a disaster or after an unexpected disaster, 
+the FCC may activate the Disaster Information Reporting 
+System  (DIRS). DIRS is  a web -based system that providers 
+use to rep ort network status during disasters. The FCC 
+announces DIRS activations through public notices and 
+emails to providers; the notice lists the counties covered 
+and reporting requirements. The FCC requires  providers to 
+submit daily reports on their network status  for listed 
+counties. The FCC gives network status data to federal emergency management officials. It also allows  designated 
+state agencies to share the information with first responders, 
+emergency communications centers, and other government 
+agen cies with a public safety role. The FCC publishes 
+aggregated outage data (e.g., communications status reports 
+on the FCC’s Hurricane Helene website ). 
+Mandatory Disaster Response Initiative  
+The FCC can activate the  Mandatory Disaster Response 
+Initiative  (MDRI) for facilities -based mobile wireless 
+providers operating in a certain geographic area in the 
+aftermath of a disaster. In June 20 22, the FCC adopted a 
+Report and Order  codifying an existing voluntary 
+agreement between a limited group of large wireless service 
+providers agreeing to coord inate during disasters to enable 
+access to communications  (called the Wireless Network 
+Resiliency Cooperative Framework ). The rules  require 
+providers to improve coordination during emergencies or 
+disasters by   
+• providing for reasonable roaming when feasible , 
+• establishing mutual aid agreements with other wireless 
+service providers ,  
+• enhancing municipal preparedness and restoration ,  
+• increasing consumer readiness and preparation , and  
+• improving public awareness and stakeholder 
+communications on service and resto ration status.  
+FCC rules  require providers  to perform these tasks when 
+MDRI is activated. The FCC may activate MDRI when  
+• an authorized entity (e.g., FEMA) activates Emergency 
+Support Function 2  (ESF -2)—a team of federal agencies 
+designated to support restoration of communications;  
+• the FCC activates DIRS; or  
+• the FCC’s Public Safety and Homeland Securi ty Bureau 
+Chief releases a public notice in response to a state’s 
+request to activate MDRI, where that  state has activated 
+its emergency operations center  or mutual aid 
+agreements or has proclaimed a state of emergency.  
+Hurricane Helene Response  
+Private -sector wireless service providers  and the U.S. 
+government, including FEMA and the FCC, took action 
+before, during, and after Hurricane Helene to protect and 
+restore communications infrastructure.  
+Before  Hurricane Helene Made Landfall  
+Days before landfall , the U.S. government and private 
+telecommunication providers began preparing for Hurricane 
+Helene’s arrival in the continental United States.  On 
+September 24, 2024, FEMA announced  that it was actively 
+preparing and pre -staging resources to support state and 
+local government response, including Mobile Emergency Restoration of Cell Phone Services: Hurricane Helene  
+https://crsreports.congress.gov  Response Support  (MERS), which include s mobile 
+emergency  communications facilities , and incident teams .  
+On September 25, 2024, the FCC announced  that at the 
+request of the State of Florida, and in coordination with the 
+Cybersecurity and Infrastructure Security Agency (CISA) 
+and FEMA —the ESF -2 coordinators —it was activating 
+DIRS and MDRI ahead of the hurricane for select counties 
+in Florida, Georgi a, North Carolina, and South Carolina. 
+For DIRS, the FCC required providers to report outages to 
+the FCC in listed counties. With MDRI activation, the FCC 
+required wireless providers operating in those  counties  to 
+enable roaming across networks , coordinate  with each other 
+and with state and local agencies on preparation and 
+restoration efforts , and keep stakeholders and consumers 
+informed of status and restoration efforts.   
+Private telecommunication providers (e.g., AT&T , Verizon , 
+and T-Mobile ) reported taking various actions to prepar e 
+for the hurricane. They fortified their networks, refueling 
+generators and providing backup batteries at cell sites and 
+switching centers. They reported prepositioning mobile 
+assets (e.g., satellite cell  on light trucks, satellite cell  on 
+wheels)  and dep loying teams to the region. Providers 
+indicated that they were coordinating with state and local 
+governments and with their public safety customers and 
+were ready to receive requests for assistance. The provide rs 
+also were preparing and pre -staging equipme nt for 
+deployment, and providers offered preparedness guidance 
+to consumers.  
+The FCC  reminded  public safety and national security and 
+emergency preparedness personnel (NSEP) enrolled i n 
+Priority Telecommunication Services  about the services 
+available to enrollees. The program, managed by CISA, 
+prioritizes (1) public safety communications on wireline 
+and wireless networks and (2) restoration and provisioning 
+of communication assets for NSEP. On September 26, 
+2024, before the hurricane made landfall, the FCC posted 
+its first communications status report , listing counties 
+covered by DIRS, and began tracking outages .  
+During and After Hurricane Helene  
+On September 27, 2024, the FCC expanded  the activation 
+area to include additional counties in South Carolina, 
+Tennessee, and Virginia . It also began issuing daily 
+communications status reports  with cell site outages in each 
+affected state and county  and the percent age of cell sites 
+down in each state during the DIRS activation  period 
+(Figure 1).  
+Figure 1. Percent age of Cell Sites Out of Service , by 
+State  (September 27 to  October 3, 2024 ) 
+ 
+Source: FCC, “Communications Status Report for Areas Impacted 
+by Hurricane Helene ,” October 3, 2024 .  Notes:  The figure shows c ell site outages reported to the FCC by 
+wireless service providers operating in certain counties affected by 
+the storm. The number of site s out in a specific area does not 
+necessarily correspond to the availability of wireless service to 
+consumers in that area , due to overlapping cell sites that ma y provide 
+coverage and temporary solutions deployed by providers to enable 
+connectivity .  
+Wireless service providers reported network outages to the 
+FCC and on  their websites ; responded to public safety 
+agency requests ; and in some areas , enabled roaming.  
+On September 30, 2024, the FCC announced  deactivation 
+of DIRS and MDRI for certain counties but retained DIRS 
+reporting and MDRI coordination in others, as outages and 
+restoration efforts continued . For example, in North 
+Carolina, FEMA deployed  Starlink satellite systems in each 
+county emergency operations center. The FCC waived 
+eligibility requirements under its Lifeline  program, to offer 
+discounted phones and broadband services to affected  
+individuals , and continued to report on outages . 
+While the FCC does not include information on specific 
+vendors, an October 2, 2024 , media report  stated that 
+Verizon and AT&T reported that 60% of their sites 
+impacted by the storm had been restored and that they were 
+continuing to deploy t emporary cell sites to enable 
+communications. T-Mobile reported  that it had restored 
+most sites in West Virginia and Georgia, but in t he 
+Carolinas, where access  remain ed a challenge, restoration 
+was ongoing . Where power was out, providers said they 
+were continuing to supply batteries and fuel to generators. 
+Where fiber lines were damaged, providers reported 
+deploying mobile assets (satel lite cell  on wheels) and 
+microwave solutions to temporarily restore networks. 
+AT&T , Verizon , and T-Mobile  also offered charging 
+stations and Wi -Fi in some areas. On October 6, 2024, the 
+FCC granted  SpaceX and T -Mobile special temporary 
+authority for Starlink direct -to-cell satellite services in 
+certain areas to support emergency alerting.  
+Issues for Congress  
+On January 26, 2024, the FCC adopted rules  requiring 
+facilities -based mobile wireless service providers to 
+implement the MDRI requirements by May 1, 2024 . 
+Congress may wish to explore potential lessons learned 
+from implementation of the rule during Hurricane Helene, 
+especially as implementing the rule  relates to preparedness, 
+coordination, and roaming. In the past, Members have been 
+interested in expanding outage reporting to in clude 
+broadband outages ( H.R. 8178 , 117th Congress) , and the 
+FCC has sought comment  on the issue. Congress may  
+consider changes to outage reporting. Previous Congresses 
+also have considered legislation to improve resiliency and 
+redundancy of cell networks by mandating or subsidizing 
+backup power to each cell site ( S. 1506 , 117th Congress) . 
+While such investments could strengthen resiliency , 
+provision of backup power sources could increase costs for 
+providers and consumers. Finally, Congre ss could consider 
+advantages and disadvantages  of expanded use of and 
+federal support for advanced technologies, including drones 
+and satellite technologies in rural regions to support 
+communications.  
+Jill C. Gallagher , Specialist in Telecommunications Policy   
+Restoration of Cell Phone Services: Hurricane Helene  
+https://crsreports.congress.gov  | IF12779  · VERSION 1 · NEW   
+Amanda H. Peskin , Analyst in Telecommunications Policy    IF12779
+ 
+ 
+Disclaimer  
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to 
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. 
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has 
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the 
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be 
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include 
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you 
+wish to copy or otherwise use copyrighted material.  
+ 

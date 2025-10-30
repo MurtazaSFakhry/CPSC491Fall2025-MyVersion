@@ -1,0 +1,1004 @@
+The Honorable William J. Clinton
+ President of the United States
+The White House
+Washington, D. C. 20500
+Dear Mr. President:
+Attached for your review is the Federal Communications Commission’s Annual
+Performance Report for Fiscal Year 1999.
+We are pleased with the results of our efforts.  We met or partially met sixty of
+our sixty-nine goals—an 87 percent success rate.   In addition to our program goals, we
+embarked on an ambitious course of action to completely revise our Strategic Plan to
+ensure that our plan reflects the goals of a converging and increasingly global
+telecommunications industry.  In redoing our plan, we reached out to industry, to state,
+regional, and local governments, to academe and consumer interest groups, and to our
+own employees to provide us with input into the plan.  In August 1999, we issued a draft
+Strategic Plan that, I believe, provides measurable, results-oriented performance goals for
+the next five years.
+Another notable achievement in Fiscal Year 1999 was the completion of our plan
+to consolidate our enforcement and consumer information activities.  Historically, the
+FCC has been organized along the traditional lines of wire, wireless, satellite, broadcast
+and cable communications.  This traditional structure no longer makes sense in an era
+when the lines dividing many communications service providers are blurring.
+Consolidation of our consumer information services will allow us to provide improved
+information services to consumers facing a bewildering choice of competing
+telecommunications services.  Centralization of our enforcement activities will allow us
+to respond quickly and efficiently to questionable activities in an increasingly deregulated
+marketplace.  Moreover, our consumer information and enforcement staff will share
+information that will enable us to spot trends and areas of consumer and industry
+concern.
+I would also like to note that we achieved this level of success despite some
+formidable programmatic obstacles, including:
+• A multi-phased, logistically complex agency move that required that we maintain
+duplicate operations for seven months.  This move, and the need to maintain two
+separate sites, challenged our resources, particularly our information technology
+infrastructure;• An in-depth review of all our mission critical automated processing systems to ensure
+that each system was fully Year-2000 compliant.  This effort required a months-long
+review and testing of our major systems and the identification of all smaller systems
+that required conversion before December 31, 1999.
+• In addition, we completed a Business Continuity and Contingency Plan for every
+automated system, major or minor, in case our reviews failed to identify all Y2k
+problems.  The need to complete these reviews and contingency plans resulted in our
+deferring scheduled enhancements or replacements to several major licensing and
+document management systems;
+• Failure to obtain the necessary funding in Fiscal Year 1999 to upgrade our network
+infrastructure and to complete several of the performance goals specified in our Fiscal
+Year 1999 Annual Performance Plan. For example, we deferred completion of the
+implementation of two of the Mass Media Bureau’s electronic filing systems and an
+agency-wide electronic document management system.  We plan to complete work on
+these systems in Fiscal Year 2000, if additional funding can be obtained.
+I look forward to hearing your comments on our Annual Performance Plan.
+Sincerely,
+William E. Kennard
+Chairman
+Enclosure1FEDERAL COMMUNICATIONS COMMISSION
+FISCAL YEAR 1999 ANNUAL PERFORMANCE REPORT
+Functional Area : Authorization of Service
+Objective:  #1 We will meet our established customer Speed of Disposal processing goals.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will review our authorization of
+service rules and will simplify and
+streamline those authorization
+requests where appropriate.Yes The FCC made significant progress in simplifying and streamlining authorization of service
+rules in Fiscal Year 1999.  In common carrier matters, we eliminated entry certification
+requirements under Section 214 of the Communications Act and approved a streamlined
+authorization process for international applications that will qualify approximately 99 percent
+of applications for 14-day processing.  In May, we adopted an order substantially revising and,
+in some cases, eliminating the International Settlements Policy.  We also streamlined electronic
+filing of 15 key broadcast application and reporting forms, representing 88 percent of all
+broadcast authorization forms.  A competitive bidding process was approved to replace the
+comparative hearing process for the selection of mutually exclusive broadcast applicants.  We
+adopted new, simplified rules for the equipment authorization process, deregulating the
+equipment authorization requirements for certain types of equipment, and providing for
+electronic filing.  Finally, we are nearing completion on the development and implementation
+of a Universal Licensing System that provides streamlined electronic Internet filing capabilities
+for most wireless services, provides application and tracking status information and reduces the
+number of wireless application forms from 63 to five.Performance was measured through a
+review and analysis of authorization of
+service data and other workload reports
+provided by the Bureaus and Offices.
+We will meet 90% of our customer
+Speed of Disposal processing
+goals.Partially
+MetThe majority of license applications in all services were processed within established
+timeframes.  Those services where the goal was not met were impacted by a variety of
+situations including efforts to develop and implement new electronic, Internet accessible, filing
+systems, Y2K compliancy issues, the convergence of technologies and industries that created
+significant complications in the traditional licensing processes, and agency-wide efforts to
+reduce backlogged applications.  We anticipate that we will make significant progress in
+meeting our processing goals in Fiscal Year 2000.Performance was measured through
+analysis of data contained in internal
+workload reports.2We will provide electronic filing
+capabilities for CCB, MMB, IB,
+WTB, and OET licensing systems.
+ We will improve our Speed of
+Disposal and public access to the
+status of license applications by
+integrating Wireless
+Telecommunications Bureau’s ten
+licensing systems into a single,
+integrated database.-We will
+improve our Speed of Disposal and
+public access to the status of
+license applications by re-
+engineering and integrating 13
+Mass Media Bureau licensing and
+authorization of service databases.
+  -We will improve our Speed of
+Disposal and improve public access
+to information through
+implementation of redesigned, fully
+automated Equipment
+Authorization and Experimental
+Radio Service licensing systems.Mostly
+MetIn Fiscal Year 1999 we continued to implement electronic filing capabilities including systems
+in the Common Carrier, International, Wireless Telecommunications Bureaus, and the Office
+of Engineering and Technology. Our Wireless Telecommunications Bureau has deployed 7 out
+of the ten commercial wireless services as part of its Universal Service Licensing System. Our
+Mass Media Bureau has developed electronic licensing capabilities for all of its services and
+licensing systems.  However, access to the public was delayed due to Y2k preparation priorities
+and budgetary constraints.  Full implementation of these systems is dependent on adequate
+funding in Fiscal Year 2000.Performance is measured by the number of
+authorization systems reengineered, the
+number of electronic filing systems
+implemented, and the effect of both on our
+licensees.
+We will provide immediate access
+to routine common carrier Local
+Access Transport Area
+modifications by placing these
+electronically on public notice upon
+receipt.Yes All routine common carrier Local Access Transport Area modifications are now immediately
+placed on public notice and are accessible electronically through the Commission’s Digital
+Index. The comment and reply period for such requests is typically limited to 3 weeks.  An
+order addressing the requested modification matters is issued approximately 60 days from the
+date of original filing.Performance was measured by changes in
+the common carrier Local Access Transport
+Area modification processing to provide
+immediate access.
+We will allow telecommunications
+carriers wishing to add new or to
+discontinue old lines to obtain
+authority under Section 214 with
+no regulatory delays.Yes On June 30, 1999, we released a Report and Order revising Part 63 rules eliminating the
+requirement to file applications for entry authority.  This order also stipulated that applications
+for discontinuance would be granted automatically. Since these rules were implemented, no
+entry applications have been filed, and all but two applications for discontinuance have been
+allowed to become effective automatically.Performance was measured by the adoption
+of rule changes to reduce or eliminate
+regulatory delays.3Functional Area : Authorization of Service
+Objective:  #2 We will utilize spectrum auctions whenever feasible for efficient licensing and innovative use of
+the electromagnetic spectrum allowing the most advantageous use of the scarce spectrum and expedited new
+customer services.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will meet all Congressionally-
+mandated auction schedules in FY
+1999.Yes There were no Congressionally-mandated auctions during Fiscal Year 1999.  The FCC did
+conduct six auctions that awarded approximately 1,700 licenses for $640 million.There were no Congressionally--mandated
+auctions.4Functional Area : Authorization of Service
+Objective:  #3 We will encourage competition in the telecommunications industry through efficient licensing
+and authorization of service to competitive services.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will meet 90% of our customer
+Speed of Disposal goals.Mostly
+MetThe majority of license applications in all services were processed within established time
+frames. In several services customer goals were not met due to a variety of reasons—including
+efforts to develop and implement new electronic filing systems, Y2K compliancy issues, and
+an agency-wide effort to eliminate backlogged applications.  We expect to make significant
+progress in meeting our customer service goals in Fiscal Year 2000, given the funding required
+to continue our implementation of electronic filing  systems.Performance was measured through
+analysis of data contained in internal
+workload reports.5Functional Area : Policy and Rulemaking
+Objective : #1 We will restructure and streamline the FCC, eliminating outdated or redundant organizations
+and overlapping regulations.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will continue to use our
+forbearance authority where
+appropriate.Yes The Commission issued 24 orders addressing petitions for forbearance in FY 1999. Performance was measured by review of
+Orders issued in connection with parties’
+requests for forebearance from regulation.
+We will review the FCC’s functions
+and structures and eliminate obsolete
+or overlapping ones .Yes In Fiscal Year 1999, the FCC completed all planning for the consolidation of its enforcement
+and consumer information activities.  The consolidation of these two key functions will
+improve efficiency and enhance the delivery on consumer information and enforcement
+services to the general public and to industry.  In Fiscal Year 1998, the FCC conducted an
+agency-wide biennial review to eliminate, consolidate, and/or revise rules that were obsolete or
+outdated.  During Fiscal Year 1999, the FCC completed rulemakings streamlining accounting,
+reporting, and depreciation rules and released an order finding that it should privatize its
+accounting authority in maritime radio services. We  also commenced Phase I of a
+Comprehensive Accounting Review to further review areas of possible streamlining.  For other
+actions, see next entry.Performance was measured by a
+determination that the 1998 Biennial
+Regulatory Review was completed and by a
+review of other actions taken during FY
+1999 that further reduced obsolete or
+overlapping functions.
+We will continue to evaluate whether
+certain regulations are no longer
+necessary in the public interest and
+should be repealed or modified as
+required by Section 11 of the
+Communications Act and Section
+202(h) of the Telecommunications
+Act of 1996.Yes As mentioned in the goal above, we conducted a comprehensive review of all agency rules in
+Fiscal Year 1998 to eliminate, consolidate, and/or revise those rules that are no longer in the
+public interest.  During FY 1999, the FCC released 9 orders and 1 policy statement regarding
+subjects potentially no longer necessary to the public interest.  Specific steps taken included:
+   In March 1999,  we adopted an order streamlining the Section 214 authorization process;
+ In May 1999, we adopted an order substantially revising and, in some cases, eliminating
+          the International Settlements Policy.
+ In June 1999, we adopted an order revising the settlement rate benchmark for facilities-
+          based service on affiliated foreign routes.
+  We also made fundamental changes to broadcast application and licensing procedures.
+          These changes simplify, streamline, and  make more customer- friendly our rules,
+          applications, and application procedures.
+ In August 1999, we concluded our review of various ownership  rules, and modified  the
+          Local TV “duopoly” restrictions and its local radio/TV cross-ownership restriction, as
+          well as its national television ownership rule.  The FCC is currently considering
+         additional changes to its ownership rules to conform to the current  marketplace as an
+         additional implementation of the 1998 Biennial Regulatory Review.Performance was measured by a
+determination that the 1998 Biennial
+Regulatory Review was completed and by a
+review of other actions taken during FY
+1999 that further reduced rules that were
+determined to no longer serve the public
+interest.6We will complete relocation of the
+FCC into a consolidated facility.Yes Relocation into a consolidated facility was successfully completed in May 1999. Performance was measured by the
+completion of the relocation.
+We will coordinate network
+disclosure reporting requirements
+under Section 251 and 273 of the
+Communications Act to avoid any
+duplicate or redundant disclosure
+regulationsYes Section 251 network disclosures are placed on public notice typically within one week of
+receipt.  The public notice indicates only that parties seeking information should visit the web
+site. There have been no recorded complaints of this procedure or its overlapping with Section
+273.Performance was measured by number of
+complaints concerning overlap or
+redundancy of network disclosure reporting
+requirements under Section 251 and 273.
+We will review the CCB Computer III
+Court Remand to determine whether
+any of the network disclosure rules
+under Section 251(c)(5) duplicate or
+even exceed the rules established
+under the Computer II and Computer
+III decisionsYes We eliminated the Computer III network disclosure rules in the Computer III Remand Order
+issued in July 1999.Performance was measured by completion
+of the Computer III Court Remand and any
+changes made to network disclosure rules.
+We will privatize the International
+Telecommunications Settlements
+(ITS) process.Yes We adopted an order ending our role as the maritime accounting authority in July 1999. Performance was measured by completion
+of actions needed to privatize the
+International Telecommunications
+Settlements process.
+We will determine whether
+privatization of the electronic filing
+functions lowers costs to the public
+and improves their access to tariff
+filings.No The FCC implemented an electronic tariff filing system (EFTS) that permits incumbent local
+exchange carriers to submit federal tariffs and associated documents via the Internet.  Other
+parties participating in tariff proceedings may also file tariff-related documents using ETFS.
+ETFS also enables interested parties to access and download these documents over the Internet.
+Due to limited resources devoted to Y2K related issues, the Bureau did not complete a
+comprehensive review to determine whether the privatization of the electronic filing function
+would be beneficial to our customers.Performance was measured by completion
+of a determination of whether privatization
+of the electronic filing functions lowers
+costs to the public and improves their
+access to tariff filings.
+We will continue to hold public for a
+and meet with our state regulatory
+partners and consumer groups to
+solicit input and feedback to ensure
+our rules are in the public interest and
+are the least burdensome to achieve
+stated goalsYes During FY 1999, we conducted a number of important meetings and fora.  Chief among these
+was the three public meetings held in May and June to discuss the FCC’s Draft Strategic Plan.
+Members of the telecommunications industry (May 20), state and local government (June 2),
+and academic and organizational experts (June 11) participated in- person and via the Internet.
+The transcripts of each of these meetings were published at our website.  We continued to meet
+with state regulatory partners and consumer groups and held a number of public fora.  Monthly
+meetings were held with the North American Numbering Council and FCC representatives
+attended every meeting of the National Association of Regulatory Utility Commission.  FCC
+staff attended a number of meetings in preparation for the upcoming World
+Radiocommunications Conference. Staff attended bimonthly meetings with the Local and State
+Government Advisory Committee. Finally, public fora were held to discuss a variety of issues
+including implementation of Telecommunications Relay Services, proposals for streamlining
+Part 68 terminal equipment registration, industry views on cable landing license policy and
+procedures, and seminars on political programming rules.Performance was measured by a review of
+the meetings and fora held during the fiscal
+year.7Functional Area : Policy and Rulemaking
+Objective: #2 We will encourage competition in the telecommunications industry through pro-competitive,
+deregulatory rulemakings, reducing consumer costs and increasing the telecommunications choices available to
+consumers.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will continue to implement the
+local competition provisions of the
+Telecommunications Act of 1996.Yes The FCC released the following Reports and Orders implementing the local competition
+provisions of the Telecommunications Act of 1996:
+• Unbundling Remand Report and Order, the Collocation Order;
+• the Line Sharing Order;
+• the Review of Accounting and Cost Allocation Requirements and the Review of ARMIS
+Reporting Requirements;
+• the Pricing Flexibility Order (that also included an NPRM on whether CLEC access rates
+         should be regulated).
+Additionally, significant progress was made on two Access Reform Proceedings (X-factor
+Remand and CALLS Petition).  Field work or audits and surveys concerning collocation,
+number hoarding, and local number portability costs were completed as was a generic audit
+program for Section 272 Biennial audits.Performance was measured by a review of
+actions taken to promote competition.
+We will work to improve the
+connections of classrooms, libraries
+and rural health care facilities to the
+Internet by the end of FY 1999 and to
+maintain affordable
+telecommunications services to rural
+America.Yes In Fiscal Year 1999, the FCC released an order extending first year funding for Schools and
+Libraries (S&L) and for the Rural Heath Care (RHC) programs to allow more applicants to
+participate.  We issued an order establishing  the second year funding level of the  S&L
+program at $2.25 billion, and of the RHC program at $12 million,   We also issued orders
+simplifying the process for rural health care providers to receive universal service support and
+allowing non-ETCs  to obtain credit against their contributions for services provided to rural
+health care providersPerformance was measured a review of
+actions taken to promote connections of
+classrooms, libraries, and rural health
+facilities to the Internet.
+We will make telecommunications
+services and equipment accessible to
+persons with disabilities by
+completing a rulemaking to
+implement Section 255 of the Act.Yes The FCC adopted and released an order implementing Section 255 of the Telecommunications
+Act of 1996.  Additionally, we convened a public forum on access to 711, designated as the
+nationwide number for Telecommunications Relay Services.Performance was measured by a review of
+actions taken to promote the accessibility of
+telecommunications services and equipment
+to persons with disabilities.
+We will make emergency information
+carried on cable systems available to
+persons with hearing disabilities.No A draft order adopting emergency information requirements has been prepared and final FCC
+action is expected by March 31, 2000.Performance was measured by a review of
+action taken to make emergency
+information carried on cable systems
+available to persons with hearing
+disabilities.8We will ensure that public safety
+groups have adequate spectrum and
+advanced telecommunications
+equipment by completing “The
+Development of Operational,
+Technical and Spectrum
+Requirements for Meeting Federal,
+State and Local Public Safety Agency
+Communications Requirements
+Through the Year 2010.”Yes In April 1999, the FCC adopted a Memorandum Opinion and Order addressing concerns raised
+by American National Standard Institute and allowing the work of the Public Safety National
+Coordination Committee (NCC) to proceed in a timely fashion, with the flexibility to operate
+with increased efficiency.Performance was measured by a review of
+actions taken to ensure adequate spectrum
+and advanced telecommunications
+equipment for public safety use.
+We will continue implementation of
+the World Trade Organization Basic
+Services Agreement, which will allow
+WTO-member nations to apply for
+authorization to provide competitive
+telecommunications services to U.S.
+customers.Yes • In March 1999, the FCC adopted an order further streamlining the Section 214-
+authorization process and rules regarding foreign notifications.  The FCC continues to
+grant most applications to provide international telecommunications services, including
+those from foreign-owned carriers, pursuant to a 14-day streamlined process.
+• We also participated in regulator-to-regulator meetings covering topics such as
+interconnection principles and independent and transparent regulatory regimes.
+•  In August 1999, we authorized certain U.S. earth stations to provide fixed-satellite
+services (FSS) to, from, and within the U.S. via New Skies Satellites, NV.Performance was measured by a review of
+the actions taken to promote
+implementation of the WTO Basic Services
+Agreement.
+We will implement an efficient, pro-
+competitive procedure for the
+administration of, and access to, N11
+codes and other abbreviated dialing
+arrangements.Yes The FCC is considering proposals from the United Way and the Department of Transportation
+for establishment of a N11 code.Performance was measured by a review of
+actions taken to implement an efficient, pro-
+competitive procedure for administration of
+and access to N11 codes.
+We will apply, and continue to refine
+pricing rules that allow incumbent
+Local Exchange Carriers additional
+flexibility in pricing interstate access
+consistent with the development of
+competition.Yes During 1999, we released the following orders refining the pricing rules for incumbent Local
+Exchange Carriers:
+• Order and FNPRM for Pricing Flexibility, Access Charge Reform;
+•  Price Cap Performance Review for Local Exchange Carriers Order;
+•  Inter-exchange Carrier Purchases of Switched Access Services offered by competitive
+Local Exchange Carriers;
+•  Petition of U S West Communications, Inc. for Forbearance from Regulation as a
+Dominant Carrier in the Phoenix, Arizona MSA in August 1999.Performance was measured by a review of
+actions taken to refine pricing rules to allow
+additional flexibility to ILECs in pricing
+interstate access.
+We will continue to examine and
+develop economic cost models to
+ensure that these estimate the accurate
+costs of providing unbundled network
+elements and access services.Yes The FCC released an Order adopting final input values for the Commission’s cost model,
+which is used to estimate the prospective costs of providing support services.Performance was measured by a review of
+actions taken to develop economic cost
+models that accurately estimate costs for
+providing unbundled network element and
+access services.
+We will initiate rulemakings to update
+Part 68 of our rules and regulations to
+incorporate technological innovations.No The Notice of Proposed Rulemaking on the deregulation of Part 68-equipment registration is
+tentatively scheduled for consideration in March 2000.Performance was measured by a review of
+actions taken to update Part 68 of the rules
+and regulations.
+We will implement procedures to
+administer carrier identification codes
+(CIC) in an efficient and
+nondiscriminatory manner.Yes The three-to-four digit CIC conversion deadline was September 1, 1998.  During that time,
+several waiver petitions were granted to accommodate the network plans of small carriers. The
+last waiver expired on December 30, 1999 (Virgin Islands Telephone Company).Performance was measured by a review of
+actions taken to implement procedures to
+administer carrier identification codes.9We will refine existing rules
+concerning caller ID to respond to
+consumer concerns about services that
+use calling party numbers.Yes The FCC received very few calls concerning caller ID and currently has only two Petitions for
+Reconsideration and one Petition for Review.  Consumer concerns are now handled as informal
+complaints and additional refining of the existing rules appears to be unnecessary at this time.Performance was measured by a review of
+consumer concerns received on this issue
+and a determination of  the need for rule
+changes.
+We will establish procedures for
+certification of rural carriers for
+purposes of universal service high
+cost support.No The FCC concluded in the Universal Service First Report and Order that reform of high-cost
+support for rural carriers should not occur until January 1, 2001, at the earliest, and only after
+recommendations have been received from the Joint Board, and a Rural Task Force appointed
+by the Joint Board.Performance was measured by a review of
+actions taken to establish procedures for
+certification of rural carriers for universal
+service high cost support.
+We will initiate a rulemaking to
+eliminate the requirement for
+equipment manufacturers to obtain
+waivers for equipment that
+automatically takes the subscriber
+lines “off-hook.”Yes Currently, waiver requests to take lines ‘off hook’ are judged by the standard set forth in an
+order addressing the Part 68 Waiver Request of Alameda Engineering, Inc. (commonly referred
+to as the Alameda Order).  The equipment waiver request process will be addressed  as
+part of the Part 68 streamlining Notice of Proposed Rulemaking scheduled for consideration in
+the first quarter of Fiscal Year 2000,Performance was measured by review of
+actions taken to eliminate the requirement
+for equipment manufacturers to obtain
+waivers for this type of equipment.
+We will streamline the
+Telecommunications Relay Service
+Fund administration procedures to
+align it with other Commission
+interstate cost-recovery programs.Yes The FCC changed the cost-recovery mechanism for the TRS Fund from a gross-revenues
+formula to an end-user formula in our Streamlined Contributor Reporting Requirements Report
+and Order, in accordance with the practices specified for several other funds mandated by the
+Telecommunications Act of 1996.Performance was measured by a review of
+actions taken to streamline the TRS Fund
+administration procedures.
+We will continue to promote the
+efficient use and allocation of toll free
+numbers and deploy additional toll
+free service.No The FCC anticipates releasing a Report and Order regarding the neutral administration of toll-
+free numbers in April 2000.Performance was measured by a review of
+actions taken to promote the efficient use
+and allocation of toll-free numbers and
+deploy additional toll-free service.
+We will continue to participate in
+global standard setting for
+communications servicesYes In February 1999, the FCC proposed rules to implement the international arrangements
+governing Global Mobile Personal Communications by Satellite (GMPCS) adopted by ITU.
+The NPRM outlines a comprehensive procedure for licensing, marking, certification, and
+customs treatment of GMPCS terminals.  It also proposes safeguards against potential
+interference to existing aeronautical radiation services. In 1999, the FCC participated in the
+Telecommunication Standardization, Radio Communications, and the Telecommunication
+Development Sectors of the ITU and in a number of meetings in preparation for WRC 2000.Performance was measured by the
+compilation of the number of actions taken
+to promote global standard setting for
+communications services.
+We will continue to review the
+regulatory status of dominant
+common carriers to determine
+whether reclassification or
+forbearance is appropriate.Yes The FCC released five orders addressing several forbearance issues raised by mid-sized ILECs.
+Additionally, the FCC began a review of a request by Bell Canada to be reclassified as a
+nondominant carrier for the U.S.-Canada route.Performance was measured by a review of
+actions taken to review the regulatory status
+of dominant common carriers.
+We will continue to review whether
+merger and transfer of control
+requests are in the public interest.Yes The FCC reviewed and approved a number of mergers and transfer of control requests to
+determine if they would benefit the public interest, including MCI Telecommunication
+Corporation / Echostar; Lockheed Martin/Comsat; Frontier/Global Crossing; Airtouch
+Communications/Vodafone; AT&T / British Telecommunications; USSB/DIRECTV,  and
+Tempo Satellite, Inc./DIRECTV Enterprises, Inc.Performance was measured in terms of
+timely completion of the review of the
+requests.10Functional Area : Policy and Rulemaking
+Objective:  #3 We will reduce reporting requirements and eliminate unnecessary rules and burdensome
+regulations.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will conduct a review of our rules
+and regulations in FY 1998 to
+determine which can be eliminated or
+revised.  In FY 1999, we will initiate
+rulemakings to eliminate obsolete or
+overlapping regulatory and/or
+reporting requirements.Yes The FCC conducted an agency-wide biennial review in 1998.  Based on this review, we took
+the following actions in 1999:
+• In common carrier issues, we released 9 orders and 1 policy statement addressing  matters
+that were identified as no longer necessary:
+• We made fundamental changes to the broadcast application and licensing procedures.
+These changes simplify, streamline, and make our rules, application procedures, and
+reporting forms more user friendly.  We also updated and streamlined our broadcast rules
+and modified the local TV “duopoly” restrictions and our local radio/TV cross-ownership
+rules.
+• The FCC made significant progress in streamlining our procedures for satellite and other
+international application processing issues.   We issued a Notice of Proposed Rulemaking
+recommending streamlining and consolidating service rules governing the Direct Satellite
+Broadcast (DBS) service to eliminate unnecessary and duplicative regulation, increase
+competition to the cable television industry, and facilitate the delivery of new and
+innovative services to consumers. We adopted an order streamlining the Section 214
+authorization process that will allow 99 percent of all applications to be processed in
+fourteen days.  We adopted an order substantially revising and, in some cases, eliminating
+the International Settlements Policy. We announced that we will automatically grant
+routine satellite earth station applications proposing use of the Ku-band and
+communicating with all satellites authorized to provide service to the U.S. within 35 days
+from the date of the public notice (provided no objections have been filed). Finally, we
+released an order substantially revising the settlement rate benchmark condition for
+facilities-based service on affiliated foreign routes.
+• The FCC completed its comprehensive streamlining of wireless licensing rules in the
+Universal Licensing System rulemaking, Issuing a Memorandum Opinion and Order in
+June 1999.  We also initiated a rulemaking focusing on streamlining of its Part 90 rules for
+private land mobile radio services, and completed a rulemaking that simplified and
+streamlined the Part 97 Amateur Radio Service rules.Performance was measured by confirmation
+of the completion of an agency-wide
+biennial review during FY 1998 and by a
+review of actions taken during FY 1999 to
+eliminate obsolete or overlapping regulatory
+and/or reporting requirements.11Functional Area : Enforcement
+Objective:  #1 We will streamline our complaints process and procedures to ensure timely and satisfactory
+resolution of consumer complaints.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will increase the number of
+pending routine informal common
+carrier complaints disposed of by
+10%.No We encountered formidable technical problems with our automated informal complaints
+system. The most important issue was the system was not Y2K compliant.  To upgrade it to
+make it compliant required substantial resources,  raising issues on whether the current system
+should be revised or completely replaced.  A thorough review of alternative approaches was
+not completed until late in the fiscal year.  Currently, we are making every effort to upgrade the
+system as quickly as possible.  In the meantime, we have hired additional temporary clerks to
+assist us in processing current complaints as expeditiously as possible.Performance was measured through an
+analysis of the Quarterly Workload
+Reports that document the Speed of
+Disposal of informal consumer
+complaints.
+We will increase the number of
+informal complaints served on
+telephone companies by 10%.No See above. See above.
+We will improve the Speed of
+Disposal for routine informal
+common carrier complaints by 20%.No See above See above.
+We will reduce the number of active
+formal common carrier complaints
+pending longer than 15 months
+by15%.Yes The FCC exceeded this goal by reducing the number of active pending formal common carrier
+complaints by 21% over Fiscal Year 1998 levels.Performance was measured by a review
+and analysis of the Quarterly Workload
+Reports.
+We will reduce the response time on
+Telephone Relay Service or Hearing
+Aid Compatibility complaints by
+50%.Yes Only one such complaint was received and its resolution, and the resolution of any future
+complaints received, was folded into the TRS rulemaking scheduled for the February 2000
+Commission meeting.  Additional attention is now given to this issue as a result of the
+organizational restructuring recently completed by the FCC.Performance was measured by a review of
+the actions taken to resolve these kinds of
+complaints more quickly.
+We will review broadcast and cable
+enforcement processes and eliminate
+inefficient procedures and practices.Yes During FY 1999, the Commission released an NPRM proposing and requesting comments on
+new broadcast and cable EEO rules and policies in light of the Lutheran Church  appellate case,
+which declared certain sections of the Commission’s EEO rules unconstitutional.  In
+promulgating the NPRM, the Commission sought to streamline EEO requirements as much as
+possible while maintaining an effective EEO program for the broadcast and cable industries.Performance was measured by actions
+taken to eliminate inefficient procedures
+and practices.12Functional Area : Enforcement
+Objective:  #2 We will work as a partner with the private sector and with federal, state and local governments
+in the investigation and resolution of shared telecommunications problems focusing particularly on issues
+affecting the safety of life and property.  This will ensure that problem resolution is achieved quickly, at the least
+possible cost and with state and local interests duly considered.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will continue to work closely with
+other Federal agencies, state
+commissions and the public to ensure
+the expeditious processing of Bell
+Operating Company Section 271
+applications.Yes We have an ex parte  exemption that permits free communication between the FCC and the
+Department of Justice and state regulators, allowing the close coordination and review of 271
+applications.Performance was measured by a review of
+the actions taken to ensure appropriate input
+from Federal and state representatives and
+consumers while Section 271 applications
+receive expeditious processing.
+We will continue to work with state
+regulatory commissions in conducting
+federal/state audits of the Regional
+Bell Operating Companies and other
+common carriers.Yes We are working closely with the states on the Bell Atlantic 272 biennial audits.  This audit
+program will be completed in early Fiscal Year 2000.Performance is measured by review of
+action taken to work with the states in
+conducting the audits.
+We will enforce the provisions of the
+Communications Assistance to Law
+Enforcement Act over which the FCC
+has responsibility by overseeing the
+implementation of the Commission’s
+system security and integrity
+regulations and by adjudicating
+petitions promptly.Yes The FCC is required by CALEA Section 201 (47 USC § 229) to promulgate and enforce
+regulations governing  the conduct of electronic surveillance of telecommunications carriers.
+We issued two reports and Orders in 1999 detailing specific requirements for electronic
+surveillance.  Forms needed to implement the program are currently under review at OMB.Performance is measured by review of
+actions taken to implement and enforce the
+FCC’s system security and integrity
+regulations under CALEA.
+We will ensure that access charges to
+the Telephone Relay Service (hearing
+and speech impaired) users from pay
+phones do not exceed the rates of
+traditional calls made from standard
+coin-operated pay phones.Yes The Telephone Relay Service Order will be considered by the Commission in February 2000. Performance is measured by review of
+actions taken to review access charges for
+TRS from pay phones.13We will meet with field
+representatives from the
+telecommunications industry at least
+semi-annually to identify the most
+significant recurring communications
+problems and develop a plan to
+correct and prevent them.Yes FCC staff meet with the International Telecommunications Association (ITA) monthly,
+Personal Communications Industry Association (PCIA) quarterly, and the Association of
+Public-Safety Communications Officials, Inc. (APCO) semi-annually. In addition to these
+routine meetings, we also held a public forum to solicit industry views on cable landing license
+policies and procedures. In May, we initiated talks with members of the satellite industry to
+identify and discuss ways to further streamline the Part 25 earth station licensing process.
+Other pertinent meetings included several gatherings of FCC staff and industry representatives
+on issues concerning third generation wireless/IMT-2000 and sharing between the fixed service
+and the fixed-satellite service in various frequency bands.Performance was measured by a review of
+the meetings and fora held during the fiscal
+year.
+We will continue to work with other
+Federal agencies, state commissions,
+and state attorneys general to protect
+the public interest, especially in the
+area of consumer related complaints,
+including when it involves unlawful
+activity by foreign entities that affect
+American telecommunications users.Yes FCC staff met every month with members of the National Telecommunications and
+Information Administration’s WRC-2000 preparatory group to develop government proposals
+for World Radio Conference-2000.  FCC staff also participated in a number of ad hoc  meetings
+to discuss specific issues concerning our WRC-2000 proposals. FCC staff also works closely
+with the United States Trade Representative to ensure that other countries comply with WTO
+commitments.Performance was measured by a review of
+the meetings held with other Federal
+agencies and representatives from the states
+on these issues.14Functional Area : Enforcement
+Objective:  #3 We will identify industry and consumer issues through customer feedback on the impact of our
+rules, the levels of enforcement, the effects of non-enforcement and the need for revisions to our enforcement
+policies and procedures.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will streamline our inspection
+procedures by privatizing the
+inspection and certification of ocean-
+going vessels.Yes The FCC streamlined its inspection procedures by privatizing the certification of ocean-going
+vessels ahead of schedule in Fiscal Year 1998.Performance was measured by a review of
+the results of these inspections.
+We will continue to monitor potential
+anti-competitive behavior by carriers
+in providing information services.Yes The FCC continued to monitor incumbent Local Exchange Carriers (LECs) in providing access
+to services and facilities to their competitors for providing information services. In Fiscal Year
+1999, several Information Service Providers (ISPs) complained informally about the
+discriminatory conduct of some ILECs but the FCC did not find sufficient evidence to warrant
+enforcement actions.Performance was measured by reviewing
+and monitoring actions taken to identify
+anti-competitive behavior by carriers in
+providing information services.
+We will meet with industry and the
+public to discuss current
+telecommunications concerns and
+complaints.  We will identify the
+main consumer complaints
+concerning telecommunications
+services and coordinate agency-wide
+actions to resolve them.Yes The FCC has held numerous meetings with industry and the public to discuss current concerns
+and complaints.  The three public fora held to obtain feedback on our Draft Strategic Plan have
+been mentioned previously in this report. FCC staff routinely attended and participated in panel
+discussions at national and regional trade association conferences and conventions.  In addition
+to sending representatives to speak at meetings, the FCC provided extensive telephone and in-
+person conferences on consumer issues.Performance was measured by a review of
+the meetings and fora held during the fiscal
+year.
+We will continue to meet and work
+with the land mobile industry to
+resolve complicated land mobile
+interference problems.Yes The FCC held meetings with the Industrial Telecommunications Association, the Personal
+Communications Industry Association, and the Association of Public Safety Communications
+Officers to resole complicated land mobile interference problems.  Through Memoranda of
+Understanding with the major frequency coordinators, the FCC continued to work closely with
+the land mobile industry to resolve complicated interference problems that the industry was not
+able to resolve on its own. Approximately 80% of interference cases are resolved by the
+industry, and the remaining cases are referred to the FCC for intervention.Performance was measured by both a
+review of the meetings held and the
+Memoranda generated to resolve these
+interference problems and by action taken
+to establish procedures for FCC
+intervention.
+We will continue to enforce rules
+against unauthorized activity by pirate
+radio operators.Yes The FCC continued to enforce rules against unauthorized activity by known FM pirate radio
+operators.  Cases in which  our field offices were unable to obtain a voluntary termination of
+the unlicensed  operation were referred to the Department of JusticePerformance was measured by a review of
+actions taken to enforce rules against
+unauthorized activity by pirate radio
+operators.15Functional Area : Enforcement
+Objective:  #4 We will utilize the latest technology to minimize interference resolution time and increase
+overall customer satisfaction by resolving complaints in a timely fashion.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will enhance our capabilities to
+resolve radio interference problems in
+a more effective and efficient manner
+by updating 15% (2 of 14) of the
+long-range medium and high
+frequency radio direction finding
+systems, as budget permits.Yes The FCC exceeded the goal by updating 86% (12 of 14) of the long-range medium and high
+frequency radio direction finding systems.Performance was measured by a review of
+actions taken to update long-range medium
+and high frequency radio direction finding
+systems.
+We will enhance our capabilities to
+resolve radio interference problems in
+a more effective and efficient manner
+by updating 15% (9 of 60) of our
+mobile direction finding fleet to the
+latest technology to ensure
+compatibility with new
+communications services such as PCS
+and DTV, as budget permits.Yes The FCC exceeded this goal by updating 17% (10 of 60) of the mobile direction finding fleet to
+the latest technology.Performance was measured by a review of
+actions taken to update the mobile direction
+finding fleet to the latest technology.
+We will enhance our capabilities to
+resolve radio interference problems in
+a more effective and efficient manner
+by enhancing the capability of
+remotely controlled direction finder
+systems and installing one new
+system to cover areas where
+customers are not adequately served,
+as budget permits.Yes The FCC met this goal by enhancing (upgrading) the capability of the remotely controlled
+direction finder system at Headquarters (Washington, DC) and by installing a new system at
+the Los Angeles Field Office.Performance was measured by a review of
+action taken to enhance the FCC’s
+capabilities to resolve radio interference
+problems by enhancing the capability of
+remotely controlled direction finder systems
+and by installing new systems where
+needed.16Functional Area : Public Information
+Objective:  #1 We will provide “one stop” information shopping through consolidation of our public reference
+rooms and other information services.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will complete the implementation
+of the National Call Center in
+Gettysburg, PA to provide “one stop
+shopping” for telephone inquiries.Yes The FCC has completed the implementation of a National Call Center at Gettysburg,
+Pennsylvania. In Fiscal Year 1999, the FCC also completed all planning for consolidation of its
+public information service activities early in Fiscal Year 2000.  As part of this consolidation
+initiative, the FCC will open a second Call Center (renaming these centers the Consumer
+Information Centers) at our new Portals location to expand and improve “one stop shopping”
+for public information inquiries.Performance was measured by a review of
+actions taken to complete implementation
+of the National Call Center in Gettysburg.
+We will consolidate nine reference
+rooms into one, once we move to our
+new consolidated facility.Yes The FCC completed the consolidation of the nine reference rooms into one with the completion
+of the move to our new Portals facility in May 1999.Performance was measured by a review of
+actions taken to complete the consolidation
+as a part of the move to the Portals facility.
+We will provide our customers with
+on-line access to Common Carrier
+Bureau network disclosure filings.Yes The public is notified of network disclosure filings via a Public Notice, which is also published
+in the FCC’s Daily Digest. Interested parties are notified that copies of the notice are available
+either on-line at the FCC Website or in hard copy from the Office of the Secretary or the Public
+Reference Room.Performance was measured by a review of
+action taken to provide customers with on-
+line access to network disclosure filings.17Functional Area : Public Information
+Objective:  #2 We will design our information systems for Internet applications as well as other media to ensure
+rapid and efficient dissemination of information to our customers.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date
+for meeting goal) Method of Measurement
+(Performance Indicators)
+We will publish the National Call
+Center’s Information Knowledge
+base on the Internet allowing
+quicker, 24-hour access to current
+FCC information.Yes The FCC has created web sites that provide 24-hour access to a wide variety of current FCC
+information.Performance was measured by a review of
+action taken to develop Internet sites that
+provide 24-hour access to FCC information.
+We will design and implement
+Internet-compatible licensing
+applications for Mass Media and
+International Bureau licensing
+systems.Partially Met The International Bureau designed and implemented the International Bureau Electronic Filing
+System (IBFS), which is accessible through any computer with Internet access.  The system
+allows users to complete applications at their own pace and has a validation process that
+ensures required data fields are filled out and that certain types of applications can be filed.
+The IBFS system also possesses a powerful search engine and a variety of on-line report and
+query capabilities.
+Design work on the Mass Media Bureau’s CDBS and MDS/ITFS license processing systems
+have been completed.  However, implementation of these systems was delayed due to a
+combination of Y2K compliancy issues and lack of adequate funding to complete installation.
+Both systems are scheduled for release to the public by the end of the 2nd Quarter of FY 2000.Performance was measured by the
+completion of design and implementation of
+systems designed for Internet compatibility.
+We will publish commercial
+television stations Children’s
+Television Programming Reports
+on the Internet for public review
+and comment.Yes Commercial television stations’ Children’s Television Programming Reports, through calendar
+year 1998, are available at our website as of February 1999.Performance was measured by the
+publication of the Children’s Television
+Programming Reports on the Internet.
+We will implement procedures to
+allow incumbent Local Exchange
+Carriers to file ARMIS data
+electronically via the Internet.Yes We have designed an electronic filing system for ARMIS reports that is Internet accessible. Performance was measured by completion
+of actions begun under the 1998 Biennial
+Regulations Review – Review of ARMIS
+Reporting Requirements.
+We will expand the FCC’s “fax-
+on-demand” system to
+organizations such as PTAs,
+libraries and consumer groups.Yes The FCC Consumer Centers (previously known as Call Centers) at both Gettysburg,
+Pennsylvania and Washington, D.C. are equipped with “fax on demand.”  Information is
+routinely sent to interested groups.Performance was measured by a review of
+actions taken to establish “fax on demand”
+systems at the Consumer Centers.18We will implement an internal
+Electronic Document Management
+System to streamline the
+preparation, printing and
+publication of all official FCC
+documents.No Development work was completed on the Electronic Document Management System (EDOCS)
+in Fiscal Year 1999.  The system did not go into production as scheduled due to diversion of
+needed resources to Y2k readiness projects and the need to upgrade our network infrastructure.
+The system will be implemented in the second quarter of Fiscal Year 2000, if additional
+funding resources can be identified.Performance was measured by a review of
+actions taken to implement an internal
+Electronic Document Management System.
+We will electronically deliver FCC
+news items to interested parties and
+provide “camera ready” articles on
+various consumer
+telecommunications-related issues
+to weekly community newspapers
+across the country.Yes More than 6,000 subscribers received electronic copies of the FCC Daily Digest.  Late-
+breaking stories were routinely e-mailed to telecommunications reporters throughout the year.
+Five camera-ready articles were prepared and distributed to approximately 6,500 community
+newspapers.  The issues covered by these articles were area codes, religious programming,
+cable rates, and the v-chip (2 articles).Performance was measured by a review of
+actions taken to electronically deliver FCC
+news items to interested parties and to
+provide “camera-ready” articles on various
+consumer telecommunications related
+issues to weekly community newspaper.19Functional Area : Public Information
+Objective:  #3 We will encourage public participation in all FCC proceedings to ensure all parties’ views are
+heard and that there is speedy resolution of issues.
+1999 Performance GoalsGoal
+Met?
+(Y/N)1999 Actual Performance
+(If goal not met, provide explanation, planned remedy, and target date for meeting goal) Method of Measurement
+(Performance Indicators)
+We will develop an automated listing
+of organizations/groups interested in
+participating in FCC proceedings.Yes The FCC has developed an initial listing of organizations and groups interested in participating
+in FCC proceedings.  This list is maintained in the Consumer Education Office of the
+Consumer Information Bureau.Performance is measured by the
+development of an automated listing of
+organizations and groups interested in
+participating in FCC proceedings.
+We will establish a lending library
+and viewing/listening room where the
+public can view and listen to FCC
+open proceedings and information
+programs.Yes The FCC has a tape library and provides facilities where the public can view and listen to FCC
+open meetings and public fora.  Additionally, open meetings are also covered by C-SPAN for
+viewing on cable television.Performance is measured by the availability
+of a FCC library and by the ability of the
+public to view and/or listen to FCC open
+proceedings and information programs.
+We will routinely host public fora to
+discuss a broad range of legal, policy
+and technical issues raised in various
+FCC rulemaking proceedings.Yes FCC staff has participated on panels and public speaking engagements concerning cable
+matters, met with pending applicants in the second Ka-band processing round to discuss
+potential technical solutions for resolving mutual exclusivity, held a forum with industry
+representatives on streamlining issues, including demonstrations to inform industry on
+electronic filing and ULS, hosted a public forum on technical issues associated with E911
+technology, including TTY compatibility, and provided training to the public on use of the new
+experimental licensing and  IBFS electronic filing systems prior to their implementation.  A
+public forum was conducted for every auction event.   The FCC also continuously updates its
+website to include the latest information of interest to the public.Performance was measured by a review of
+the number of public appearances by FCC
+staff and comments to the FCC website.20Program Evaluations .  In Fiscal Year 1999 the FCC completed a number of agency-wide reviews. These included
+• Consolidation of our Enforcement and Consumer Information Activities . The FCC is currently structured along the traditional technology lines of wire, wireless,
+satellite, broadcast, and cable communications. This organizational model no longer reflects the industries we oversee.  We have determined that the FCC must reorganize
+along functional rather than technology lines to allow us to perform our core responsibilities more effectively.  One of our major performance goals for our Fiscal Year
+Annual Performance Plan was to complete work on consolidating our consumer information and enforcement functions. Our enforcement activities were distributed among
+all our major bureaus while our consumer information services activities were more centrally located between two organizations.
+Before we could consolidate these activities, we had to review the current resources, including staffing and information technology support systems to identify what the new
+business model should include and to determine the best means to proceed with the consolidation.  Extensive reviews were conducted throughout the fiscal year and a
+reorganization plan was completed that was implemented on November 11, 1999.
+• Year 2000 Readiness Review .  The FCC conducted independent testing of all twenty-three mission-critical systems to verify that the systems were ready for the
+millennium. The system tests were conducted by an independent contractor and tested on separate test hardware.  In addition, our Computer Security Office successfully
+completed assessments of all our new major applications designed for use within the FCC network.  Eight application reviews were conducted to ensure compliance with
+relevant OMB guidance on computer-based system development and management, including OMB Circular A-123, Management Accountability and Control, OMB
+Circular A-27, Financial Management Systems, and OMB Circular A-130, Management of Federal Information Resources.
+• Revisions to our Strategic Plan and Strategic Planning Process .  In March and May 1999, Chairman William Kennard, along with the other FCC Commissioners,
+testified before our Congressional oversight committees.  As part of his testimony Chairman Kennard submitted a draft report, “A New FCC for the 21st Century.”  This
+report served as a conceptual framework for FCC senior managers to meet and develop a new framework for our Strategic Plan.  Part of this process was a review of all our
+organizations and functions to ascertain if they were still essential to the agency’s newly defined core functions.
+We also gathered extensive input from our stakeholders through three public fora seeking the views of general industry, consumer, state, and local government
+representatives, academic and organizational experts, and from Commission staff.  The feedback provided at these fora focused on similar themes: (1) universal service,
+consumer protection and information; (2) enforcement and promotion of competitive markets domestically and worldwide; and (3) spectrum management.  We incorporated
+many of these themes into the draft Strategic Plan that we submitted to Congress in August 1999 and in our draft Annual Performance Plan.
+• Business Process Re-Engineering/Electronic Filing Initiatives .  In Fiscal Year 1999, the FCC completed planning for consolidating, streamlining and providing
+electronic filing capabilities for all major Mass Media Bureau licensing systems.  Before design work could begin, a complete analysis of workload processes was
+completed to identify outdated, duplicative, or unnecessary processes and procedures.  While all planning work was completed, system implementation was deferred due to
+lack of adequate funding and the need to address higher priority, Year-2000 issues.

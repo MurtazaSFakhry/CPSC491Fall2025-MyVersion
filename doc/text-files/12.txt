@@ -1,0 +1,1073 @@
+ 
+ 
+  
+ 
+  
+ 
+ 
+ 
+  
+ 
+  
+ 
+     Federal Communications  Commission  
+ 
+FREEDOM  OF INFORMATION  ACT 
+ 
+ ANNUAL REPORT 
+ 
+Fiscal Year 2023 
+ 
+(October 1, 2022 ‐ September  30, 2023)
+ 
+ 
+ 
+  
+ 
+  
+  
+ 
+  TABLE OF CONTENTS  
+ 
+I. Basic Information  Regarding  Report                               3 
+II. How to File a FOIA Request                                              3  
+III. Acronyms,  Definitions  and Exemptions                                4 
+IV. Exemption  3 Statutes                                                                  9 
+V. FOIA Requests  – Received,  Processed  and Pending                                           10  
+VI. Administrative  Appeals of Initial Determinations  of FOIA Requests                                   12 
+VII. FOIA Requests  – Response  Time for all Processed  Perfected  Requests                              15 
+VIII. Requests  for Expedited  Processing                                  19       
+IX. FOIA Personnel  and Costs                                     20 
+X. Fees Collected  for Processing  Requests                               20 
+XI. Number of Times Subsection  (C) Used and Number of Subsection  (A)(2) Postings        21 
+XII. Backlogs of FOIA Requests  and Administrative  Appeals                              22 
+  
+3 
+  
+I. BASIC INFORMATION  REGARDING  REPORT   
+1. Name, title, address, and telephone  number of person(s)  to be contacted  with 
+questions  about this Report: 
+  Vanessa Lamb 
+Associate  Managing  Director 
+  Office of Managing  Director 
+  Performance  & Program Management  
+  45 L Street NE, Suite 3-304  
+Washington,  DC 20554 
+Telephone  Number: (202) 418‐7044 
+Email:  Vanessa.Lamb@fcc.gov  
+ 
+              Stephanie  Kost 
+FOIA Public Liaison 
+  Office of Managing  Director 
+Performance  & Program Management  
+  45 L Street NE, Suite 3-309  
+  Washington,  DC 20554 
+  Telephone  Number: (202) 418‐0440 
+  Email:  FOIA‐Public‐Liaison@fcc.gov   
+2.       Link to the Report at FCC’s website: 
+         https://www.fcc.gov/general/foia ‐reports 
+3.           Obtaining  a paper copy of the Report:  
+  Copies of the Annual Report can be requested  by emailing Benish.Shah@fcc.gov .  
+Paper copies will be mailed to the requester.  
+II.  HOW TO FILE A FOIA REQUEST:  
+1. FOIA requests should be submitted  via ArkCase at: 
+https://fcc.arkcase.co m/foia/portal/home  
+ 
+2. You may mail the request to the Office of Managing  Director; Attention:   FOIA 
+Public Liaison, Federal Communications  Commission,  45 L Street NE, Suite 3-309, 
+Washington,  DC  20554.  
+4 
+   Administrative  Appeals must be submitted  to P. Michele Ellison Chief FOIA 
+Officer, Office of General Counsel, Suite 10-425, Federal Communications  
+Commission,  45 L Street NE, Washington,  DC 20554.  The application  for review 
+and the envelope  containing  it should be captioned  “Review of Freedom of 
+Information  Action.”  A copy must also be served on the person (if any) who 
+originally submitted  the materials  at issue in the FOIA request to the 
+Commission.   Appeals can also be filed electronically  at FOIA‐Appeal@fcc.gov .  
+3.  Brief description  of why some requests are not granted and an overview of 
+certain general categories  of the agency’s records to which the FOIA exemptions  
+apply.  
+  Requests that are denied or partially denied usually fall under Exemptions  4, 5, 6 
+and 7.  The type of information  most often withheld involves materials  that are 
+related solely to trade secrets and other confidential  business information  
+(exemption  4), inter‐agency or intra‐agency communications  that are protected  
+by legal privileges  (exemption  5); information  deemed an unwarranted  invasion 
+of personal privacy (Exemption  6); and law enforcement ‐related records 
+(Exemption  7). 
+III.  ACRONYMS,  DEFINITIONS,  AND EXEMPTIONS   
+1.  Agency‐specific acronyms  used in this Report:  
+  FCC – Federal Communications  Commission  
+  AFR – Application  for Review  
+  FOIA – Freedom of Information  Act  
+2.  Terms used throughout  this Report:  
+a.  Administrative  Appeal – a request to a federal agency asking that it 
+review at a higher administrative  level a FOIA determination  made by the 
+agency at the initial request level. 
+b.  Average Number – the number obtained by dividing the sum of a group 
+of numbers by the quantity of numbers in the group.  For example, of 3, 
+7, and 14, the average number is 8. 
+c.  Backlog – the number of requests or administrative  appeals that are 
+pending at an agency at the end of the fiscal year that are beyond the 
+statutory time period for a response.    
+5 
+ d.  Component  – for agencies that process requests on a decentralized  basis, 
+a “component”  is an entity, also sometimes  referred to as an Office, 
+Division, Bureau, Center, or Directorate,  within the agency that processes  
+FOIA requests.   The FOIA now requires that agencies include in their 
+Annual FOIA Report data for both the agency overall and for each 
+principal component  of the agency.  
+e.  Consultation  – the procedure  whereby the agency responding  to a FOIA 
+request first forwards a record to another agency for its review because 
+that other agency has an interest in the document.   Once the agency in 
+receipt of the consultation  finishes its review of the record, it responds 
+back to the agency that forwarded  it.  That agency, in turn, will then 
+respond to the FOIA requester.      
+f.  Exemption  3 Statute – a federal statute that exempts information  from 
+disclosure  and which the agency relies on to withhold information  under 
+subsection  (b)(3) of the FOIA.   
+g.  FOIA Request – a FOIA request is generally a request to a federal agency 
+for access to records concerning  another person (i.e., a “third‐party” 
+request), or concerning  an organization,  or a particular  topic of interest.  
+FOIA requests also include requests made by requesters  seeking records 
+concerning  themselves  (i.e., “first‐party” requests)  when those 
+requesters  are not subject to the Privacy Act, such as non‐U.S. citizens.  
+Moreover,  because all first‐party requesters  should be afforded the 
+benefit of both the access provisions  of the FOIA as well as those of the 
+Privacy Act, FOIA requests also include any first‐party requests where an 
+agency determines  that it must search beyond its Privacy Act “systems of 
+records” or where a Privacy Act exemption  applies, and the agency looks 
+to FOIA to afford the greatest possible access.  All requests which require 
+the agency to utilize the FOIA in responding  to the requester  are included 
+in this Report.  Additionally,  a FOIA request includes records referred to 
+the agency for processing  and direct response to the requester.   It does 
+not, however,  include records for which the agency has received a 
+consultation  from another agency.  (Consultations  are reported 
+separately  in Section XII of this Report.) 
+h.  Full Grant – an agency decision to disclose all records in full in response 
+to a FOIA request. 
+i.  Full Denial – an agency decision not to release any records in response to 
+a FOIA request because the records are exempt in their entireties  under 
+one or more of the FOIA exemptions,  or because of a procedural  reason, 
+such as when no records could be located.  
+6 
+ j.  Median Number – the middle, not average, number.  For example, of 3, 
+7, and 14, the median number is 7.  
+k.  Multi‐Track Processing  – a system in which simple requests requiring 
+relatively  minimal review are placed in one processing  track and more 
+voluminous  and complex requests are placed in one or more other tracks.  
+Requests granted expedited  processing  are placed in yet another track.  
+Requests in each track are processed  on a first in/first out basis.   
+i.  Expedited  Processing  – an agency will process a FOIA 
+request on an expedited  basis when a requester  satisfies 
+the requirements  for expedited  processing  as set forth in 
+the statute and in agency regulations.   
+ii.   Simple Request – a FOIA request that an agency using 
+multi‐track processing  places in its fastest (non‐expedited)  
+track based on the low volume and/or simplicity  of the 
+records requested.   
+iii.  Complex Request – a FOIA request that an agency using 
+multi‐track processing  places in a slower track based on 
+the high volume and/or complexity  of the records 
+requested.   
+l.  Partial Grant/Partial  Denial – in response to a FOIA request, an agency 
+decision to disclose portions of the records and to withhold other 
+portions that are exempt under the FOIA, or to otherwise  deny a portion 
+of the request for a procedural  reason.  
+m.  Pending Request or Pending Administrative  Appeal – a request or 
+administrative  appeal for which an agency has not taken final action in all 
+respects.  
+n.  Perfected  Request – a request for records which reasonably  describes  
+such records and is made in accordance  with published  rules stating the 
+time, place, fees (if any) and procedures  to be followed.  
+o.  Processed  Request or Processed  Administrative  Appeal – a request or 
+administrative  appeal for which an agency has taken final action in all 
+respects. 
+p.  Range in Number of Days – the lowest and highest number of days to 
+process requests or administrative  appeals.   
+7 
+ q.  Time Limits – the time period in the statute for an agency to respond to a 
+FOIA request (ordinarily  twenty working days from receipt of a perfected  
+FOIA request). 
+3.  Descriptions  of the nine FOIA exemptions:  
+a.  Exemption  1:  classified national defense and foreign relations 
+information  
+b.  Exemption  2:  internal agency rules and practices 
+c.  Exemption  3:  information  that is prohibited  from disclosure  by another 
+federal law 
+d.  Exemption  4:  trade secrets and other confidential  business information  
+e.   Exemption  5: inter‐agency or intra‐agency communications  that are 
+protected  by legal privileges  
+f.  Exemption  6:  information  involving matters of personal privacy 
+g.  Exemption  7: records or information  compiled  for law enforcement  
+purposes,  to the extent that the production  of those records (A) could 
+reasonably  be expected to interfere with enforcement  proceedings,  (B) 
+would deprive a person of a right to a fair trial or an impartial 
+adjudication,  (C) could reasonably  be expected to constitute  an 
+unwarranted  invasion of personal privacy, (D) could reasonably  be 
+expected to disclose the identity of a confidential  source, (E) would 
+disclose techniques  and procedures  for law enforcement  investigations  
+or prosecutions,  or would disclose guidelines  for law enforcement  
+investigations  or prosecutions,  or (F) could reasonably  be expected to 
+endanger  the life or physical safety of any individual  
+h.  Exemption  8:  information  relating to the supervision  of financial 
+institutions  
+i.  Exemption  9: geological  information  on wells 
+ 8 
+ 3. Agency Component  Abbreviations  
+ 
+Component  
+Abbreviation  Component  Name 
+FCC  Federal Communications  Commission  
+ 
+ 
+      
+ 
+        9 
+ IV. Exemption  3 Statutes 
+Statute Type of Information  
+Withheld  Case Citation Agency / 
+Component  Number of 
+Times 
+Relied 
+upon 
+by Agency / 
+Component  Total 
+Number 
+of 
+Times 
+Relied 
+upon 
+by 
+Agency 
+Overall 
+10 U.S.C. § 
+424 Organization  or any function of an organization,  
+and certain information  pertaining  to, 
+employees  of the Defense Intelligence  Agency, 
+the National Reconnaissance  Office, and the 
+National Geospatial ‐Intelligence  Agency Hamdan v. DOJ, 797 F.3d 759, 776 (9th Cir. 2015); 
+Freedom Watch, Inc. v. NSA, 197 F. Supp. 3d 165, 174 
+(D.D.C. 2016); Wickwire  Gavin, P.C. v. Def. Intel. Agency, 
+330 F. Supp. 2d 592, 602 (E.D. Va. 2004). FCC 
+1  1 
+50 U.S.C. § 
+3507 
+(formerly  
+at 50 U.S.C. 
+§ 403g) 
+(Central 
+Intelligence  
+Agency Act 
+of 1949) Intelligence  sources and methods;  certain 
+information  pertaining  to Agency functions  or 
+employees,  specifically:  “the organization  or 
+functions  of the Agency, or of the names, 
+official titles, salaries, or numbers of personnel  
+employed  by the Agency” Assassination  Archives & Rsch. Ctr. v. CIA, No. 18‐5280, 
+2019 WL 691517 (D.C. Cir. Feb. 15, 2019) (per curiam); 
+ACLU v. DOJ, 681 F.3d 61, 72‐75 (2d Cir. 2012); Berman v. 
+CIA, 501 F.3d 1136, 1137‐38, 1140 (9th Cir. 2007); Makky 
+v. Chertoff, 489 F. Supp. 2d 421, 442 (D.N.J. 2007), aff’d 
+on other grounds, 541 F. 3d 205 (3d Cir. 2008). FCC 
+1  1 
+50 U.S.C. § 
+3605 
+(formerly  
+at 50 U.S.C. 
+§ 402 note) 
+(National  
+Security 
+Agency Act 
+of 1959) Information  pertaining  to the functions  or 
+organization  of NSA; certain information  
+pertaining  to NSA employees  ACLU v. DOJ, 681 F.3d 61, 72‐75 (2d Cir. 2012); Elec. Priv. 
+Info. Ctr. v. NSA, 678 F.3d 926, 931 (D.C. Cir. 2012); 
+Houghton  v. NSA, 378 F. App’x 235, 238‐39 (3d Cir. 2010) 
+(per curiam); Lahr v. NTSB, 569 F.3d 964, 985 (9th Cir. 
+2009). FCC 
+1  1 10 
+ V.A. FOIA REQUESTS  ‐‐ RECEIVED,  PROCESSED  AND PENDING  FOIA REQUESTS  
+Agency / Component  Number of 
+Requests 
+Pending as of 
+Start 
+of Fiscal Year Number of 
+Requests 
+Received 
+in Fiscal Year Number of 
+Requests 
+Processed  
+in Fiscal Year Number of 
+Requests 
+Pending as of 
+End 
+of Fiscal Year 
+FCC  65  586  535  116 
+AGENCY OVERALL  65  586  535  116 
+ 
+V.B.(1). DISPOSITION  OF FOIA REQUESTS  ‐‐ ALL PROCESSED  REQUESTS  
+ 
+Agency / 
+Component Number 
+of Full 
+Grants Number 
+of 
+Partial 
+Grants / 
+Partial 
+Denials Number of 
+Full Denials 
+Based on 
+Exemptions Number of Full Denials Based on Reasons Other than Exemptions    
+No 
+Records All Records 
+Referred to 
+Another 
+Component  
+or Agency Request 
+Withdrawn Fee‐
+Related 
+Reason Records 
+not 
+Reasonably  
+Described Improper  
+FOIA 
+Request 
+for Other 
+Reason Not 
+Agency 
+Record Duplicate  
+Request Other 
+*Explain 
+in Chart 
+Below TOTAL 
+FCC  106  179  16  91  3  103  15  0  8  5  7  2  535 
+AGENCY 
+OVERALL 106  179  16  91  3  103  15  0  8  5  7  2  535 
+ 
+ 
+ 
+   11 
+ V.B.(2). DISPOSITION  OF FOIA REQUESTS  ‐‐ "OTHER" REASONS  FOR "FULL DENIALS BASED ON REASONS  OTHER THAN EXEMPTIONS"  
+ 
+Agency / 
+Component  Description  of "Other" Reasons for Denials from 
+Chart B(1) Number 
+of Times 
+"Other" 
+Reason 
+Was 
+Relied 
+Upon TOTAL 
+FCC  Directed Requester  to Publicly Available 
+Information   2 2 
+AGENCY 
+OVERALL       2 
+ 
+V.B.(3). DISPOSITION  OF FOIA REQUESTS  ‐‐ NUMBER  OF TIMES EXEMPTIONS  APPLIED 
+ 
+Agency / 
+Component  Ex. 
+1 Ex. 
+2 Ex. 
+3 Ex. 
+4 Ex. 
+5 Ex. 
+6 Ex. 
+7(A) Ex. 
+7(B) Ex. 
+7(C) Ex. 
+7(D) Ex. 
+7(E) Ex. 
+7(F) Ex. 
+8 Ex. 
+9 
+FCC  0 0 1 18 31 105 14  0  7  0 14  1 0 0 
+AGENCY 
+OVERALL 0 0 1 18 31 105 14  0  7  0 14  1 0 0 
+ 
+ 
+ 12 
+  
+ 
+ 
+VI.A. ADMINISTRATIVE  APPEALS OF INITIAL DETERMINATIONS  OF FOIA REQUESTS  ‐‐ RECEIVED,  PROCESSED,  AND PENDING  ADMINISTRATIVE  
+APPEALS 
+Agency / 
+Component  Number of 
+Appeals 
+Pending as of 
+Start 
+of Fiscal Year Number of 
+Appeals 
+Received 
+in Fiscal Year Number of 
+Appeals 
+Processed  
+in Fiscal Year Number of 
+Appeals 
+Pending as of 
+End 
+of Fiscal Year 
+FCC  10  17  11  16 
+AGENCY 
+OVERALL 10  17  11  16 
+ 
+VI.B. DISPOSITION  OF ADMINISTRATIVE  APPEALS ‐‐ ALL PROCESSED  APPEALS 
+Agency / 
+Component  Number 
+Affirmed on 
+Appeal Number Partially 
+Affirmed & Partially 
+Reversed/Remanded  
+on Appeal Number Completely  
+Reversed/Remanded  
+on Appeal Number of 
+Appeals 
+Closed for 
+Other 
+Reasons TOTAL 
+FCC  0  0  0  11  11 
+AGENCY 
+OVERALL 0  0  0  11  11 
+ 
+ 
+ 13 
+ VI.C.(1). REASONS  FOR DENIAL ON APPEAL ‐‐ NUMBER  OF TIMES EXEMPTIONS  APPLIED 
+ 
+Agency / 
+Component  Ex. 
+1 Ex. 
+2 Ex. 
+3 Ex. 
+4 Ex. 
+5 Ex. 
+6 Ex. 
+7(A) Ex. 
+7(B) Ex. 
+7(C) Ex. 
+7(D) Ex. 
+7(E) Ex. 
+7(F) Ex. 
+8 Ex. 
+9 
+FCC  0 0 0 0 0 0  0  0  0  0  0  0 0 0 
+AGENCY 
+OVERALL 0 0 0 0 0 0  0  0  0  0  0  0 0 0 
+ 
+ 
+VI.C.(2). REASONS  FOR DENIAL ON APPEAL ‐‐ REASONS  OTHER THAN EXEMPTIONS  
+ 
+Agency / 
+Component  No 
+Records Records 
+Referred 
+at Initial 
+Request 
+Level Request 
+Withdrawn  Fee‐
+Related 
+Reason Records 
+not 
+Reasonably  
+Described  Improper  
+Request 
+for Other 
+Reasons Not 
+Agency 
+Record Duplicate  
+Request 
+or 
+Appeal Request 
+in 
+Litigation  Appeal 
+Based 
+Solely on 
+Denial of 
+Request 
+for 
+Expedited  
+Processing  Other 
+*Explain 
+in chart 
+below 
+FCC  0  0  0  0  0  11  0  0  0  0  0 
+AGENCY 
+OVERALL 0  0  0  0  0  11  0  0  0  0  0 
+ 
+ 
+ 14 
+ VI.C.(3). REASONS  FOR DENIAL ON APPEAL ‐‐ "OTHER" REASONS  
+ 
+Agency / 
+Component  Description  of "Other" Reasons for Denial on 
+Appeal from Chart C(2) Number of 
+Times 
+"Other" 
+Reason 
+Was Relied 
+Upon TOTAL 
+FCC  N/A  0  0 
+AGENCY 
+OVERALL       0 
+ 
+ 
+VI.C.(4). RESPONSE  TIME FOR ADMINISTRATIVE  APPEALS 
+ 
+ 
+Agency / 
+Component  Median Number 
+of Days Average 
+Number of Days  
+Lowest Number 
+of Days Highest Number 
+of Days 
+FCC  181.5  165.08   <1  578.0 
+AGENCY 
+OVERALL  181.5  165.08  
+<1  578.0 
+ 
+ 
+ 15 
+ VI.C.(5). TEN OLDEST PENDING  ADMINISTRATIVE  APPEALS 
+ 
+Agency / 
+Component    10th 
+Oldest 
+Appeal 9th  8th  7th  6th  5th  4th  3rd  2nd Oldest 
+Appeal 
+FCC Date of 
+Appeal 2022‐
+12‐27 2022‐
+12‐23 2022‐
+12‐12 2022‐
+07‐14 2022‐
+04‐05 2021‐
+06‐24 2020‐
+08‐03 2020‐
+07‐10 2020‐
+07‐10 2018‐
+10‐01 
+Number 
+of Days 
+Pending  191  192  201  304  373  567  788  804  804  1246 
+AGENCY 
+OVERALL Date of 
+Appeal 2022‐
+12‐27 2022‐
+12‐23 2022‐
+12‐12 2022‐
+07‐14 2022‐
+04‐05 2021‐
+06‐24 2020‐
+08‐03 2020‐
+07‐10 2020‐
+07‐10 2018‐
+10‐01 
+Number 
+of Days 
+Pending  191  192  201  304  373  567  788  804  804  1246 
+ 
+VII.A. FOIA REQUESTS  ‐‐ RESPONSE  TIME FOR ALL PROCESSED  PERFECTED  REQUESTS  
+ 
+Agency / 
+Component  SIMPLE  COMPLEX   EXPEDITED  PROCESSING  
+Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days 
+FCC  17.0  16.08  <1  60.0  99.0 177.44  26.0  898.0  20.0  48.4  1.0  568.0 
+AGENCY 
+OVERALL  17.0  16.08  <1  60.0  99.0 177.44  26.0  898.0  20.0  48.4  1.0  568.0 
+ 16 
+  
+VII.B. PROCESSED  REQUESTS  ‐‐ RESPONSE  TIME FOR PERFECTED  REQUESTS  IN WHICH INFORMATION  WAS GRANTED  
+ 
+Agency / 
+Component  SIMPLE  COMPLEX   EXPEDITED  PROCESSING  
+Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days Median 
+Number 
+of Days Average 
+Number 
+of Days Lowest 
+Number 
+of Days Highest 
+Number 
+of Days 
+FCC  19.0  18.08  <1  60.0  89.5 179.64  26.0  898.0  25.0  65.08  4.0  568.0 
+AGENCY 
+OVERALL  19.0  18.08  <1  60.0  89.5 179.64  26.0  898.0  25.0  65.08  4.0  568.0 
+ 
+ 
+ 
+VII.C. PROCESSED  SIMPLE REQUESTS  ‐‐ RESPONSE  TIME IN DAY INCREMENTS  
+ 
+Agency / 
+Component  <1‐
+20 
+Days 21‐
+40 
+Days 41‐
+60 
+Days 61‐
+80 
+Days 81‐
+100 
+Days 101‐
+120 
+Days 121‐
+140 
+Days 141‐
+160 
+Days 161‐
+180 
+Days 181‐
+200 
+Days 201‐
+300 
+Days 301‐
+400 
+Days 401+ 
+Days TOTAL 
+FCC  315 103  9  0  0  0  0  0  0  0  0  0  0  427 
+AGENCY 
+OVERALL 315 103  9  0  0  0  0  0  0  0  0  0  0  427 
+ 
+ 17 
+ VII.C. PROCESSED  COMPLEX  REQUESTS  ‐‐ RESPONSE  TIME IN DAY INCREMENTS  
+ 
+Agency / 
+Component  <1‐
+20 
+Days 21‐
+40 
+Days 41‐
+60 
+Days 61‐
+80 
+Days 81‐
+100 
+Days 101‐
+120 
+Days 121‐
+140 
+Days 141‐
+160 
+Days 161‐
+180 
+Days 181‐
+200 
+Days 201‐
+300 
+Days 301‐
+400 
+Days 401+ 
+Days TOTAL 
+FCC  0  6  15  4  5  5  3  3  3  3  4  3  6  60 
+AGENCY 
+OVERALL 0  6  15  4  5  5  3  3  3  3  4  3  6  60 
+ 
+ 
+VII.C. PROCESSED  REQUESTS  GRANTED  EXPEDITED  PROCESSING  ‐‐ RESPONSE  TIME IN DAY INCREMENTS  
+ 
+Agency / 
+Component  <1‐
+20 
+Days 21‐
+40 
+Days 41‐
+60 
+Days 61‐
+80 
+Days 81‐
+100 
+Days 101‐
+120 
+Days 121‐
+140 
+Days 141‐
+160 
+Days 161‐
+180 
+Days 181‐
+200 
+Days 201‐
+300 
+Days 301‐
+400 
+Days 401+ 
+Days TOTAL 
+FCC  23  9  3  1  1  1  0  0  0  0  0  0  2  40 
+AGENCY 
+OVERALL 23  9  3  1  1  1  0  0  0  0  0  0  2  40 
+ 
+ 
+ 
+  18 
+ VII.D. PENDING  REQUESTS  ‐‐ ALL PENDING  PERFECTED  REQUESTS  
+ 
+Agency / 
+Component  SIMPLE  COMPLEX   EXPEDITED  PROCESSING  
+Number 
+Pending Median 
+Number 
+of Days Average 
+Number 
+of Days Number 
+Pending Median 
+Number 
+of Days Average 
+Number 
+of Days Number 
+Pending Median 
+Number 
+of Days Average 
+Number 
+of Days 
+FCC  77  9.0  17.87  23  346.0 449.43  9  161.0  118.0 
+AGENCY 
+OVERALL  77  9.0  17.87  23  346.0 449.43  9  161.0  118.0 
+ 
+VII.E. PENDING  REQUESTS  ‐‐ TEN OLDEST PENDING  PERFECTED  REQUESTS  
+ 
+Agency / 
+Component    10th 
+Oldest 
+Request 9th  8th  7th  6th  5th  4th  3rd  2nd Oldest 
+Request 
+FCC Date of 
+Receipt 2022‐
+03‐31 2021‐
+12‐10 2021‐
+09‐13 2021‐
+09‐21 2021‐
+09‐15 2021‐
+01‐27 2020‐
+12‐01 2020‐
+06‐01 2019‐
+01‐04 2016‐
+11‐18 
+Number 
+of Days 
+Pending  375  450  479  505  508  669  705  832 1184  1713 
+AGENCY 
+OVERALL Date of 
+Receipt 2022‐
+03‐31 2021‐
+12‐10 2021‐
+09‐13 2021‐
+09‐21 2021‐
+09‐15 2021‐
+01‐27 2020‐
+12‐01 2020‐
+06‐01 2019‐
+01‐04 2016‐
+11‐18 
+Number 
+of Days 
+Pending  375  450  479  505  508  669  705  832 1184  1713 
+ 19 
+  
+VIII.A. REQUESTS  FOR EXPEDITED  PROCESSING  
+ 
+Agency / 
+Component  Number 
+Granted Number 
+Denied Median 
+Number of 
+Days to 
+Adjudicate  Average 
+Number of 
+Days to 
+Adjudicate  Number 
+Adjudicated  
+Within Ten 
+Calendar 
+Days 
+FCC  45  48  2.0  3.24  93 
+AGENCY 
+OVERALL  45  48  2.0  3.24  93 
+ 
+ 
+VIII.B. Requests  for Fee Waiver 
+ 
+Agency / 
+Component  Number 
+Granted Number Denied Median Number 
+of Days to 
+Adjudicate  Average 
+Number of Days 
+to Adjudicate  
+FCC  2  2  4.5  8.75 
+AGENCY 
+OVERALL  2  2  4.5  8.75 
+ 
+ 
+ 20 
+ IX. FOIA Personnel  and Costs 
+ 
+Agency / 
+Component  PERSONNEL   COSTS 
+Number of 
+"Full‐Time 
+FOIA 
+Employees"  Number of 
+"Equivalent  
+Full‐Time 
+FOIA 
+Employees"  Total 
+Number 
+of "Full‐
+Time 
+FOIA 
+Staff" Processing  
+Costs Litigation ‐
+Related 
+Costs Total Costs 
+FCC  5  8.22  13.22 $2,841,158.71  $33,354.76  $2,874,513.47  
+AGENCY 
+OVERALL  5  8.22  13.22 $2,841,158.71     
+$33,354.76   $2,874,513.47  
+ 
+X. Fees Collected  for Processing  Requests  
+ 
+ 
+Agency / 
+Component  Total Amount 
+of Fees 
+Collected  Percentage  of 
+Total Costs 
+FCC  $2,294.93   0.0800 
+AGENCY 
+OVERALL  $2,294.93   0.0800 
+ 
+ 
+ 21 
+ XI.A. Number of Times Subsection  (C) Used 
+ 
+Agency / 
+Component  Number of Times Subsection  Used 
+FCC  0 
+AGENCY OVERALL  0 
+ 
+XI.B. Number of Subsection  (A)(2) Postings 
+ 
+Agency / 
+Component  Number of 
+Records Posted 
+by the FOIA 
+Office Number of 
+Records Posted 
+by Program 
+Offices 
+FCC  9  2,752,838  
+AGENCY 
+OVERALL  9  2,752,838  
+ 
+ 
+ 
+ 
+   22 
+ XII.A. Backlogs of FOIA Requests  and Administrative  Appeals 
+Agency / 
+Component  Number of 
+Backlogged  
+Requests as of 
+End of Fiscal 
+Year Number of 
+Backlogged  
+Appeals as of 
+End of Fiscal 
+Year 
+FCC  35  13 
+AGENCY 
+OVERALL  35  13 
+ 
+XII.B. CONSULTATIONS  ON FOIA REQUESTS  ‐‐ RECEIVED,  PROCESSED,  AND PENDING  CONSULTATIONS  
+Agency / 
+Component  Number of 
+Consultations  
+Received from 
+Other Agencies 
+that were 
+Pending at the 
+Agency as of 
+Start 
+of the Fiscal 
+Year Number of 
+Consultations  
+Received from 
+Other Agencies 
+During the Fiscal 
+Year Number of 
+Consultations  
+Received from 
+Other Agencies 
+that were 
+Processed  by 
+the Agency 
+During the Fiscal 
+Year Number of 
+Consultations  
+Received from 
+Other Agencies 
+that were 
+Pending at the 
+Agency as of 
+End 
+of the Fiscal 
+Year 
+FCC  2  15  17  0 
+AGENCY 
+OVERALL 2  15  17  0 
+ 
+After reviewing  its database,  FCC adjusted the number of Consultations  pending as of 
+the start of the fiscal year. 
+ 23 
+ XII.C. CONSULTATIONS  ON FOIA REQUESTS  ‐‐ TEN OLDEST CONSULTATIONS  RECEIVED  FROM OTHER AGENCIES  AND PENDING  AT THE AGENCY 
+ 
+Agency / 
+Component    10th Oldest 
+Consultation  9th 8th 7th 6th 5th 4th 3rd 2nd Oldest 
+Consultation  
+FCC Date  N/A N/A N/A N/A N/A N/A N/A N/A N/A  N/A 
+Number 
+of Days  0  0  0  0  0  0  0  0  0  0 
+AGENCY 
+OVERALL Date  N/A N/A N/A N/A N/A N/A N/A N/A N/A  N/A 
+Number 
+of Days  0  0  0  0  0  0  0  0  0  0 
+ 
+XII.D.(1). COMPARISON  OF NUMBERS  OF REQUESTS  FROM PREVIOUS  AND CURRENT  ANNUAL REPORT ‐‐ REQUESTS  RECEIVED  AND 
+PROCESSED  
+ 
+Agency / 
+Component  NUMBER OF REQUESTS  RECEIVED  NUMBER OF REQUESTS  
+PROCESSED  
+Number 
+Received During 
+Fiscal Year from 
+Last Year's 
+Annual Report Number 
+Received During 
+Fiscal Year from 
+Current Annual 
+Report Number 
+Processed  
+During Fiscal 
+Year from Last 
+Year's Annual 
+Report Number 
+Processed  
+During Fiscal 
+Year from 
+Current Annual 
+Report 
+FCC  523  586  508  535 
+AGENCY 
+OVERALL  523  586  508  535 24 
+ XII.D.(2). COMPARISON  OF NUMBERS  OF REQUESTS  FROM PREVIOUS  AND CURRENT  ANNUAL REPORT ‐‐ BACKLOGGED  REQUESTS  
+ 
+Agency / 
+Component  Number of 
+Backlogged  
+Requests as of 
+End of the Fiscal 
+Year from 
+Previous Annual 
+Report Number of 
+Backlogged  
+Requests as of 
+End of the Fiscal 
+Year from Current 
+Annual Report 
+FCC  33  35 
+AGENCY 
+OVERALL  33  35 
+ 
+XII.E.(1). COMPARISON  OF NUMBERS  OF ADMINISTRATIVE  APPEALS FROM PREVIOUS  AND CURRENT  ANNUAL REPORT ‐‐ APPEALS RECEIVED  
+AND PROCESSED  
+ 
+Agency / 
+Component  NUMBER OF APPEALS RECEIVED   NUMBER OF APPEALS PROCESSED  
+Number 
+Received During 
+Fiscal Year from 
+Last Year's 
+Annual Report Number 
+Received During 
+Fiscal Year from 
+Current Annual 
+Report Number 
+Processed  
+During Fiscal 
+Year from Last 
+Year's Annual 
+Report Number 
+Processed  
+During Fiscal 
+Year from 
+Current Annual 
+Report 
+FCC  9  19  7  12 
+AGENCY 
+OVERALL  9  19  7  12 
+ 25 
+ XII.E.(2). COMPARISON  OF NUMBERS  OF ADMINISTRATIVE  APPEALS FROM PREVIOUS  AND CURRENT  ANNUAL REPORT ‐‐ BACKLOGGED  
+APPEALS 
+ 
+Agency / 
+Component  Number of 
+Backlogged  
+Appeals as of End 
+of the Fiscal Year 
+from Previous 
+Annual Report Number of 
+Backlogged  
+Appeals as of End 
+of the Fiscal Year 
+from Current 
+Annual Report 
+FCC  10  13 
+AGENCY 
+OVERALL  10  13 
+ 
+ 
+  

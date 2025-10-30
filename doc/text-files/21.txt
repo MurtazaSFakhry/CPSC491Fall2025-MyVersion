@@ -1,0 +1,102 @@
+
+Wireless Emergency Alerts (WEA)
+
+
+            An official website of the United States government
+          
+Here�s how you know
+
+Official websites use .govA
+              .gov website belongs to an official government
+              organization in the United States.
+            
+
+Secure .gov websites use HTTPSA
+              lock (
+              
+Lock
+Locked padlock icon
+
+ ) or https:// means you've safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            
+The FCC proposed a new event code option to deliver critical messages to the public over television and radio about missing and endangered adult persons. Adding a new "Missing and Endangered Persons" or "MEP" event code to the nation's Emergency Alert System (EAS) would help law enforcement agencies issue timely alerts in accordance with the Ashanti Alert Act and drive increased public attention to missing persons cases.
+While a widespread concern, the issue of missing and endangered persons is particularly prevalent in Tribal communities, where American Indian and Alaska Native people are at a disproportionate risk of experiencing violence, murder, or vanishing.
+The Wireless Emergency Alerts system is an essential part of America's emergency preparedness. Since its launch in 2012, the WEA system has been used more than 84,000 times to warn the public about dangerous weather, missing children, and other critical situations � all through alerts on compatible cell phones and other mobile devices.
+WEA is a public safety system that allows customers who own compatible mobile devices to receive geographically targeted, text-like messages alerting them of imminent threats to safety in their area.
+WEA enables government officials to target emergency alerts to specific geographic areas  lower Manhattan in New York, for example.
+The Warning, Alert and Response Network (WARN) Act established WEA in 2008, and it became operational in 2012.
+Wireless companies volunteer to participate in WEA, which is the result of a unique public/private partnership between the Federal Emergency Management Agency, the FCC, and the United States wireless industry in order to enhance public safety.
+How does WEA work?
+Authorized national, state or local government authorities send alerts regarding public safety emergencies  such as severe weather, missing children, or the need to evacuate  using WEA.
+Authorized public safety officials send WEA alerts through FEMA's Integrated Public Alert and Warning System (IPAWS) to participating wireless carriers, which then push the alerts to compatible mobile devices in the affected area.
+Who receives the alerts?
+The alerts are broadcast to the geographic area affected by an emergency. This means that if an alert is sent to a zone in New York, WEA-capable mobile devices in that zone can receive the alert, even if they are roaming or visiting from another state. In other words, a customer visiting from Chicago would be able to receive alerts in New York so long as the person has a WEA-enabled mobile device in the alert zone.
+How much do consumers pay to receive WEA?
+Alerts are free. Customers do not pay to receive WEA.
+Do consumers have to sign up to receive alerts?
+Consumers do not need to sign up for this service. WEA allows government officials to send emergency alerts to all subscribers with WEA-capable devices if their wireless carrier participates in the program.
+What alerts does WEA deliver?
+WEA alerts only cover critical emergency situations. Consumers can receive four types of alerts:
+Participating carriers may allow subscribers to block all but National Alerts.
+What do consumers experience when they receive a WEA?
+A WEA alert appears on the screen of the recipient's handset as a text-like message. The alert is accompanied by a unique attention signal and vibration, which is particularly helpful to people with hearing or vision-related disabilities.
+Are consumers able to receive WEAs on a prepaid phone?
+Yes. Consumers with prepaid phones can receive WEAs as long as their provider has decided to participate in WEA and the customer has a WEA-enabled device. These consumers receive the alerts just as customers with postpaid, monthly service do.
+Does WEA track my location?
+No. WEA is not designed to  and does not � track the location of anyone receiving a WEA alert.
+Are WEAs text messages?
+No. Many providers have chosen to transmit WEAs using a technology that is separate and different from voice calls and SMS text messages.
+Do consumers need a new phone or a smart phone to receive alerts?
+Consumers should check with their wireless carrier regarding the availability of WEA-capable handsets. In addition, CTIA, a wireless trade association, publishes lists of WEA-capable phones offered by the largest wireless providers.
+Is WEA available everywhere?
+Participation in WEA by wireless carriers is widespread but voluntary. Some carriers may offer WEA over all or parts of their service areas or over all or only some of their wireless devices. Other carriers may not offer WEA at all. Even if you have a WEA-enabled device, you would not receive WEAs in a service area where the provider is not offering WEA or if your device is roaming on a provider network that does not support the WEA service. Consumers should check with their wireless carriers to determine the extent to which they are offering WEA.
+Can consumers block WEAs?
+Partially. Participating wireless carriers may offer subscribers with WEA-capable handsets the ability to block alerts involving imminent threats to safety of life and/or AMBER Alerts. Consumers cannot block National Alerts.
+Why can't consumers block National Alerts?
+In passing the WARN Act, Congress allowed participating wireless carriers to offer subscribers the capability to block all WEAs except National Alerts.
+How will subscribers know whether their carrier offers WEA?
+The FCC requires all wireless carriers that do not participate in WEA to notify customers. Consumers should check with their wireless carriers to determine the extent to which they are offering WEA.
+My friend just received a WEA over her cell phone, but I did not. We are in the same location. Why didn't I receive a WEA?
+To receive a WEA message, your handset must be WEA-capable, switched on, not on "airplane mode," and in the vicinity of and receiving service from a cell tower of a wireless carrier that participates in WEA.
+Some participating carriers may offer WEA on some, but not all, of their mobile devices. Consumers should check with their wireless carriers to find out if their cell phone is WEA-capable.
+How geographically precise is WEA?
+WEA geographic precision is continuously improving. When the WEA program launched, participating wireless providers were generally required to send the alerts to a geographic area no larger than the county or counties affected by the emergency. Next, beginning in 2017, participating wireless providers were required to transmit alerts to a geographic area that best approximated the area affected by the emergency, even if it was smaller than a county. Now, as of December 2019, participating wireless providers must geographically target alerts to technologically compatible phones even more: they must deliver the alerts to the area specified by the alert originator with no more than a 1/10 of a mile overshoot.
+This "enhanced geotargeting" relies on new smartphone technology and will be increasingly available as consumers upgrade their devices. CTIA, a U.S. wireless association, estimates that about 83 percent of consumers' smartphones support this enhancement in 2023, an increase from about 60 percent in 2022, 34 percent in 2021, and 18 percent in 2020. WEA-compatible phones that do not support enhanced geotargeting will still receive alerts based on the 2017 geographic area requirements.
+What is the FCC's role in WEA?
+The WARN Act directed the FCC to adopt technical and operational requirements for WEA service. Wireless carriers that participate in WEA must adhere to the FCC's WEA rules.
+Does the FCC send alerts?
+No, the FCC does not send alerts. WEA alert originators include other federal agencies (such as the National Weather Service) and state and local government authorities. Alerts from authenticated public safety officials are sent through FEMA's IPAWS system to participating wireless carriers.
+Who do I contact with questions about how WEA works on my wireless device?
+For questions about how WEA works on specific devices, check with your wireless provider.
+How do I know if my wireless phone or mobile device can receive WEA messages?
+Wireless service customers should check with their wireless service provider to find out if their cell phone or mobile device is WEA-capable. Not all wireless service providers offer WEA, and some participating wireless service providers may offer WEA on some, but not all, of their mobile devices, and in some, but not all, of their service areas.
+Information on the Accessibility of Wireless Emergency Alerts to People with Disabilities
+Printable Version
+Wireless Emergency Alerts (WEA) Guide (pdf)
+More information
+Background on WEA Policy
+
+Alternate Format Requests
+
+
+People with print disabilities may request braille, large print, or screen-reader friendly versions of this article via the email form at fcc504@fcc.gov. For audio and other access, use the "Explore Accessibility Options" link.
+
+Consumer Help Center
+
+
+Learn about consumer issues - visit the FCC's Consumer Help Center at fcc.gov/consumers
+
+
+
+
+            File a Complaint with the FCC
+          
+
+
+
+File Your Complaint 
+Visit our Consumer Complaint Center at consumercomplaints.fcc.gov  to file a complaint or tell us your story.
+
+

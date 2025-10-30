@@ -1,0 +1,234 @@
+ 
+https://crsreports.congress.gov  
+ 
+Updated June 7, 2023
+FEMA Assistance: Limited English Proficiency and Equity
+Individuals with Limited English Proficiency (LEP)  often 
+encounter disproportionate risk during hazards  as well as 
+barriers to federal relief . Statute requires t he Federal 
+Emergency Management Agency (FEMA ; the lead agency  
+for domestic emergency management)  to ensure that 
+disaster relief reach es individuals with LEP. This In  Focus 
+summarizes s elect  risks that language barriers impose 
+during hazard response and recovery  (e.g., evacuation and 
+sheltering), federal authorities addressing disaster relief for 
+individuals with LEP, and recent  policy proposals  to 
+enhance the delivery of federal relief for such individuals .  
+Language Barri ers—Select Risks  
+Language barriers may exacerbate the effects of hazards  
+and hinder relief efforts  in the following ways : 
+• Individuals with LEP may not understand e vacuation 
+notices or instructions , raising the risk of casualty .  
+• Individuals with LEP may not understand emergency 
+relief providers , imped ing access to e mergency medical 
+care, sheltering  assistance , and key relief commodities.  
+• Individuals with LEP may not understand federal aid 
+applications, written guidance, and oral instructions , 
+deterring or delay ing their requests for relief  or yield ing 
+insufficient awards. (FEMA  report s that it  can provide 
+some assistance in English and Spanish , and contracts 
+for assistance in additional languages , though some 
+translations may be i naccurate or unintelligible. ) 
+• Officials with LEP in state, local, tribal, and territorial 
+governments (SLTTs ) and  nonprofits  may not 
+understand relief instructions and procedures , inhibiting 
+the delivery of critical assistance . 
+Key Authorities  
+Relevant  Statute s  
+Title VI of the Civil Rights Act of 1964 requires recipients 
+of federal assistance to ensure that  persons with LEP have 
+meaningful access to such assistance. Additionally, Section 
+308 of the  Robert T. Stafford Disaster Relief and 
+Emergen cy Assistance Act (the Staffor d Act, P.L. 93 -288, 
+as amended)  require s the issuance of  regulations  ensuring  
+the provision of disaster relief without discrimination , 
+includin g based on  English proficiency.  
+In 2006,  the Post-Katrina Emergency Management Reform 
+Act (PKEMRA,  P.L. 109 -295) amended the Stafford Act . It 
+require d the FEMA Administrator to (1) work with SLTTs 
+to identify LEP populations and ensure that they are 
+incorporated into the disaster planning process , (2) ensure 
+that such populations could access  disaster relief 
+information, and (3) develop and maintain a da tabase on 
+successful language assistance programs that could be 
+provided to SLTTs during an incident ( 42 U.S.C. §5196f ).  FEMA Regulations  and Agency Notices  
+FEMA issued regulations implementing  statutory civil 
+rights obligations for federal disaster relie f at 44 C.F.R. 
+§206.11  and 44 C .F.R. Part 7. Per these regulations, entities  
+receiving most forms of FEMA assistance (e.g., SLTTs and 
+nonprofits) may not discriminate a gainst individuals on the 
+basis of national origin, among other grounds , when 
+administer ing such relief  (LEP is not explicitly mentioned) . 
+FEMA may refuse or terminate financial assistance in cases 
+of noncompliance. Additionally, neither federal personnel 
+nor agencies may discriminate against individuals when  
+providing federal disaster assistance.  
+In 2011,  the Department of Homeland Security  (DHS ) 
+released guidance for agency components, including FEMA 
+(“2011 DHS  Notice ”; 76 Federal Register  21755 ). The 
+guidance (1) details federal assistance recipients’ 
+respo nsibilities  to ensure access to  individuals with LEP 
+and (2) explains how DHS evaluates compliance.  
+Federal Communications  Commission (FCC)  
+State and local agencies can send emergency alerts through 
+FEMA’s Integrated Public Alert and Warning System 
+(IPAWS), which distributes alerts via radio, television, cell 
+phones, and other means. FEMA coordinates with the 
+Federal Communications Commission (FCC), which 
+regulates commercial broadcast and mobile service 
+providers  that elect to participate in emergen cy alerting . 
+The FCC has adopted rules for the Emergency Alert System 
+(EAS), which delivers alerts via television and radio (47 
+C.F.R. Part 11), and the Wireless Emergency Alerts (WEA) 
+system, used by mobile service providers to send alerts to 
+cell phones (47 C.F.R. Part 10) . FCC mandates that EAS 
+broadcasters providing foreign language programming 
+should transmit EAS announcements in the primary 
+language of the EAS participant (47 C.F.R. §11.55(c)(4)). 
+The FCC also requires EAS participants to report actio ns 
+taken or planned to reach non -English -speaking audiences 
+to help states acquire information on how best to 
+disseminate multilingual alerts (47 C.F.R. §11.55(d)). In 
+2016, t he FCC adopted WEA rules (47 C.F.R. §10.480) 
+requiring wireless service providers to transmit WEA  alerts 
+issued in Spanish , or that contain Spanish -language 
+characters, to cell phone users who specify Spanish as their 
+preferred language. Local government  official s and LEP 
+stakeholders have urged the FCC to improve multilingual  
+EAS and WEA alerting.  In February 2023, a letter signed  
+by 45 Members  from both chambers of Congress urged the 
+FCC  to expand the number of WEA languages. In April 
+2023 , the FCC adopted a  Notice of Proposed Rulemaking 
+that would require providers that send WEA alerts to ensure 
+mobile devices can translate alerts into the 13 most 
+commonly spoken languages in the United States, and 
+support American Sign Language and speech -to-text. The 
+rules are pending.   FEMA Assistance: Limited English Proficiency and Equity  
+https://crsreports.congress.gov  Executive Orders  
+On August 11, 2000 , President Clinton  signed Executive 
+Order (E.O.) 13166, Improving Access to English Services 
+for Persons with Limited English Proficiency,  which  
+requires federal agencies to examine the services they 
+provide and develop and implement a system to provide  
+individuals with LEP  “meaningful access” to agency 
+services. The E.O. builds on  the prohibitions on 
+discrimination due to national origin in  Title VI of the Civil 
+Rights Act of 1964, as amended . E.O. 13166 directs all 
+agencies providing federal financial assista nce to prepare a 
+Language Access Plan (LAP)  to improve access to 
+programs by eligible individuals with LEP. The E.O.  
+further  directs the Department of Justice (DOJ) to oversee 
+agency compliance and consistency in implementation.  
+Through DOJ guidance , agencies and recipients of federal 
+financial assistance must  assess “meaningful access” to 
+their programs and activities through a four -factor analysis:  
+1. The number or proportion of individuals 
+with LEP served or encountered in the 
+service population;  
+2. The frequency of contact  with individuals 
+with LEP ; 
+3. The nature and importance of the 
+program; and  
+4. The agency’s available resources.  
+DOJ explains, “Applying the four factors, for example, a 
+small police department with limited resources 
+encountering very few L EP people has far fewer language 
+assistance responsibilities than larger departments with 
+more resources and large populations of LEP individuals.” 
+(66 Federal Register 3834) . 
+FEMA Policy  and Guidance  
+In 2016, FEMA issued a LAP (updated in 2023) to comply 
+with E.O. 13166. The LAP explains how  FEMA conducts  
+assessments to identify affected LEP individuals following 
+a Stafford Act declaration. The 2016 LAP reported  that 
+FEMA  releases some relevant information to disaster 
+survivors in different lan guages based on  these assessments,  
+including  “Civil Rights Notices” that ackn owledge the  right 
+of individuals with LEP to receive accessible 
+communication , and notice that FEMA can provide 
+interpreter services in  up to  69 languages (at certain 
+locations ). FEMA’s abbreviated 2023 LAP  reported that the 
+agency is to provide  oral and written services to LEP 
+individuals, and notices of the availability of such services.  
+Select  Policy Issues  
+Establishing Trust Across  Language Barriers  
+Language barriers may undermine  trust between disaster 
+survivors and emergency responders , jeopardizing 
+evacuation and relief efforts . For example , some  
+immigrants with LEP may avoid government officials due 
+to fears of immigration surveillance and enforce ment.  
+Implementation Gaps and FEMA Capacity  
+FEMA’s bilingual workforce has  sometimes  fallen short of  
+demand  in post -disaster areas. For example, FEMA  did not 
+have  sufficient Spanish -speaking  staff to serve survivors  in 
+Puerto Rico following Hurricane Marí a (GAO -18-472). 
+Such shortfalls may be particularly common  when  concurrent disasters require  limited FEMA  personnel  to 
+deploy to multiple regions. FEMA may require additional 
+appropriations  to support  more  bilingual  permanent  staff, 
+short -term reservists, or translators , though some contracted 
+translations have been notably inaccurate.   
+Recent  Policy Recommendations  
+Federal  Hiring for Language Competency  
+The 2022 inaugural report of President Joseph R. Biden’s 
+Advisory Commission on Asian Americans, Native 
+Hawaiians, and Pacific Islanders (the Commission) called 
+upon the Office of Personnel Management to provide 
+guidance on hiring bilingual staff, interpreters, and 
+translators to federal agencies that di rectly provide federal 
+disaster assistance . Other experts also recommended hiring 
+local residents that share survivors’ cultures and languages .  
+New Requirements for Federal Grant ees 
+The Commission’s report also called upon FEMA to  revise 
+requirements for  SLTTs  receiving federal assistance . 
+Specifically, the Commission recommended that FEMA 
+require such entities  to identify LEP commun ities and detail 
+how they will ensure meaningful access  to federal relief in 
+those c ommunities.  Currently, DHS recommends sim ilar 
+actions to establish compliance with federal civil rights 
+requirements ( see 2011 DHS Notice). The Commission 
+suggested incorporatin g requirements into grant terms, 
+scoring methods, and notices of funding opportunities.   
+Incorporate LEP Communities int o Planning  
+Federal and nonfederal  stakeholders and experts 
+recommend  that preparedness and planning efforts include 
+individuals with LEP  (and representative organizations)  to 
+ensure sufficient consideration of their needs .  
+Direct Outreach  to Affected Populations  
+A recent coalition of groups representing disaster survivors  
+(e.g., Ayuda Legal Puerto Rico)  recommended that FEMA 
+provide assistance notices and application guidance through 
+door-to-door campaigns to affected, hard -to-reach 
+popula tions, particularly LEP individuals. FEMA supported  
+similar outreach efforts during the  COVID -19 pandemic 
+and Hurricane Ian.  Some entities use commercial o ff-the-
+shelf  alerting systems that offer multilingual alerting 
+options. However , these systems  often require people 
+subscribe or opt -in and do not send alerts to non-
+subscribers, including individuals passing through an area .  
+Data on Language Outreach  
+FEMA’s National Advisory Council (an advisory body of 
+representatives from SLTT governments, emergency 
+management professionals and experts, and populations 
+with special needs) proposed  that FEMA track  the 
+languages used to reach survivors  as part of an effort to 
+assess the equitability of different agency programs.  
+Erica A. Lee , Analyst in Emergency Management and 
+Disaster Recovery    
+Meghan M. Stuessy , Analyst in Government Organization 
+and Management    
+Elizabeth M. Webster , Analyst in Emergency 
+Management and Disaster Recovery    
+Jill C. Gallagher , Analyst in Telecommunications Policy    
+IF12263FEMA Assistance: Limited English Proficiency and Equi ty 
+https://crsreports.congress.gov  | IF12263  · VERSION 10 · UPDATED   
+ 
+Disclaimer  
+This document was  prepared by the Congressional Research Service (CRS). CRS serves as nonpartisan shared staff to 
+congressional committees and Members of Congress. It operates solely at the behest of and under the direction of Congress. 
+Information in a CRS Report should n ot be relied upon for purposes other than public understanding of information that has 
+been provided by CRS to Members of Congress in connection with CRS’s institutional role. CRS Reports, as a work of the 
+United States Government, are not subject to copyr ight protection in the United States. Any CRS Report may be 
+reproduced and distributed in its entirety without permission from CRS. However, as a CRS Report may include 
+copyrighted images or material from a third party, you may need to obtain the permissio n of the copyright holder if you 
+wish to copy or otherwise use copyrighted material.  
+ 

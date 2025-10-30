@@ -1,0 +1,91 @@
+
+How to Comment on FCC Proceedings
+
+
+            An official website of the United States government
+          
+Here's how you know
+
+Official websites use .govA
+              .gov website belongs to an official government
+              organization in the United States.
+            
+
+Secure .gov websites use HTTPSA
+              lock (
+              
+Lock
+Locked padlock icon
+
+ ) or https:// means you've safely connected to
+              the .gov website. Share sensitive information only on official,
+              secure websites.
+            
+Gathering and analyzing comments from the public is an important part of the FCC's rulemaking process, and it allows the public to participate in developing rules and polices that affect telecommunications and broadcast issues.
+Whenever Congress enacts a law affecting telecommunications, the FCC starts a proceeding to create the rules and policies required by the new law. The commission also may start a proceeding when an outside party files a petition seeking a new law or change in existing rules.
+Most FCC rules are adopted by a process known as "notice and comment" rulemaking, which gives the public notice that it is considering adopting or modifying rules on a particular subject and seeks the public's comment. The Commission considers the comments received in developing final rules.
+Learn more about the FCC's decision-making processes.
+When submitting comments to the FCC, be aware that:
+(Available for Docketed/Rulemaking Filings Only)
+Comments filed through the Electronic Comment Filing System (ECFS) can be sent as an electronic file via the Internet to ECFS. To get filing instructions for e-mail comments, commenters should send an e-mail to ecfs@fcc.gov and should include the following words in the body of the message: "get form" and your e-mail address. A sample form and directions will be sent in reply.
+Printed copies of comments may be filed with the Commission (click for location) no later than 7:00 p.m. ET on the deadline date. Please include an original (with an original signature) and four copies of your comment, and be sure to include a contact name, address, and phone number in your comments. Please type in 12-point or larger font or write legibly. Cover letters are not necessary. If your comments are confidential, label each page "Not for Public Inspection" or "Confidential" in the upper right-hand corner and provide an explanation for why you believe the filing should be confidential. See full guidelines for filing paper comments.
+Hard Copy Filing Addresses:
+Hand or Messenger Delivered accepted between 8:00 a.m. to 4:00 p.m. only
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+Office of the Secretary
+9050 Junction Drive
+Annapolis Junction, MD 20701
+Commercial overnight mail, EXCEPT United States Postal Service
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+Office of the Secretary
+9050 Junction Drive
+Annapolis Junction, MD 20701
+All other mail, INCLUDING United States Postal Service Express Mail, Priority Mail, and First Class Mail
+Marlene H. Dortch, Secretary
+Federal Communications Commission
+Office of the Secretary
+45 L Street NE
+Washington, DC 20554
+People with disabilities filing comments in non-print formats should include a contact name, address and phone number. Always reference the docket or rulemaking number when filing in Commission proceedings. Providing a print copy will expedite processing. If you have questions about access for people with disabilities, send an email to FCC504@fcc.gov or call or call 1-202-418-0530 (voice), or 1-202-418-0432 (TTY).
+The following are some FCC-related terms and acronyms and some instructions that will help you in filing comments and understanding the FCC's decision-making processes.
+An en banc hearing is a presentation to the full Commission on specific topics, usually by representatives of interested outside groups. Topics for en banc hearings have included Children's Television, Digital Television and Broadcast Ownership.
+The FCC's ex parte rules ensure that all participants in an FCC proceeding have a fair opportunity to learn of the views presented by others in the proceeding. An ex parte presentation is any written or oral communication by an outside party to the Commission, or any Commission staff involved in decision making, directed to the merits or outcome of a proceeding and not served on (mailed or delivered to) all the parties to the proceeding (if written) or of which all the parties have not been given advance notice (if oral). The ex parte rules establish whether, and under what circumstances, ex parte presentations may be made to the FCC. Most rulemaking proceedings are "permit but disclose," meaning that ex parte presentations are allowed as long as copies (or in the case of oral presentations, written summaries) are filed in the record of the proceeding. Certain other proceedings, such as those designated for hearings and licensing proceedings, are "restricted," meaning that ex parte communications are prohibited unless specifically exempted. You can obtain a copy of the FCC's ex parte rules online at: ex parte rules online, or by calling the FCC's Office of the Secretary at (202) 418-0300, or (202) 418-2960 (TTY).
+After reviewing the comments received in response to an NPRM, the FCC issues either a FNPRM seeking additional public comment on certain issues in the proceeding, or a Report and Order (R&O).
+The FCC may adopt a MO&O in response to other requests from outside entities, such as petitions for waiver or petitions for forbearance, or when it takes other actions in a proceeding.
+The FCC issues a NOI to gather facts and information on a particular subject or issue to determine if further action by the FCC is warranted. Typically, an NOI asks questions about a given topic and seeks comments from the public on that topic.
+The FCC issues a NPRM to propose new rules or changes to existing rules and seek comments on the proposals. A summary of the NPRM is published in the Federal Register and announces the deadlines for filing comments and reply comments.
+The FCC adopts an Order on Reconsideration in response to a Petition for Reconsideration. It modifies a previous FCC action or states why the action will not be changed.
+A person outside of the FCC files a Petition to suggest new rules or changes to existing rules. Unless directed otherwise in the FCC's Public Notice seeking comment on the petition, the public has 30 days from the date of the Public Notice to submit comments on whether the FCC should grant or deny the petition. After reviewing the comments received in response to the petition, the FCC issues a Report and Order (R&O) disposing of the petition, a Notice of Inquiry (NOI), or a Notice of Proposed Rulemaking (NPRM). Copies of Petitions for Rulemaking are available for viewing on the FCC's Electronic Comment Filing System (ECFS), and for inspection in the FCC's Reference Information Center, 45 L Street NE, Washington, DC 20554.
+The FCC issues a PN to inform the public about an action or event. Sometimes a PN invites public comment. When a PN seeks public comment, it generally includes filing deadlines and information on how to file comments.
+An R&O adopts new rules, amends existing rules or states that there will be no changes. Sometimes the FCC issues a combined R&O and FNPRM. The FCC publishes summaries of FNPRMs and R&Os in the Federal Register, and also states when a rule change will become effective.
+A party can file a Petition for Reconsideration within 30 days of the date the summary of a R&O appears in the Federal Register. A Petition for Reconsideration formally requests the FCC to modify its ruling.
+If you voluntarily provide the FCC with personal information, by sending an e-mail or by filling out a form and submitting it through our website, you are indicating voluntary consent for the FCC to use the information you are submitting to respond to your message and to help us provide you with the information and services that you have requested.
+Your submission, including personal information, may be shared within the FCC as well as with other Federal or State agencies, or others if necessary to address matters raised in your submission as allowed by the Commission's systems of records or as otherwise required or authorized by statute, including requests from Congress, Freedom of Information Act requests from private individuals or companies, for law enforcement purposes, for routine agency uses subject to the Privacy Act, or under our access and public record rules.
+The Commission works continuously to set out and implement procedures to regulate the collection, maintenance, use, and dissemination of Privacy Act-protected information. Visit our Privacy Act Web Page for complete information about our compliance with the Privacy Act of 1974, and information on how to file a Privacy Act request.
+Any comments that you submit to the FCC on a proposed rulemaking, petition, or other document for which public comment is requested will be made public, including any personally identifiable information you include in your submission. We may share non-personally identifiable information with others, including the public, in aggregated form, in partial or edited form, or verbatim.
+How to Comment on FCC Proceedings (pdf)
+
+Alternate Format Requests
+
+
+People with print disabilities may request braille, large print, or screen-reader friendly versions of this article via the email form at fcc504@fcc.gov.� For audio and other access, use the "Explore Accessibility Options" link.
+
+Consumer Help Center
+
+
+Learn about consumer issues - visit the FCC's Consumer Help Center at fcc.gov/consumers
+
+
+
+
+            File a Complaint with the FCC
+          
+
+
+
+File Your Complaint 
+Visit our Consumer Complaint Center at consumercomplaints.fcc.gov � to file a complaint or tell us your story.
+
+

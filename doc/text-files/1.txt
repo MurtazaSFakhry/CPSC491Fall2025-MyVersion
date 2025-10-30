@@ -1,0 +1,1149 @@
+     
+___________________________________________________________________________________
+Public Safety and 
+Homeland Security 
+Bureau
+Federal Communications Commission ￿ 45 L Street, NE ￿ Washington, DC  20554Report:
+October 4, 2023 Nationwide Emergency Alert Test
+June 2024
+Federal Communications Commission • 45 L St. NE • Washington, DC 20554Public Safety 
+and Homeland 
+Security BureauFederal Communications Commission
+iiTable of Contents
+Heading Page #Federal Communications Commission
+1I. SUMMARY
+The Integrated Public Alert and Warning System (IPAWS) Modernization Act requires the 
+Federal Emergency Management Agency’s (FEMA’s) IPAWS Program Management Office to conduct 
+tests of the public alert and warning system.1  On October 4, 2023, FEMA, in coordination with the 
+Federal Communications Commission (Commission or FCC), conducted nationwide tests of Wireless 
+Emergency Alerts (WEA) and the Emergency Alert System (EAS).2  The purpose of these tests was to 
+ensure that WEA and EAS “continue to be effective means of warning the public about emergencies, 
+particularly on the national level.”3  
+The following report presents the Public Safety and Homeland Security Bureau’s (PSHSB) 
+analysis of how the EAS and WEA performed during the nationwide test, based on the information we 
+have available.4
+WEA Performance
+Based on stakeholders’ survey data shared with the Commission, most respondents reported 
+successful receipt of the WEA test message.5  The test also highlighted areas where WEA delivery can be 
+improved, such as ensuring more consistent delivery and resolving issues concerning alert message audio 
+tone and vibration cadence. 
+EAS Performance
+The nationwide test demonstrated that the large majority of EAS Participants – radio and 
+television stations, cable television systems, direct broadcast satellite (DBS), Satellite Digital Audio 
+Radio Service (SDARS), digital audio broadcasting systems, and wireline video systems6 – reported 
+successful receipt and retransmission of the nationwide test.  The test demonstrated that the national EAS 
+distribution architecture is largely effective as designed.  As anticipated, the test also shed light on 
+1 Integrated Public Alert and Warning System Modernization Act of 2015, Pub. Law No. 114-143, 130 Stat 327 
+(2016).
+2 Public Safety and Homeland Security Bureau Announces Nationwide Tests of the Emergency Alert System (EAS) 
+and Wireless Emergency Alerts (WEA) on October 4, 2023, PS Docket Nos. 15-91, 15-94, Public Notice, DA 23-
+653, https://www.fcc.gov/document/fcc-announces-nationwide-emergency-alerting-tests-october-4-2023 (PSHSB 
+Aug. 3, 2023) (Nationwide Test PN).  
+3 FEMA, FEMA and FCC Plan Nationwide Emergency Alert Test for Oct. 4, 2023, (Aug. 3, 2023), 
+https://www.fema.gov/press-release/20230803/fema-and-fcc-plan-nationwide-emergency-alert-test-oct-4-
+2023#:~:text=The%20purpose%20of%20the%20Oct,In%20case%20the%20Oct (FEMA Press Release).  
+4 FEMA partnered with the RAND Corporation to collect over 80,000 responses from the public.  This effort 
+included working with Georgia Tech’s Center for Advanced Communications Policy, which “assembled a 
+nationwide panel of about 10,000 people with disabilities to learn more about whether they received the test, in what 
+format, and their location, among other things, to better understand access challenges.”  See Georgia Tech, School of 
+Public Policy, Ivan Allen College of Liberal Arts, Georgia Tech Researches Studying National Wireless Alert Test 
+to Improve Access (Sept. 28, 2023), https://spp.gatech.edu/news/item/670023/georgia-tech-researchers-studying-
+national-wireless-alert-test-improve (Ga. Tech Article).  The final data collected by FEMA and the Rand 
+Corporation has not been shared publicly or with the Commission and, as such, is not included in this analysis.  
+5 New York City Emergency Management; 2023 National WEA Test Results: Wednesday, October 4th, 2023: 
+Feedback Survey Administered by New York City Emergency Management; at 3 (2024), 
+https://www.fcc.gov/ecfs/document/1117723520375/1 (NYCEM Report).
+6 See 47 CFR § 11.11(a).Federal Communications Commission
+2operational readiness failures that prevented some EAS Participants to receive and/or retransmit the test 
+alert.  The overall results of the 2023 nationwide EAS test, based upon data collected from the FCC’s 
+EAS Test Reporting System (ETRS) and outreach to FEMA and State Emergency Communication 
+Committee (SECC) representatives, demonstrate the following:
+•The test message was received by 96.6% of EAS Participants (increase from 89.3% in 2021).  
+The overall retransmission success rate was 93.6% (increase from 87.1% in 2021).  This 
+significant improvement is likely due to initiation of the 2023 test alert via Common Alerting 
+Protocol (CAP), which introduced additional resiliency that was not available during the over-
+the-air-only 2021 nationwide test.
+•While test participants reported less than one-third as many performance complications as 
+compared to 2021, more test participants reported equipment configuration issues and equipment 
+failures.
+•At the time of the test, approximately 23% of EAS equipment units representing over 4,500 EAS 
+Participants, were either using outdated software or were using equipment that no longer 
+supported regular software updates.  Test results demonstrated that fully up-to-date equipment 
+had the highest receipt and retransmission rates (97% and 95%, respectively), whereas equipment 
+with software that is no longer supported had the lowest receipt and retransmission rates (90% 
+and 85%, respectively).
+•Five of the six poorest-performing geographic regions were territories of the United States.  
+These territories were the Northern Mariana Islands (20.0% retransmission success), Guam 
+(33.3% retransmission success), American Samoa (66.7% retransmission success), the U.S. 
+Virgin Islands (88.9% retransmission success), and Puerto Rico (89.7% retransmission success).
+Based on these results, PSHSB recommends that the Commission adopt rules to improve the 
+operational readiness of EAS Participants and Participating CMS Providers, as well as ensure that EAS 
+Participants are installing software updates in a timely manner and have plans for replacing equipment 
+that is no longer supported by the manufacturer.  PSHSB also recommends actions that EAS Participants 
+and Participating Commercial Mobile Service Providers should take to improve the reliability and reach 
+of WEA and the EAS, including in the territories of the United States.  PSHSB also recommends that 
+Congress require all CMS Providers to support WEA.
+II. BACKGROUND
+WEA and EAS are invaluable communications alerting tools.  They provide the President with a 
+means to address the American public during times of national emergency.  They also provide authorized 
+federal, state, and local alert originators an effective means to transmit local and/or statewide emergency 
+alerts,7 such as severe weather alerts and America’s Missing: Broadcast Emergency Response (AMBER) 
+Alerts.8  The Commission, in conjunction with FEMA, implements WEA and EAS at the federal level.
+Wireless Emergency Alerts.  WEA is a tool for authorized federal, state, local, Tribal and 
+7 The term “alert originator” refers to a federal, state, territorial, tribal, or local entity authorized by FEMA to use 
+IPAWS to issue critical public alerts and warnings in emergency situations.  See FEMA, Alerting Authorities, 
+https://www.fema.gov/emergency-managers/practitioners/integrated-public-alert-warning-system/public-safety-
+officials/alerting-authorities/agencies-organizations (last updated Oct. 31, 2023).  
+8 The AMBER program is a nationwide alerting program designed to help bring missing children to safety.  See 
+Office of Justice Programs, AMBERAlert.gov, http://www.amberalert.gov/about.htm (last visited Jan. 3, 2024).Federal Communications Commission
+3territorial government entities to geographically target alerts and warnings to the WEA-capable mobile 
+devices of participating commercial mobile service providers’ subscribers.9  The Warning Alert and 
+Response Network (WARN) Act10 establishes WEA as a voluntary system in which commercial mobile 
+service (CMS) Providers may elect to participate and gives the Commission authority to adopt “relevant 
+technical standards, protocols, procedures and other technical requirements necessary to enable 
+commercial mobile service alerting capability for commercial mobile service providers that voluntarily 
+elect to transmit emergency alerts.”11  While participation by wireless providers is voluntary, those 
+commercial mobile service providers that choose to offer the service (Participating CMS Providers) must 
+adhere to the technical and operational requirements established by the Commission.12  For example, the 
+Commission’s rules require Participating CMS Providers to receive and transmit four classes of Alert 
+Messages: National Alert (formerly known as a “Presidential Alert”); Imminent Threat Alert; Child 
+Abduction Emergency/AMBER Alert; and Public Safety Message.13  The Commission’s rules also 
+require that National Alerts must always be presented,14 by WEA-capable mobile devices, i.e., unlike the 
+other three classes of alerts, which mobile devices can be opted out of receiving.15  
+Since its launch in 2012, WEA has been used to issue more than 86,000 emergency alerts, 
+including severe weather warnings, evacuate and shelter-in-place alerts, and AMBER alerts.16  More 
+information about WEA can be found in the Appendix to this report.  
+Emergency Alert System.  The Commission’s rules require EAS Participants to have the 
+capability to receive and transmit a National Emergency Message (EAN), formerly known as a 
+Presidential Alert, disseminated over the EAS.17  There are two methods by which EAS alerts may be 
+distributed.  Under the traditional broadcast-based distribution structure, the EAS transmits an alert 
+through a pre-established hierarchy of broadcast, cable, and satellite systems, starting with the initial 
+delivery to 72 National Public Warning System (NPWS) stations, also known as Primary Entry Point 
+(PEP) stations.  This first method is the EAS Protocol, a messaging protocol that delivers basic alert 
+elements over the air.18  The EAS Protocol lacks the capability to deliver separate audio and non-English 
+9 Wireless Emergency Alerts; Amendments to Part 11 of the Commission’s Rules Regarding the Emergency Alert 
+System, PS Docket Nos. 15-91 and 15-94, Third Report and Order, FCC 23-88, 2023 WL 8543463, at *2 (Oct. 20, 
+2023) (2023 WEA Accessibility Report and Order).
+10 Warning, Alert and Response Network (WARN) Act, Title VI of the Security and Accountability for Every Port 
+Act of 2006, 120 Stat. 1884, 1936 (codified at 47 U.S.C. § 1201 et seq.). 
+11 47 U.S.C. § 1201(a); 47 CFR § 10.10(d) (defining as CMS Provider as an “FCC licensee providing commercial 
+mobile service as defined in section 332(d)(1) of the Communications Act of 1934.”).  Section 332(d)(1) defines the 
+term commercial mobile service as any mobile service (as defined in 47 U.S.C. 153) that is provided for profit and 
+makes interconnected service available to the public or to such classes of eligible users as to be effectively available 
+to a substantial portion of the public, as specified by regulation by the Commission.  See 47 U.S.C. § 332(d)(1).
+12 The Commission’s rules define a Participating CMS Provider as a Commercial Mobile Service Provider that has 
+elected voluntarily to transmit WEA Alert Messages.  See 47 CFR § 10.10(d), (f).  
+13 See 47 CFR § 10.400.  
+14 See  47 CFR § 10.500(f).
+15 See  47 CFR § 10.280.
+16 2023 WEA Accessibility Report and Order at *1, para. 1. 
+17 See 47 CFR §§ 11.2(a), 11.31.
+18 See Appendix, infra.  See also 47 CFR § 11.31.Federal Communications Commission
+4text files and is dependent on radio reception for the quality of the audio,19  but it serves as a reliable 
+means of disseminating alerts to the public in situations in which IP-based services may not be 
+available.20  The second method of distribution is over IPAWS, which is a FEMA-operated alert 
+aggregator that authorized alert originators use to send WEA alert messages to Participating CMS 
+Providers and EAS alerts to EAS Participants.  IPAWS alerts are formatted in the more sophisticated 
+Common Alerting Protocol (CAP).  CAP-formatted alerts initiated through IPAWS can include audio, 
+video or data files, images, non-English translations of alerts, and links providing detailed information.21  
+The Appendix to this report contains additional information about the EAS, including a description of 
+how the alerts are disseminated over the EAS.  
+III. THE 2023 NATIONWIDE WEA TEST
+The Parameters of the Nationwide WEA Test
+This test marks the third nationwide WEA test, but only the second directed to all WEA-capable 
+cellular devices.22  To reach all mobile devices the WEA portion of the test was sent as a National Alert,23 
+which subscribers cannot opt out of receiving.24  The test message was sent to all consumer cellphones in 
+the United States and its territories.25  The test 90-character message read: “THIS IS A TEST of the 
+National Wireless Emergency Alert System.  No action is needed.”26  The 360-character message read: 
+“THIS IS A TEST of the National Wireless Emergency Alert System. The purpose is to maintain and 
+improve alert and warning capabilities at the federal, state, local, tribal and territorial levels and to 
+19 The EAS Protocol uses a four-part message for an emergency activation of the EAS.  The four parts are: Preamble 
+and EAS Header Codes; audio Attention Signal; message; and Preamble and EAS End Of Message (EOM) Codes.  
+See 47 CFR § 11.31.  These parts can inform the public as to the nature, location, effective times, and originator of 
+the alert.  See FCC, PSHSB, Report: September 28, 2016 Nationwide EAS Test at 3 (2016), 
+https://apps.fcc.gov/edocs_public/attachmatch/DOC-344518A1.pdf (discussing the value added from Internet-based 
+alert distribution).
+20 Review of the Emergency Alert System; Independent Spanish Broadcasters Association, the Office of 
+Communication of the United Church of Christ, Inc., and the Minority Media and Telecommunications Council, 
+Petition for Immediate Relief; Randy Gehman Petition for Rulemaking, EB Docket No. 04-296, Fifth Report and 
+Order, 27 FCC Rcd 642, 655, para 27 (2012).
+21 The Commission’s rules require EAS Participants to be able to receive alerts from both IPAWS and the broadcast-
+based EAS structure.  See 47 CFR §§ 11.52(d), 11.56(a).  EAS Participants can deliver to the public the rich data 
+contained in a CAP-formatted message received directly from the IPAWS Internet feed, but when the alert is 
+rebroadcast over the daisy chain, the CAP data are lost, and EAS Participants receiving the alert over the air cannot 
+transmit CAP-based features, such as digital audio or multiple languages, to the public.  
+22 See FEMA Press Release.
+23 See  47 CFR § 10.400(a).  
+24 See  47 CFR §§ 10.280, 10.500(f).  
+25 See FEMA 2023 Waiver Request at 1.  Mobile device users in Guam, American Samoa, and the Commonwealth 
+of the Northern Mariana Islands did not receive the WEA portion of the test because they do not have a CMS 
+provider who participates in WEA.  See Guam Homeland Security: Office of Civil Defense, Nationwide Emergency 
+Alert System Test Planned (Oct. 2, 2023), https://www.ghs.guam.gov/nationwide-emergency-alert-system-test-
+planned-1.  
+26 See FEMA 2023 Waiver Request at 1.Federal Communications Commission
+5evaluate the nation's public alert and warning capabilities. No action is required by the public.”27  The test 
+message also was sent in Spanish, in both a 90-character version and a 360-character version.28  Per the 
+Commission’s rules at the time of the test, Participating CMS Providers were required to transmit the alert 
+message in both English and Spanish.29  The test alert message should be displayed in the device’s default 
+language.  The Spanish-language versions of alerts should only be displayed to wireless subscribers 
+whose device settings specify Spanish as the preferred language.30  
+Key Observations from the Nationwide WEA Test
+NYCEM Survey.  Following the nationwide EAS test, the New York City Emergency 
+Management Department (NYCEM) administered a survey via the Notify NYC emergency 
+communications program, social media, and partner engagement.31  NYCEM reported that of 1,405 
+responses received, 94.2% of respondents reported receiving the WEA test message.32  The 5.8% of 
+respondents who reported they did not receive the WEA test message provided a number of explanations, 
+including: spotty service; on the subway/lacking cellular coverage; mobile phone turned off; phone in 
+airplane mode; phone on “Do Not Disturb”; and using the phone for a voice call.  44% of respondents 
+cited no known reason for not receiving the message. 33   For those respondents who did not receive a 
+WEA message, 7.7% listed AT&T as their wireless provider, 18.5% listed T-Mobile, 33.8% listed 
+Verizon, 15.4% listed “Other,” and 24.6% provided no response.34  NYCEM’s survey also revealed 
+approximately 19.4% of respondents who received the WEA test did not receive the full WEA test with 
+complete sounds/haptics, of which 49.2% did not have their devices set on vibrate and/or silent.35 
+FCC Complaints.  The Commission received seventy-seven informal complaints from the public 
+in response to the nationwide test.  The complaints included: (1) non-receipt of the test alert message; (2) 
+the inability to opt out of receiving the test; (3) the loudness of the audio attention signal; and (4) missing 
+tone and/or vibration.  The Commission also received several informal complaints that the test alert 
+message was received in Spanish when the device user expected to receive it in English.  
+27 See PBS WARN, https://warn.pbs.org/ (last visited Feb. 9, 2023) (PBS WARN on 10/04/2023).  To find the 
+correct alert message, run a search with the following parameters: All Alerts; Start Date 10/04/2023; End Date 
+10/05/2023.  Click on “Expired National Test” or the alert over the entire United States.  
+28 See PBS WARN on 10/04/2023.
+29 See  47 CFR § 10.480 (2023).  In October 2023, the Commission adopted rules requiring Participating CMS 
+Providers to support WEAs in thirteen languages, as well as English and ASL.  2023 WEA Accessibility Report and 
+Order, 2023 WL 8543463, at *1, 7.
+30 See Federal Communications Commission, Multilingual Alerting for the Emergency Alert System and Wireless 
+Emergency Alerts, https://www.fcc.gov/MultilingualAlerting_EAS-WEA (last visited Feb. 21, 2024).
+31 New York City Emergency Management; 2023 National WEA Test Results: Wednesday, October 4th, 2023: 
+Feedback Survey Administered by New York City Emergency Management; at 3 (2024), 
+https://www.fcc.gov/ecfs/document/1117723520375/1 (NYCEM Report).
+32 Id. at 4.  
+33 Id. at 6.
+34 Id. at 7.  “Other” mobile service providers include:  CREDO; Text Now; Xfinity; Spectrum; JMP; Straight Talk; 
+and, US Mobile. Id.
+35  See Id. at 5.Federal Communications Commission
+6PSHSB Letters to Wireless Providers.  On September 11, 2023, the Chief of the Public Safety and 
+Homeland Security Bureau sent letters to the nine largest cellular providers that participate in WEA: 
+AT&T; Best Buy Health; Cellcom; C Spire; DISH; Google Fi; T-Mobile; US Cellular; and Verizon.  The 
+letters requested written responses regarding the performance of carriers’ networks during the test.  The 
+letters to Best Buy Health; Cellcom; C Spire; DISH; Google Fi; and, US Cellular asked if the provider (1) 
+received the test alert message and transmitted it to its subscribers; (2) experienced any complications or 
+anomalies with its WEA capability; and (3) took any efforts to observe or evaluate WEA performance 
+during the test.36  The letters to AT&T, T-Mobile, and Verizon asked those questions as well as several 
+additional questions about WEA performance.37  The responses to the Bureau’s letters revealed the 
+following information:  
+•The providers reported receiving the test alert from FEMA IPAWS as early as 14:18:03 EDT and 
+as late as 14:18:12 EDT.38
+•The providers transmitted the test alert message as early as 14:18:04 EDT and as late as 14:18:19 
+EDT.39
+•Several providers experienced “anomalies” during the test:
+oAT&T reported a fiber cut that affected nearly thirty (30) physical sites in the Dallas/Fort 
+Worth and West Texas markets.  Service was restored approximately seven (7) minutes 
+after the initiation of the test.  Once service was restored, the alert would have been 
+transmitted to those subscribers that did not receive it.40
+oBest Buy reported that eight subscribers did not receive the test alert message.41  One of 
+its Jitterbug Flip 2 devices in San Diego, CA did not emit the audio attention signal and 
+vibration cadence. 
+oT-Mobile subscribers (and subscribers to Mobile Virtual Network Operators who take 
+service from T-Mobile) reported receiving the WEA test alert message in Spanish even 
+though they had not changed the device’s default language of English. 42  The issue was 
+limited to Android devices running the Android R or newer Operating System, which 
+have since been patched to address this issue.
+36 See e.g., Letter from Debra Jordan, Chief, FCC Public Safety and Homeland Security Bureau, to Dara Franklin, 
+Associate Counsel, Google North America Inc., https://docs.fcc.gov/public/attachments/DOC-396857A1.pdf, (Sept. 
+11, 2023) (filed in PS Dockets Nos. 15-91 , 15-94).
+37 See, e.g., Letter from Debra Jordan, Chief, FCC Public Safety and Homeland Security Bureau, to Rhonda J. 
+Johnson, Executive Vice President, AT&T Services, Inc., https://docs.fcc.gov/public/attachments/DOC-
+396846A1.pdf, (Sept. 11, 2023) (filed in PS Dockets Nos. 15-91, 15-94).  Id.
+38 Verizon Letter at 1.
+39 See Letter from Steve Sharkey, VP, Government Affairs, T-Mobile USA, Inc., to Debra Jordan, Chief, FCC 
+Public Safety and Homeland Security Bureau, PS Docket Nos.  15-91, 15-94, 
+https://www.fcc.gov/ecfs/document/10180461827208/1, at 1 (Oct. 18, 2023) (T-Mobile Letter).
+40 See Letter from Joseph P. Marx, Assistant Vice President, AT&T, to Debra Jordan, Chief, FCC Public Safety and 
+Homeland Security Bureau, PS Docket Nos.  15-91, 15-94, https://www.fcc.gov/ecfs/document/1018302207927/1, 
+at 3 (Oct. 18, 2023) (AT&T Letter).
+41 Best Buy Letter at 2-3.
+42 See T-Mobile Letter at 3.Federal Communications Commission
+7oUS Cellular reported that some of their test devices displayed “Presidential Alert” rather 
+than “National Alert.”43
+oVerizon reported that 1.663 seconds elapsed between receipt of the test alert message 
+from FEMA IPAWS and Verizon’s transmission of the test alert message to subscribers 
+due to the large number of cell sites in their network and the need for the two mated Cell 
+Broadcast Entity facilities to coordinate the delivery of the English and Spanish versions 
+of alert.44 
+To the extent a nationwide WEA activation can be compared to the multiple local activations 
+used during the 2022 WEA Performance exercise, the responses from AT&T, T-Mobile, and Verizon 
+revealed that the issues seen in the 2022 WEA Performance Exercise did not recur during the 2023 
+nationwide test.  For example, during the 2022 test, Verizon reported that two redundant Virtual Privatge 
+Network paths between FEMA IPAWS and Verizon failed.45  Meanwhile AT&T reported that it observed 
+five instances where FEMA IPAWS incorrectly sent the alert to AT&T’s inactive Cell Broadcast Center 
+(CBC) in Allen, TX, rather than the correct CBC in Bothell, WA.46  Neither provider reported a similar 
+occurrence during the 2023 Nationwide Test.47
+IV. THE 2023 NATIONWIDE EAS TEST
+The Parameters of the 2023 Nationwide EAS Test
+This test marks the seventh nationwide EAS Test.48  For this test, the nationwide test alert was 
+disseminated as a Common Alerting Protocol (CAP) message via FEMA’s IPAWS.49  The test message 
+audio and text, which was designed to be identical to the greatest extent possible, was as follows: “This is 
+a nationwide test of the Emergency Alert System, issued by the Federal Emergency Management Agency, 
+covering the United States from 14:20 to 14:50 hours ET. This is only a test. No action is required by the 
+public.”50  Each EAS Participant received the alert either directly from IPAWS by polling the IPAWS 
+43 See Letter from Adriana Rios Welton, General Counsel and Chief of Government Affairs, US Cellular, to Debra 
+Jordan, Chief, FCC Public Safety and Homeland Security Bureau, PS Docket Nos.  15-91, 15-94, 
+https://www.fcc.gov/ecfs/document/1018171601180/1, at A-2 (Oct. 18, 2023) (US Cellular Letter).  
+44 Verizon Letter at 3.
+45 See Letter from Robert G. Morse, Associate General Counsel Federal Regulatory and Legal Affairs, Verizon, to 
+Debra Jordan, Chief, FCC Public Safety and Homeland Security Bureau, PS Docket Nos.  15-91, 15-94, 
+https://www.fcc.gov/ecfs/document/1001215579176/1, at 3 (Sept.. 30, 2022).
+46 See Letter from Jamie M. Tan, Director, Federal Regulatory, AT&T Services, Inc., to Debra Jordan, Chief, FCC 
+Public Safety and Homeland Security Bureau, PS Docket Nos.  15-91, 15-94, 
+https://www.fcc.gov/ecfs/document/10930171316553/1, at 3 (Sept.. 30, 2022).
+47 See  Verizon Letter at 2-3; AT&T Letter at 2-3.
+48 See FEMA Press Release.  Previous EAS national tests were conducted in November 2011, September 2016, 
+September 2017, October 2018, August 2019 and August 2021.
+49 See FEMA Press Release.
+50 See Letter from Ward Hagood, Engineering Manager, Testing and Evaluation, IPAWS Program Office, National 
+Continuity Programs, Department of Homeland Security – FEMA, to Marlene H. Dortch, Office of the Secretary, 
+Federal Communications Commission (Aug. 2, 2023) (on file in PS Docket No. 15-91 et al.) Federal Communications Commission
+8Internet feed, or via a re-broadcast of the alert by the source that it monitors in the EAS “daisy chain.”51  
+In this approach to relaying emergency alerts, a group of selected EAS Participants in each of the 72 
+NPWS stations’ broadcast area, known as Local Primary (LP) stations, monitor these NPWS stations.  
+When LP stations receive an alert they, in turn, broadcast the alert in their listening areas.  The remaining 
+broadcasters, cable television facilities, and other EAS Participants receive the alerts from NPWS, LP, or 
+other stations they are required to monitor and deliver the alerts to the public.  
+Participation in the Nationwide EAS Test
+At the time of the 2023 nationwide EAS test, there were approximately 25,306 EAS Participants 
+in the United States and its territories.52  This estimate includes analog and digital radio broadcast stations 
+(including AM, FM, and Low Power FM (LPFM) stations); analog and digital television broadcast 
+stations (including Low Power TV (LPTV)); analog and digital cable systems; wireless cable systems; 
+wireline video systems;53 DBS services; and SDARS.54
+Table 1 summarizes the participation rate in the 2023 nationwide EAS test.55  Excluding 
+duplicate filings,56 EAS Participants made 20,682 unique filings,57 with a participation rate of 81.7% up 
+from 75.3%, in 2021.58  Radio broadcasters had a participation rate of 85.1%, up from 79.9% in 2021, 
+51 Participants’ EAS equipment polls the IPAWS server to check for new alerts at regular intervals.  If an EAS 
+Participant receives an over-the-air alert before it checks IPAWS, the over-the-air alert is retransmitted.  Beginning 
+in December 2023, EAS Participants are required, upon receiving a legacy EAS alert message, to check whether a 
+CAP version of an over-the-air alert is available by polling the IPAWS feed for CAP-formatted EAS messages.  If a 
+CAP version is available, EAS Participants must transmit the CAP version rather than the legacy version.  Because 
+this category applies to all EAS alerts except those with the EAN, NPT, or Required Weekly Test (RWT) event 
+codes, this requirement is not applicable to nationwide tests.  See 47 CFR § 11.55(c)(2).
+52 This total consists of the 17,363 radio broadcasters and 4,029 television broadcasters in the FCC’s Consolidated 
+Database System, and the 3,914 headends active in the FCC’s Cable Operations and Licensing System.  This 
+methodology likely overestimates the number of radio and television broadcasters that participate in the EAS, as 
+some are exempted from the Commission’s rules that govern EAS.  For example, if a hub station satisfies the EAS 
+requirements, an analog or digital broadcast satellite station that rebroadcasts 100% of the hub station’s 
+programming would not be required to file in the EAS Test Reporting System (ETRS).  See 47 CFR § 11.11(b).
+53 Wireline video systems are the systems of a wireline common carrier used to provide video programming service.  
+Id. at § 11.2(c).
+54 Id. at § 11.11.
+55 Throughout this report, data are calculated to the nearest tenth, which, in some instances, results in percentage 
+totals just slightly under or over 100%.  
+56 EAS Participants submitted 25,805 filings in 2023.  5,123 of these filings duplicated facilities for which EAS 
+Participants had already filed.  The total number of filings include the cumulative tabulation for all forms received 
+from a filer.  For example, if a test participant submitted Forms One, Two and Three through ETRS, this would be 
+recorded as one filing, rather than three separate filings.
+57 Unique filings are a set of filings that represent the report of a single EAS Participant facility, such as a radio 
+station or a cable headend, with any duplicate filings removed.  Most duplicate filings were submitted for cable 
+systems.  To the extent that EAS Participants’ filings indicate that a headend serves alerts using multiple, 
+independent sets of EAS equipment, each set of equipment is considered as a unique headend for purposes of this 
+report.  
+58 See 2021 Nationwide EAS Test at 6.  For purposes of this report, participation rate is defined as the number of 
+unique filings received from a specified EAS Participant type divided by the total number of EAS Participants of 
+that type.  Federal Communications Commission
+9while television broadcasters’ participation rate was 74.5% up from 62.6%, in 2021.59  Cable systems, 
+Internet Protocol Television (IPTV), and wireline video system participants had a participation rate of 
+73.8% up from 67.9%, in 2021.60  No wireless cable systems filed in 2023, while four wireless cable 
+system participated in 2021.
+Table 1. Overview of Filings Received in ETRS61
+EAS Participant 
+Type# of EAS 
+ParticipantsFilings Received Unique Filings 
+Received  Filing 
+Rate (Unique 
+Filings) 
+Radio 
+Broadcasters 17,363 17,404 14,780 85.1%
+Television 
+Broadcasters 4,029 3,763 3,002 74.5%
+Cable Systems 3,785 2,513
+IPTV Providers62 779 328
+Wireline Video 
+Systems 3,914
+60 4673.8%
+Other n/a 14 13 n/a
+All Total 25,306 25,805 20,682 81.7%
+Table 2 provides an overview of the form types submitted in ETRS.  Form One asked EAS 
+Participants to report basic identifying information, such as ownership or licensee contact information, 
+EAS designation as identified in their State EAS Plan, and the make, model, and software version of their 
+EAS equipment.  Form Two asked EAS Participants to report “day of test” results, including whether 
+they had successfully received and retransmitted the test alert.  Form Three asked EAS Participants to 
+report more detailed test results, such as the first source from which the alert was received, the language 
+in which the alert was received, and details of any issues experienced during the test.  89.3% of test 
+participants completed Forms One, Two, and Three, as required by the Commission’s rules, which is up  
+from 87.8% in 2021.63  4.4% of test participants submitted “day of test” results in Form Two but failed to 
+submit the detailed results required by Form Three, which is a smaller percentage than 2021’s 8.9% that 
+59 See id.  
+60 Id.
+61 The Commission has determined that test result data submitted by EAS Participants be treated as presumptively 
+confidential.  See Review of the Emergency Alert System, EB Docket No. 04-296, Sixth Report and Order, 30 FCC 
+Rcd 6520, 6533, para. 27, note 90 (2015) (noting that test data received from EAS Participants or any reports that 
+contain individual test data shall be treated as presumptively confidential).  Accordingly, Table 1 and others in this 
+report reflect aggregated test result data so that no confidential information is revealed.  As referenced throughout 
+this Report, PSHSB does not provide data for very small groups of EAS Participants and does not include them 
+among the total number of filings.  The omission of this data does not change the assessment of the test in any 
+significant way.  
+62 Internet Protocol Television (IPTV) providers and cable resellers are not defined in Part 11 of the rules and are 
+considered voluntary participants in the test in the EAS Test Reporting System (ETRS), the online system used by 
+the Commission to collect and analyze the results of nationwide EAS tests.  See 47 CFR § 11.61(a)(3)(iv).
+63 Public Safety and Homeland Security Bureau, Federal Communications Commission, Report: August 11, 2021 
+Nationwide EAS Test at 7 (2021), https://docs.fcc.gov/public/attachments/DOC-378861A1.pdf (2021 Nationwide 
+EAS Test Report).Federal Communications Commission
+10filed Form Two but not Form Three.  6.3% of test participants failed to submit any test results, filing only 
+their identifying information required by Form One.  Cable Systems had the highest Form Three 
+completion rate of 93.1%, while the Other group had the lowest Form Three completion rate of 69.2%.
+Table 2. Overview of Filings Received in ETRS by Form Type
+Form One Filed 
+Only Forms One 
+and Two Filed 
+Only Forms One, Two, 
+and Three Filed EAS 
+Participant 
+Type Unique Filings 
+Unique
+ Filings % Unique
+ Filings % Unique
+ Filings % 
+Radio 
+Broadcasters 14,780 1,051 7.1% 654 4.4% 13,075 88.5%
+Television 
+Broadcasters 3,002 130 4.3% 148 4.9% 2,724 90.7%
+Cable 
+Systems 2,513 88 3.5% 85 3.4% 2,340 93.1%
+IPTV 
+Providers 328 22 6.7% 17 5.2% 289 88.1%
+Wireline 
+Video 
+Systems 46 12 26.1% 0 0.0% 34 73.9%
+Other 13 2 15.4% 2 15.4% 9 69.2%
+All Total 20,682 1,305 6.3% 906 4.4% 18,471 89.3%
+Table 3 compares the filing rate of Low Power broadcasters to that of all broadcasters and non-
+LPFM/TV broadcasters.64  LPFM participation in the test (61.6%) was lower than that of non-LPFM 
+broadcasters (87.5%) and radio broadcasters overall (84.6%), but higher than 2021’s participation rate 
+(49.5%).  Similarly, LPTV participation (68.0%) was lower than that of non-LPTV broadcasters (78.6%) 
+and television broadcasters overall (73.6%), but higher than 2021’s participation rate (47.4%).  As with 
+the 2021 test, the low participation rate of Low Power broadcasters reduced the overall participation rate 
+of broadcasters.  Of the 2,680 radio broadcasters that were expected to file but failed to do so, 759 
+(28.3%) were LPFM Broadcasters.  Of the 1,063 television broadcasters that were expected to file but 
+failed to do so, 604 (56.8%) were LPTV broadcasters.65
+64 Tables 3 through 12 exclude EAS Participants that report to be silent, e.g. pursuant to a special temporary 
+authorization granted by the Commission.  See also infra Table 7 (describing the test results of Low Power 
+participants).  
+65 See also infra Table 7 (describing the test results of Low Power participants).Federal Communications Commission
+11Table 3. Overview of Filings Received from Broadcasters
+Form One 
+Filed OnlyForms One 
+and Two Filed 
+OnlyForms One, 
+Two, and 
+Three Filed EAS 
+Participant 
+Type  Filers 
+Expected Filings
+ Rec’dFiling 
+Rate
+ # % # %  # % 
+All Radio 
+Broadcasters17,363 14,683 84.6% 1,052 7.2% 654 4.5% 12,977 88.4%
+Non-LPFM 
+Broadcasters15,385 13,464 87.5% 685 5.1% 561 4.2% 12,218 90.7%
+LPFM 
+Broadcasters1,978 1,219 61.6% 367 30.1% 93 7.6% 759 62.3%
+All 
+Television 
+Broadcasters4,029 2,966 73.6% 132 4.5% 148 5.0% 2,686 90.6%
+Non-LPTV 
+Broadcasters2,140 1,681 78.6% 20 1.2% 94 5.6% 1,567 93.2%
+LPTV 
+Broadcasters1,889 1,285 68.0% 112 8.7% 54 4.2% 1,119 87.1%
+EAS Participant Monitoring of IPAWS
+All EAS Participants are required to monitor IPAWS.66  ETRS Form One asked EAS Participants 
+to confirm whether their facility’s equipment complied with this requirement.  Table 4 shows that 97.5% 
+of test participants reported that they are complying with the IPAWS monitoring requirement—a slight 
+increase from 97.4% in 2021.67  However, the raw number of participants monitoring IPAWS increased 
+from 18,036 in 2021 to 18,747 in 2023.68  
+Table 4. IPAWS Monitoring by Participant Type
+Monitoring IPAWS EAS Participant Type Test Participants 
+#  % 
+Radio Broadcasters 13,631 13,314 97.7%
+Television Broadcasters 2,834 2,775 97.9%
+Cable Systems 2,423 2,327 96.0%
+IPTV Providers 304 291 95.7%
+Wireline Video System 34 33 97.1%
+Other 9 7 77.8%
+All Total 19,235 18,747 97.5%
+66 47 CFR § 11.52(d)(2).
+67 2021 Nationwide EAS Test Report at 10.  Possible explanations for test participants reporting that they do not 
+monitor IPAWS include a lack of broadband access, lack of familiarity with EAS equipment functions, and 
+noncompliance with the Commission’s rules.  
+68 2021 Nationwide EAS Test Report at 11.  Federal Communications Commission
+12Source of Alert
+On ETRS Form Three, EAS Participants identified the first source from which they received the 
+test alert.  Table 5 compares the sources from which the different types of test participants received the 
+test alert.  A majority (63.6%) of test participants reported to have first received the alert from IPAWS 
+and a minority (36.4%) first received the alert over-the-air.  Television Broadcast providers reportedly 
+first received the alert via IPAWS more frequently than other participant types (70.6%).  
+Table 5. Source of Alert by Participant Type
+First Received From 
+IPAWSFirst Received 
+Over-the-Air EAS Participant 
+TypeTest Participants 
+That Reported 
+Source of Alert # % # %
+Radio Broadcasters 12,631 7,848 62.1% 4,783 37.9%
+Television 
+Broadcasters2,571 1,815 70.6% 756 29.4%
+Cable Systems 2,219 1,454 65.5% 765 34.5%
+IPTV Providers 286 167 58.4% 119 41.6%
+Wireline Video 
+Systems34 9 26.5% 25 73.5%
+Other 7 3 42.9% 4 57.1%
+All Total 17,748 11,296 63.6% 6,452 36.4%
+Breakdown of Test Performance by EAS Participant Type
+In ETRS Form Two, the Commission asked EAS Participants whether they had successfully 
+received and retransmitted the test alert on October 4, 2023.  Table 6 shows test participants’ success 
+rates for alert receipt and retransmission.  When compared to performance during the 2021 test, a majority 
+of EAS Participant categories saw a noticeable improvement.  This is due in large part to the inclusion of 
+CAP messaging in the 2023 test. The 2021 test only utilized over-the-air messaging to distribute the EAS 
+message.  With the inclusion of CAP in the 2023 test, EAS Participants were also able to receive the 
+message over the Internet.  
+This data indicates that, overall, 96.6% of test participants successfully received the alert which is 
+an increase from the 2021 success rate of 89.3%.  The overall retransmission success rate of 93.6% is an 
+increase from 87.1% reported in 2021.  97.0% of radio broadcasters successfully received the alert an 
+increase from 88.8% in 2021, and successful retransmissions improved to 94.7% when compared to the 
+87.0% success rate in 2021.  Television broadcasters reported that 95.6% (up from 90.1% in 2021) 
+successfully received the alert and 89.3% (up from 86.0% in 2021) successfully retransmitted it.  
+Similarly, 95.0% (up from 90.8% in 2021) of cable systems successfully received the alert and 92.7% (up 
+from 88.7% in 2021) successfully retransmitted it. Federal Communications Commission
+13Table 6. Test Performance by Participant Type 
+Successfully Received 
+Alert Successfully 
+Retransmitted Alert 
+EAS Participant Type Test 
+Participants 
+# % # % 
+Radio Broadcasters 13,631 13,226 97.0% 12,902 94.7%
+Television Broadcasters 2,834 2,710 95.6% 2,530 89.3%
+Cable Systems 2,423 2,301 95.0% 2,247 92.7%
+IPTV Providers 304 302 99.3% 285 93.8%
+Wireline Video Systems 34 34 100.0% 27 79.4%
+Other 9 9 100.0% 7 77.8%
+All Total 19,235 18,582 96.6% 17,998 93.6%
+Table 7 shows the performance of Low Power broadcasters in the 2023 nationwide EAS test.  
+LPFM broadcasters had an alert receipt success rate of 90.1%, approximately 6.9 and 7.4 percentage 
+points lower than the success rate of all radio broadcasters and non-LPFM broadcasters, respectively, and 
+an alert retransmission success rate of 84.7%, approximately 10 and 10.6 percentage points lower than the 
+success rate of all radio broadcasters and non-LPFM broadcasters, respectively.  91.5% of LPTV 
+broadcasters successfully received the alert, which is approximately 4.1 and 7.1 percentage points less 
+than the rate of all television broadcasters and non-LPTV broadcasters, respectively.  82.4% of LPTV 
+broadcasters successfully retransmitted the alert, which is approximately 6.9 and 11.8 percentage points 
+less than the rate of all television broadcasters and non-LPTV broadcasters, respectively. 
+Table 7. Test Results of Low Power Broadcasters
+Successfully Received 
+AlertSuccessfully Retransmitted 
+Alert
+EAS Participant TypeTest 
+Participants # % # % 
+All Radio Broadcasters 13,631 13,226 97.0% 12,902 94.7%
+Non-LPFM 
+Broadcasters12,779 12,458 97.5% 12,180 95.3%
+LPFM Broadcasters 852 768 90.1% 722 84.7%
+All Television 
+Broadcasters 2,834 2,710 95.6% 2,530 89.3%
+Non-LPTV 
+Broadcasters1,661 1,637 98.6% 1,564 94.2%
+LPTV Broadcasters 1,173 1,073 91.5% 966 82.4%Federal Communications Commission
+14Equipment Performance
+An analysis of equipment and software information within ETRS filings revealed that as of early 
+October 2023, over 4,500 EAS Participants, approximately 23% of EAS equipment units, were either 
+using outdated software (17%) or operating equipment that were no longer supported with regular 
+software updates (6%).  The remaining 77% of EAS equipment units reported by EAS Participants were 
+fully up-to-date.  
+Fully up-to-date equipment had the highest performance results, whereas equipment using 
+software that is no longer supported had the lowest performance results.  Of the EAS Participants that 
+reported using EAS equipment units that PSHSB determined are no longer supported with software 
+patches, 90% reported successfully receiving the alert and approximately 85% reported successfully 
+retransmitted the alert.  Notably, approximately 5% of these EAS participants reported successful receipt 
+of the alert but failed to retransmit the alert, likely indicating an equipment-related complications 
+occurred.  Of the EAS Participants that reported using EAS equipment units that PSHSB determined are 
+outdated but can receive software patches, 95% reported successfully received the alert and 
+approximately 90% reported successfully retransmitted of the alert.  EAS Participants with fully up-to-
+date EAS equipment units reported that approximately 97% successfully received the alert and 
+approximately 95% successfully retransmitted the alert. 
+Language of Alert
+Form Three asked EAS Participants to report the languages in which they received and 
+retransmitted the test alert.  Table 8 shows the language of the alerts that were received and retransmitted 
+by test participants.  The test alert message was sent in both English and Spanish.  The table below 
+reflects the number of test participants who elected to transmit the alert to their audience in Spanish.69  
+More radio and television broadcasters reported receiving and retransmitting the test alert in either 
+Spanish only or both Spanish and English than reported such receipt or retransmission in 2021.  The most 
+marked increases were in radio broadcasters that received and retransmitted the test alert in English and 
+Spanish, which were reported by three and eight radio broadcasters, respectively, in 2021, compared to 25 
+and 33 radio broadcasters, respectively, in 2023.
+69 Certain EAS equipment has the capability to generate a text crawl from the header code data provided in the 
+English language EAS message.Federal Communications Commission
+15Table 8. Spanish Versus English Language Alerts by Participant Type
+Received Alert Retransmitted Alert 
+EAS Participant Type 
+English Spanish English 
+and 
+Spanish English Spanish English 
+and 
+Spanish 
+Radio Broadcasters 12,503 100 25 12,192 106 33
+Television Broadcasters 2,487 41 40 2,318 45 35
+Cable Systems 2,157 0 60 2,059 0 107
+IPTV Providers 277 0 9 263 0 7
+Wireline Video Systems 34 0 0 27 0 0
+Other 7 0 0 5 0 0
+All Total 17,465 141 134 16,864 151 182
+Test participants also reported the primary languages in their service area.  Table 9 tallies the 
+three highest reported service area languages or combination of languages.  Of the 13,966 responses 
+received from EAS Participants, 13,297 (95.2%) reported English as the primary language in the service 
+area, while 398 (2.8%) reported both English and Spanish, and 226 (1.6%) reported Spanish only as the 
+primary language in the service area.  This year, 18 other languages were reported in smaller numbers, 
+including Russian, Chinese, Korean, Samoan, Navajo, Portuguese, Polish, Vietnamese, Creole, French, 
+Hebrew, Hindi, Arabic, Amharic, Somali, Yup’ik/Cup’ik and Inupiaq/Yup’ik.
+Table 9. Primary Language(s) in Service Area
+English English and Spanish Spanish 
+# % # % # % 
+13,297 95.2% 398 2.8% 226 1.6%
+V. ANALYSIS OF MOST SIGNIFICANT ISSUES
+The Nationwide EAS Test: Complications
+Test participants reported complications with the test that included equipment configuration 
+issues, performance issues, audio quality issues, alerting source issues, and clock errors.  As in previous 
+years, EAS Participants reported the complications they experienced in two ways.  First, ETRS Form 
+Three provided a series of checkboxes that allowed EAS Participants to assign categories to the issues 
+they experienced.  These categories were based on the complications observed in previous nationwide 
+EAS tests, which included audio quality issues, equipment performance issues, software update issues, 
+and user error.70  Second, Form Three allowed EAS Participants to offer more detailed descriptions of the 
+complications through the use of explanatory text fields.  
+70 FCC, PSHSB, Report: August 7, 2019 Nationwide EAS Test at 14 (2020), 
+https://docs.fcc.gov/public/attachments/DOC-364279A1.pdf. FCC, PSHSB, Report: September 27, 2017 
+Nationwide EAS Test at 13 (2017), https://www.fcc.gov/document/report-2017-nationwide-emergency-alert-
+system-test.  2021 Nationwide EAS Test Report at 14.Federal Communications Commission
+161. Complications Reported in Checkboxes
+Of the 18,334 test participants, 17,187 reported through checkboxes that they experienced no 
+complications during receipt (93.7%).  16,338 (89.1%) test filers reported they experienced no 
+complications during retransmission.  In 2021, 12,275 (64.0%) reported by checkbox that they 
+experienced no complications during receipt, and 13,328 (69.5%) test filers reported the same during 
+retransmission.  Table 10 shows the categories of complications reported by test participants through 
+checkboxes.  Of the 18,334 test participants, 1,147 reported through checkboxes that they experienced at 
+least one issue during receipt 1,996 test participants reported that they experienced at least one issue 
+during retransmission.  In all, participants reported 612 issues in receipt and 909 issues in retransmission 
+through checkboxes.
+Table 10. Complications Reported by Test Participants Through Checkboxes
+Experienced During ReceiptExperienced During 
+Retransmission Complication
+# % # %
+Audio Quality Issues 121 0.7% n/a n/a
+Equipment Configuration Issues 133 0.7% 182 1.0%
+Equipment Failure 79 0.4% 432 2.4%
+Software Outdated 20 0.1% 27 0.1%
+User Error 11 0.1% 9 0.05%
+Other 248 1.4% 259 1.4%
+2. Complications Reported by Test Participants in Explanatory Text Fields
+Table 11a categorizes the responses received in explanatory text fields for the group of 1,064 test 
+participants that reported they experienced complications in the receipt of the test message.  Table 11b 
+categorizes the responses received in explanatory text fields for the group of 1,711 test participants that 
+reported they experienced complications in retransmitting the alert.  Federal Communications Commission
+17Table 11a. Explanations Reported by Test Participants Experiencing Complications on Receipt71
+Receipt Explanations Number of Test 
+Participants 
+Reporting this 
+ExplanationPercentage of 
+ExplanationsPercentage of All 
+Unique Filings
+Equipment Issues 348 32.7% 1.9%
+Transmission Not 
+Received205 19.3% 1.1%
+Audio Issues 159 14.9% 0.9%
+Configuration Issues 98 9.2% 0.5%
+Clock Issues 84 7.9% 0.5%
+Internet Issues 65 6.1% 0.4%
+Power Issues 35 3.3% 0.2%
+Signal Issues 30 2.8% 0.2%
+XML Digital Signature 
+Issues23 2.2% 0.1%
+Lightning 10 0.9% 0.1%
+Antenna Issues 7 0.7% 0.04%
+Total 1,064 100.0% 5.8%
+71 Data reflected in Tables 11a and 11b is based on data reported by test participants in explanatory text fields and 
+does not correlate to the data reported by test participants through checkboxes as reported in Table 10.  Similarly, 
+the data reported in Tables 11a and 11b is based on data reported by test participants that may not lend itself to one-
+to-one comparisons.  Consequently, there may be variations or differences between the respective data sets.  Federal Communications Commission
+18Table 11b.  Explanations Reported by Test Participants Experiencing Complications on 
+Retransmission
+Retransmission 
+ExplanationsNumber of Test 
+Participants 
+Reporting this 
+ExplanationPercentage of 
+Retransmission 
+ExplanationsPercentage of All 
+Unique Filings
+Equipment Issues 832 48.6% 4.5%
+Transmission Not 
+Received 248 14.5%1.4%
+Audio Issues 204 11.9% 1.1%
+Configuration Issues 182 10.6% 1.0%
+Clock Issues 93 5.4% 0.5%
+Internet Issues 39 2.3% 0.2%
+Text Crawl Issues 38 2.2% 0.2%
+Power Issues 28 1.6% 0.2%
+XML Digital Signature 
+Issues 17 1.0%0.1%
+Lightning 12 0.7% 0.1%
+Low Power 11 0.6% 0.1%
+Antenna Issues 5 0.3% 0.03%
+Signal Issues 2 0.1% 0.01%
+Total 1,711 100.0% 9.3%
+3. Monitoring Source Issues
+ETRS filings revealed that of 72 NPWS stations, two stations (approximately 3%) experienced 
+technical issues receiving and retransmitting the alert on the test day, a decrease from seven of 76 NPWS 
+stations in 2021 (approximately 9%).  ETRS filings also revealed that these stations failed to receive the 
+CAP alert via IPAWS as a result of Internet issues.  One station specifically cited that their broadband 
+Internet service provider was experiencing an outage, and the other cited that the Internet was “very 
+slow.”  These stations did not successfully receive the nationwide alert from the over-the-air sources that 
+they monitored.  
+Table 12 shows EAS Participant performance by state and territory.  Five of the six poorest-
+performing geographic regions were territories of the United States.  These territories were the Northern 
+Mariana Islands (20% retransmission success), Guam (33.3% retransmission success), American Samoa 
+(66.7% retransmission success), the U.S. Virgin Islands (88.9% retransmission success), and Puerto Rico 
+(89.7% retransmission success).  The majority of explanations reported by these territories cited the 
+following complications: equipment performance issues, transmission not received, equipment 
+configuration issues, and Internet issues.  Notably, approximately 35% of the equipment used in these five 
+US territories was outdated, which we believe could be a contributing factor to poor performance.  Rhode 
+Island was the state with the highest number of alert receipt complications in the explanatory fields with 
+33.3% of the filings indicating either audio or equipment issues.  States with the highest performance 
+results for both alert receipt and retransmission were reported by Vermont (VT) and Delaware (DE) 
+which both reported 100% successful receipt, and 98.9% and 100% successful retransmission, 
+respectively. Federal Communications Commission
+19Table 12: Performance Test Results by State/Territory
+Successfully Received AlertSuccessfully Retransmitted 
+AlertTransmitter 
+StateNumber of 
+Test 
+Participants # % # %
+AK 177 168 94.9% 162 91.5%
+AL 438 430 98.2% 419 95.7%
+AR 419 410 97.9% 379 90.5%
+AS 9 7 77.8% 6 66.7%
+AZ 315 303 96.2% 291 92.4%
+CA 1,214 1,140 93.9% 1,114 91.8%
+CO 379 361 95.3% 347 91.6%
+CT 127 126 99.2% 124 97.6%
+DC 24 23 95.8% 23 95.8%
+DE 45 45 100.0% 45 100.0%
+FL 803 773 96.3% 742 92.4%
+GA 543 531 97.8% 514 94.7%
+GU 12 7 58.3% 4 33.3%
+HI 124 119 96.0% 115 92.7%
+IA 501 491 98.0% 474 94.6%
+ID 176 165 93.8% 158 89.8%
+IL 673 655 97.3% 617 91.7%
+IN 478 471 98.5% 467 97.7%
+KS 330 327 99.1% 313 94.8%
+KY 417 386 92.6% 380 91.1%
+LA 358 348 97.2% 335 93.6%
+MA 247 239 96.8% 230 93.1%
+MD 186 185 99.5% 184 98.9%
+ME 162 159 98.1% 155 95.7%
+MI 599 592 98.8% 577 96.3%
+MN 516 500 96.9% 488 94.6%
+MO 511 495 96.9% 473 92.6%
+MP 5 1 20.0% 1 20.0%
+MS 315 301 95.6% 291 92.4%
+MT 219 213 97.3% 208 95.0%
+NC 564 539 95.6% 530 94.0%
+ND 182 179 98.4% 178 97.8%
+NE 288 284 98.6% 275 95.5%
+NH 115 115 100.0% 112 97.4%
+NJ 171 166 97.1% 165 96.5%
+NM 260 249 95.8% 247 95.0%
+NV 168 158 94.0% 152 90.5%Federal Communications Commission
+20Successfully Received AlertSuccessfully Retransmitted 
+AlertTransmitter 
+StateNumber of 
+Test 
+Participants # % # %
+NY 696 681 97.8% 664 95.4%
+OH 572 560 97.9% 548 95.8%
+OK 342 327 95.6% 320 93.6%
+OR 370 353 95.4% 346 93.5%
+PA 755 746 98.8% 728 96.4%
+PR 146 136 93.2% 131 89.7%
+RI 36 34 94.4% 34 94.4%
+SC 321 301 93.8% 291 90.7%
+SD 204 197 96.6% 193 94.6%
+TN 520 504 96.9% 490 94.2%
+TX 1,267 1,205 95.1% 1,137 89.7%
+UT 153 150 98.0% 139 90.8%
+VA 414 407 98.3% 393 94.9%
+VI 9 8 88.9% 8 88.9%
+VT 93 93 100.0% 92 98.9%
+WA 406 390 96.1% 372 91.6%
+WI 495 489 98.8% 485 98.0%
+WV 213 201 94.4% 198 93.0%
+WY 159 145 91.2% 140 88.1%
+As a practical matter, one way for EAS Participants to reduce complications due to failure to 
+receive the test alert, such as the complications discussed above, is to ensure that they monitor several 
+independent sources of alerts.  Multiple monitored sources add redundancy to the system so that when 
+one source fails, a test participant can still successfully receive the alert from elsewhere and retransmit it.  
+We note that the Commission’s rules require EAS Participants to monitor two EAS sources for EAS 
+messages that are formatted in accordance with the EAS Protocol, in addition to requiring monitoring of 
+IPAWS.  We are aware that many EAS Participants already monitor multiple broadcast-based sources.  
+However, we continue to emphasize the importance of multiple monitoring sources as required by our 
+rules.  We also recommend that stations located far from NPWS stations consider the viability, 
+technically and otherwise, of satellite sources of the broadcast alert.
+4. Equipment Performance Issues
+There were 348 test participants that reported equipment performance issues on receipt and 832 
+on retransmission involving non-working equipment.  Participants cited that the equipment was out for 
+repair, failed during the test, was missing, malfunctioned, was damaged/broken, outdated, or was in the 
+process of being replaced.  Approximately 30% of the test participants that reported equipment 
+performance issues on receipt, and approximately 20% of test participants that reported equipment 
+performance issues on retransmission, were using EAS equipment units with either outdated software or 
+operating equipment that no longer supports software updates.  Specific examples of equipment 
+performance issues that were observed by outdated or no longer supported EAS equipment units included 
+failure to connect to IPAWS, the ability to receive the alert but failure to retransmit the alert, and 
+explanations that older equipment was not functional or compatible with other system components.  As Federal Communications Commission
+21evidenced by these results, it is critically important that EAS Participants that are widely monitored use 
+testing to ensure their EAS equipment is in reliable working order and outdated equipment and/or 
+software is updated to the latest version or replaced to mitigate performance related complications and 
+safeguard against security vulnerabilities. 
+5. Accessibility Issues
+Individuals with disabilities and organizations representing people with disabilities submitted 
+observations to the FCC regarding issues relating to the accessibility of alerts. Informal feedback was also 
+obtained from input directly emailed to the Commission.72  Filers noted that the manner in which the EAS 
+test message was displayed in some cases was not accessible to people with disabilities.73  Specifically, 
+filers reported that some EAS text crawls were overlapping with closed captions, too fast, not accessible 
+due to a low contrast ratio between the text color and background color, too small, or unclear/blurry.  One 
+informal complaint was received regarding a station’s selection of visually inaccessible font and 
+background colors, and this complaint was resolved by the station to the satisfaction of the filer.  While 
+these issues largely mirrored those identified in the 2021 Nationwide EAS Test Report,74 there were fewer 
+complaints regarding specific television stations.
+6. Text Crawl Issues
+There were 38 participants on retransmission that cited experiencing text crawl issues during 
+retransmission.  Test participants cited no onscreen crawl and audio only but no text crawl.  
+7. Audio Issues 
+There were 159 test participants on receipt and 204 on retransmission that explained their station 
+experienced complications with receipt or retransmission of the alert due to audio issues.  Many test 
+participants reported background noise, static, no tone/audio, low volume audio, only tones and no 
+message, multiple audio tones, short audio duration, and/or unintelligible/distorted audio. 
+8. Equipment Configuration 
+There were 103 test participants on receipt and 94 on retransmission that provided explanations of 
+EAS equipment configuration issues.  Participants in this category cited user-related configuration 
+problems, including invalid firmware and improper connection to monitoring sources, incorrect tuning, 
+and lack of software upgrades.  Most test participants that reported complications related to equipment 
+configuration also reported that they had successfully identified and corrected the cause of those 
+complications or were fixing it immediately
+9. Clock Issues 
+There were 84 test participants on receipt and 93 on retransmission who explained that an 
+incorrect time setting within the EAS equipment caused complications with the ability to receive or 
+72 See, e.g., Partnership for Inclusive Disaster Strategies, Access Survey Report: IPAWS National Test 2023 (Dec. 
+14, 2023), https://disasterstrategies.org/wp-content/uploads/2023/12/Report-IPAWS-2023-Survey-Report-
+accessible.pdf.  In this survey with over 400 respondents, the majority of respondents who received the WEA and 
+EAS messages found them easy to understand.  The survey also provides anecdotal reports of barriers to 
+accessibility by some respondents. 
+73 See 47 CFR § 11.51.  
+74 2021 Nationwide EAS Test Report at 19.Federal Communications Commission
+22retransmit the EAS message.  Test participants noted that the time or time zone was set incorrectly, 
+equipment clock was off, and/or the incorrect date was configured.  For example, if the EAS equipment’s 
+time was not correctly synchronized to real time, it would not receive nor retransmit the EAS message, as 
+the equipment would consider the message to have expired.
+10. Internet Issues 
+There were 65 test participants on receipt and 39 on retransmission that had internet outages 
+during the test.  Participants in this category cited IP provider being down, Internet service down, Internet 
+connection issues, and Internet firewall problems. 
+11. Power Issues
+There were 35 test participants on receipt and 28 on retransmission that explained they were 
+having power outages or issues during the time of the test.  Most respondents citing power issues stated 
+these outages were a result of local power outages at tower site, power supply failure/malfunction, or 
+battery failure.
+12. Signal Issues 
+There were 30 test participants on receipt and two on retransmission that reported complications 
+receiving or retransmitting the test message due to poor signal.  Test participants attributed the poor signal 
+reception issues, or weak signal from their monitoring source.
+13. XML Digital Signature Issues
+There were 23 test participants on receipt and 17 on retransmission that cited their station 
+experienced complications due to XML digital signature issues that caused complications with receiving 
+or retransmission of the alert.  Most respondent cited that the IPAWS XML certification was 
+invalid/expired or failed due to an invalid XML digital signature.
+14. Lightning
+There were 10 test participants on receipt and 12 on retransmission that explained their station 
+was affected by lightening which hindered their ability to received and/or retransmit the test.  Lightning 
+issues included damaging equipment necessary for broadcasting.  
+15. Antenna Issues 
+There were seven test participants on receipt and five on retransmission that reported they 
+experienced complications with receipt and/or retransmission of the test signal because the antenna failed, 
+was damaged, or was improperly positioned to receive the monitoring source.
+16. Low Power
+There were 11 test participants on retransmissions stated that they were a Low Power station and 
+did not have a responsibility to retransmit.  Low power stations are required to broadcast the alert, though 
+they are not required to have equipment capable of generating the EAS codes and Attention Signal.75  
+75 See 47 CFR 11.51(a), (e) and 11.61(a)(3)(1).  Federal Communications Commission
+23VI. NEXT STEPS
+The Bureau will continue to take measures to improve the EAS.  To help address areas for 
+improvement highlighted by the 2023 nationwide WEA and EAS tests, the Bureau will continue to 
+address commonly reported operational complications and improve participation in the nationwide test. 
+Specifically:
+•PSHSB recommends that the Commission adopt rules to improve the operational readiness of 
+EAS Participants.  The 2023 nationwide test revealed that 6.4% of EAS participants failed to 
+retransmit the alert.  Additionally, 4.5% of EAS participants reported experiencing some kind of  
+equipment related complication during retransmission of the alert.  It is essential that the entire 
+public be able to successfully receive alerts in order to take protective action during emergencies.  
+Failure to transmit an alert and deliver life-saving information to affected communities during a 
+real emergency puts the public at risk.
+•PSHSB recommends that Commission adopt rules to ensure that EAS Participants are updating 
+their EAS equipment’s software and have a plan for replacing equipment that is no longer 
+supported.  As of early October 2023, over 4,500 EAS Participants, approximately 23% of EAS 
+equipment units, were either using outdated software or operating equipment that no longer 
+supported regular software updates.  The 2023 test also revealed that fully up-to-date equipment 
+had the highest receipt and retransmission performance results (97% and 95%, respectively), 
+whereas equipment with equipment that is no longer supported had the lowest receipt and 
+retransmission performance results (90% and 85%, respectively).  The use of equipment with 
+older software or equipment that no longer receives manufacturer support increases the risk of 
+alert failure as well as poses major security risks.
+•PSHSB recommends that its staff engage with EAS Participants in the territories of the United 
+States to improve EAS performance.  The 2023 nationwide test results showed that EAS 
+Participants reporting from these territories, including the Northern Mariana Islands, Guam, 
+American Samoa, the U.S. Virgin Islands, and Puerto Rico were among the lowest performers for 
+both alert receipt and retransmission.  These territories in particular have been plagued by 
+multiple tropical storms and typhoons in recent years including Super Typhoon Mawar affecting 
+Guam and the Northern Mariana Islands in late May 2023,76 and Hurricane Fiona affecting Puerto 
+Rico and the U.S. Virgin Islands and Puerto in September 2022.77  PSHSB will work closely with 
+EAS Participants and SECCs, and if necessary help reinvigorate SECCs and pursue enforcement 
+actions, to ensure that EAS is effective in these territories. 
+•PSHSB recommends that its staff work with FEMA to evaluate ways to improve the accessibility 
+of EAS text crawl.  Filers reported that some EAS text crawls were not accessible due to 
+circumstances such as overlapping with closed captions, scrolling too fast, having a low contrast 
+ratio between the text color and background color, were too small, or were unclear/blurry.  It is 
+important that EAS Participants take steps to identify and correct these issues before EAS is 
+needed during an emergency.
+•PSHSB recommends that Congress require all CMS Providers to support WEA.78  As discussed 
+above, 44% of respondents who reported they did not receive the WEA test message did not 
+know why the alert was not received.  Requiring all CMS Providers to support WEA would 
+76 FCC, Super Typhoon Mawar, https://www.fcc.gov/mawar (last visited Mar. 6, 2024).
+77 FCC, Hurricane Fiona, https://www.fcc.gov/fiona (last visited Mar. 6, 2024).
+78 Contra 47 U.S.C. § 1201.Federal Communications Commission
+24enhance public safety by ensuring greater consistency in the delivery of life-saving alerts to the 
+public, making it a more reliable and effective warning tool for alerting authorities nationwide. 
+•PSHSB recommends that the Commission adopt rules to improve the operational readiness and 
+software updating practices of Participating CMS Providers.  Similar to the performance observed 
+for EAS, 5.8% of respondents to NYCEM’s survey reported they did not receive the WEA test 
+message and some providers reported that they experienced technical failures during the test that 
+prevented members of the public from receiving the alert.  Just like in receiving EAS messages, it 
+is essential that the entire public be able to successfully receive WEA alerts in order to take 
+protective action during emergencies, and PSHSB finds that further action is necessary to ensure 
+WEA’s availability and reliability.  
+VII. CONCLUSION
+The 2023 nationwide WEA and EAS test successfully demonstrated the effectiveness of WEA 
+and the EAS as alerting tools, as well as the capability of IPAWS to disseminate these alerts to the public 
+through the nation’s alert and warning infrastructure.  This year’s test also highlighted several areas in 
+which WEA and the EAS can continue to improve and additional actions that should be taken to ensure 
+that these systems are as effective as they can be.  The Bureau will continue to work with FEMA, EAS 
+Participants, and other EAS stakeholders to improve the system and ensure that it remains effective and 
+can transmit timely and accurate nationwide alerts to the public when they are needed the most.  Federal Communications Commission
+25APPENDIX: HOW WEA AND EAS WORKS
+Wireless Emergency Alerts
+In 2008, pursuant to the Warning, Alert and Response Network (WARN) Act,79 the Commission adopted 
+rules allowing CMS Providers to voluntarily deliver timely and accurate emergency alerts over 
+subscribers’ mobile devices.80  The WARN Act required that the Commission undertake a series of 
+actions, including the establishment and convening of an advisory committee to recommend technical 
+requirements for WEA.81  Accordingly, the Commission formed the Commercial Mobile Service Alert 
+Advisory Committee (CMSAAC).82  The CMSAAC submitted its report to the Commission on October 
+12, 2007, as required by the WARN Act.83  The Commission subsequently promulgated rules governing 
+WEA, within the timeframes established by the WARN Act.84  The WARN Act gives the Commission 
+authority to adopt “relevant technical standards, protocols, procedures and other technical requirements 
+based on the recommendations of such Advisory Committee necessary to enable commercial mobile 
+service alerting capability for commercial mobile service providers that voluntarily elect to transmit 
+emergency alerts.”85  The WARN Act also gives the Commission authority to adopt procedures whereby 
+CMS Providers could specify their intent to the Commission to participate in WEA.86  76 CMS Providers 
+79 On October 13, 2006, the President signed the Security and Accountability for Every Port (SAFE Port) Act into 
+law.  Title VI of the SAFE Port Act, also known as the WARN Act, establishes a process for the creation of a 
+national mobile alerting system, now known as WEA, whereby Participating CMS Providers transmit emergency 
+alerts to their subscribers.  See Warning, Alert and Response Network (WARN) Act, Title VI of the Security and 
+Accountability For Every Port Act of 2006, 120 Stat. 1884, codified at 47 U.S.C. § 1200, et seq. (2006) (WARN 
+Act).  
+80 See 47 CFR Part 10.
+81 WARN Act §§ 603(a), (d), 47 U.S.C. § 1203(a), (d).  
+82 See Notice of Appointment of Members to the Commercial Mobile Service Alert Advisory Committee, Agenda 
+for December 12, 2006 Meeting, Public Notice, 21 FCC Rcd 14175 (PSHSB 2006).  
+83 See Federal Communications Commission Commercial Mobile Service Alert Advisory Committee (CMSAAC), 
+PMG-0035 Commercial Mobile Alert Service Architecture and Requirements, at 66 (2007) (CMSAAC Report).
+84 WARN Act § 602(a), 47 U.S.C. § 1202(a) (requiring the Commission to promulgate technical standards for WEA 
+within 180 days of receipt of the CMSAAC’s recommendations); id. at § 602(c), 47 U.S.C. § 1202(c) (requiring the 
+Commission to promulgate requirements for noncommercial educational broadcast stations or public broadcast 
+stations to enable the distribution of geographically targeted messages within 90 days of the publication of its 
+technical standards); id. at § 602(b), 47 U.S.C. § 1202(b) (requiring the Commission to promulgate election 
+procedures for CMS Providers within 120 days of the publication of its technical standards); id. at § 602(f), 47 
+U.S.C. § 1202(f) (requiring the Commission to require by regulation technical testing for commercial mobile service 
+providers that elect to transmit emergency alerts and for the devices and equipment used by such providers for 
+transmitting such alerts).
+85 Id. at § 602(a), 47 U.S.C. § 1202(a).
+86 Id. at § 602(b), 47 U.S.C. § 1202(b).  Under the WARN Act, CMS Providers could elect to participate in whole, in 
+part, or not at all.  Id. at § 602(b)(1)(B), 47 U.S.C. § 1202(b)(1)(B).  CMS Providers who intended to participate in 
+WEA were required to specify their intent to the Commission in writing.  See id. at § 602(B)(2)(A), 47 U.S.C. § 
+1202(B)(2)(A) (requiring that “within 30 days after the Commission issues its order under [Section 602(b)], each 
+licensee providing commercial mobile service shall file an election with the Commission with respect to whether or 
+not it intends to transmit emergency alerts”).Federal Communications Commission
+26elect to participate in WEA, at least in part.87  Since its launch in 2012, the WEA system has been used 
+more than 86,000 times to warn the public about dangerous weather, missing children, and other critical 
+situations – all through alerts on compatible cell phones and other mobile devices.
+The WEA system is a tool for authorized federal, state and local government entities to geographically 
+target National Alerts, Imminent Threat Alerts, AMBER Alerts, and Public Safety Messages to the WEA-
+capable mobile devices of Participating CMS Providers’ subscribers.88  As depicted in Figure 1 below, a 
+WEA Alert Message is sent by an authorized federal, state or local government entity using the Common 
+Alerting Protocol (CAP) to the Federal Emergency Management Agency (FEMA)-operated Alert 
+Aggregator via a secure, Internet-based interface (the A-Interface) where it is authenticated, validated and 
+subsequently delivered to FEMA’s Alert Gateway (the B-Interface).89  At the FEMA Alert Gateway, the 
+Alert Message is prepared for delivery to the Participating CMS Provider by being converted to 
+Commercial Mobile Alert for C-Interface (CMAC) format to render it readable by WEA-capable mobile 
+devices.  The Alert Message is then disseminated across a secure Internet-based interface (the C-
+Interface) to the Participating CMS Provider’s Alert Gateway (CMSP Gateway) for distribution to mobile 
+customers over cell broadcast (CMSP Infrastructure).90
+87 See FCC, Master WEA Registry, https://www.fcc.gov/files/weamasterregistry112019xls; PS Docket No. 08-146 
+(containing a record of all Participating CMS Providers’ elections to participate in WEA).  
+88 See, e.g., 47 CFR § 10.450 (geo-targeting); § 10.430 (character limit); § 10.400 (classification).
+89 See infra Figure 1 (WEA Architecture).  CAP is an open, interoperable, XML-based standard that can include 
+multimedia such as streaming audio or video.  See OASIS CAP v1.2 (IPAWS Profile for the OASIS Common 
+Alerting Protocol IPAWS USA).  CAP messages contain standardized fields that facilitate interoperability between 
+and among devices.  See id.
+90 From a technical standpoint, the WEA system currently deployed by FEMA and Participating CMS Providers is 
+based on standards created by the Alliance for Telecommunications Industry Solutions (ATIS), the 
+Telecommunications Industry Association (TIA) (jointly, ATIS/TIA), and the 3rd Generation Partnership Project 
+(3GPP).  See CSRIC IV WEA Messaging Report at 7.  We note that nothing in the WARN Act or the Commission’s 
+rules requires WEA to be a cell-broadcast-based service.Federal Communications Commission
+27Figure 1. WEA Architecture
+Currently, Participating CMS Providers’ WEA infrastructure removes Alert Message metadata, including 
+a description of the geographic target area for the Alert Message and the Alert Message’s expiration time, 
+and then transmits the Alert Message content to their subscribers’ WEA-capable devices.  While the 
+Commission’s WEA rules are technologically neutral, most Participating CMS Providers use cell 
+broadcast technology to transmit WEA Alert Messages to their subscribers.91  When the Alert Message is 
+received by a WEA-capable mobile device, it is prominently presented to the subscriber as long as the 
+subscriber has not opted out of receiving Alert Messages of that type.92  
+91 See CSRIC V, Working Group Two, Wireless Emergency Alerts – Recommendations to Improve Geo-targeting 
+and Offer Many-to-One Capabilities, Final Report and Recommendations 8 (2016); but see Letter from Rebecca 
+Murphy Thompson, EVP and General Counsel, Competitive Carriers Association, to Marlene Dortch, Secretary, 
+FCC, PS Docket No. 15-91, at 2 (filed Oct. 10, 2017) (stating that some carriers offer WEA using a software 
+application, rather than cell broadcast).  
+92 See Joint ATIS/TIA CMAS Mobile Device Behavior Specification (ATIS-TIA-J-STD-100).  Subscribers’ right to 
+opt out of WEA Alert Message receipt extends to all but the National Alert.  See 47 CFR § 10.280.  
+Federal Communications Commission
+28The Emergency Alert System
+The EAS is designed primarily to provide the President with the capability to communicate via a live 
+audio transmission to the public during a national emergency.93  The EAS is the successor to prior 
+national warning systems Control of Electromagnetic Radiation (CONELRAD), established in 1951; and 
+the Emergency Broadcasting System (EBS), established in 1963.94  The FCC, in conjunction with FEMA 
+and the NWS, implements EAS at the federal level.95  The respective roles these agencies play are defined 
+by a 1981 Memorandum of Understanding between FEMA, NWS and the FCC;96 a 1984 Executive 
+Order;97 a 1995 Presidential Statement of EAS Requirements;98 and a 2006 Public Alert and Warning 
+System Executive Order.99  As a general matter, the Commission and FEMA work closely with radio and 
+television broadcasters, cable providers, and other EAS Participants and stakeholders – including state, 
+local, territorial and tribal governments – to ensure the integrity and utility of the EAS.
+FCC rules require EAS Participants to have the capability to receive and transmit National Emergency 
+Message alerts (EANs) disseminated over the EAS, and generally govern all aspects of EAS 
+participation.100  EAS Participants also voluntarily transmit thousands of alerts and warnings issued 
+annually by the NWS and state, tribal, and local governments, these alerts typically address severe 
+weather threats, child abductions, and other local emergencies.  As discussed in more detail below, non-
+National Emergency Message EAS alerts do not require that EAS Participants open a live audio feed from 
+the alerting source, but rather transmit alerts with prerecorded messages that can be delivered at the 
+discretion of the EAS Participant, rendering non- National Emergency Message alerts (and their related 
+testing procedures) inappropriate for end-to-end testing of a nationwide alert.101
+93 See Review of the Emergency Alert System, Second Further Notice of Proposed Rulemaking, 25 FCC Rcd 564, 
+565, para. 2 (2010).
+94 CONELRAD was not an alerting system per se but was rather a Cold War emergency system under which most 
+radio and television transmission would be shut down in case of an enemy missile attack to prevent incoming 
+missiles from homing in on broadcast transmissions.  The radio stations that were allowed to remain on the air, the 
+CONELRAD stations, would remain on the air to provide emergency information.  See “Defense: Sign-off for 
+CONELRAD,” Time Magazine, Friday, July 12, 1963.
+95 FEMA acts as Executive Agent for the development, operation, and maintenance of the national-level EAS.  See 
+Memorandum, Presidential Communications with the General Public During Periods of National Emergency, The 
+White House (September 15, 1995) (1995 Presidential Statement).
+96 See 1981 State and Local Emergency Broadcasting System (EBS) Memorandum of Understanding among the 
+Federal Emergency Management Agency (FEMA), Federal Communications Commission (FCC), the National 
+Oceanic and Atmospheric Administration (NOAA), and the National Industry Advisory Committee (NIAC), 
+reprinted as Appendix K to Partnership for Public Warning Report 2004-1, The Emergency Alert System (EAS):  
+An Assessment.
+97 See Assignment of National Security and Emergency Preparedness Telecommunications Function, Exec. Order 
+No. 12472, 49 Fed. Reg. 13471 (1984).
+98 See 1995 Presidential Statement.
+99 See Public Alert and Warning System, Exec. Order No. 13407, 71 Fed. Reg. 36975 (June 26, 2006) (Executive 
+Order).  
+100 See 47 CFR Part 11.
+101 See 2011 EAS Nationwide Test Report at 7, n.13.Federal Communications Commission
+29Broadcast-Based Distribution of EAS 
+There are two methods by which EAS alerts may be distributed.  Under the broadcast-based distribution 
+structure, illustrated in Figure 2 below, the EAS is designed to cascade the National Emergency Message  
+through a pre-established hierarchy of broadcast, cable, and satellite systems.  FEMA initiates a 
+nationwide, National Emergency Message alert using specific encoding equipment to send the EAN code 
+initially to the Primary Entry Point (PEP) stations over a secure telephone (wireline) connection.102  PEP 
+stations are privately owned commercial and non-commercial radio broadcast stations that cooperatively 
+participate with FEMA to provide emergency alert and warning information to the public before, during, 
+and after a national or local emergency.103  Upon receipt of the code, the PEPs open a live audio channel 
+to FEMA and broadcast the National Emergency Message throughout their listening areas.  A group of 
+selected EAS Participants in each PEP’s broadcast area, known as Local Primary (LP) stations, monitor 
+these PEP stations.  When LP stations receive the National Emergency Message , they, in turn, open up an 
+audio channel to FEMA via the PEP, and broadcast the National Emergency Message  in their listening 
+areas.  The remaining broadcasters, cable television facilities and other EAS Participants located in each 
+LP’s broadcast footprint receive the alerts from the LP stations, transmit the alerts to the public (or in the 
+case of cable, to customers’ set top boxes), and open up the audio channel to FEMA through their PEP 
+and LP.  
+Figure 2. EAS Architecture
+102 The EAN and other EAS codes are part of the Specific Area Message Encoding (SAME) protocol used both for 
+the EAS and NOAA weather radio.  See National Weather Service, “NOAA Weather Radio All Hazards,” available 
+at https://www.weather.gov/sgf/nwr_same.
+103 See FEMA Fact Sheet, Primary Entry Point (PEP) Stations available at:  https://www.fema.gov/emergency-
+managers/practitioners/integrated-public-alert-warning-system/broadcasters-wireless (last visited Jan. 3, 2024 ); see 
+also information about PEP stations at https://www.fema.gov/national-public-warning-system (last visited Jan. 3, 
+2024).  PEP stations serve as the primary source of initial broadcast for a national alert and are equipped with back-
+up communications equipment and power generators designed to enable them to continue broadcasting information 
+to the public during and after an event.  Id.  
+Federal Communications Commission
+30Alerting via IPAWS
+EAS and WEA alerts may be distributed over the Internet through the Integrated Public Alert and 
+Warning System (IPAWS), illustrated in Figure 3 below.104  As of June 30, 2012, EAS Participants are 
+required to be able to receive EAS alerts formatted in Common Alerting Protocol (CAP)105 from 
+authorized emergency alert initiators over the Internet via IPAWS.  CAP-formatted alerts can include 
+audio, video or data files, images, multilingual translations of alerts, and links providing more detailed 
+information than what is contained in the initial alert (such as streaming audio or video).106  An EAS 
+Participant that receives a CAP-formatted message can utilize the CAP-formatted content to generate 
+messages in synchronous audio and visual formats, which then can be broadcast to local viewers and 
+listeners.107  CAP also provides each alert with a unique alert identifier and supports alert authentication 
+104 FEMA, Integrated Public Alert & Warning System, https://www.fema.gov/integrated-public-alert-warning-
+system (last visited Jan. 3, 2024).  
+105 See Review of the Emergency Alert System; Independent Spanish Broadcasters Association, the Office of 
+Communication of the United Church of Christ, Inc., and the Minority Media and Telecommunications Council, 
+Petition for Immediate Relief; Randy Gehman Petition for Rulemaking, EB Docket 04-296, Fourth Report and 
+Order, 26 FCC Rcd 13710, 13719, para. 20 (2011) (Fourth Report and Order).  CAP is an open, interoperable 
+standard developed by the Organization for the Advancement of Structure Information Standards (OASIS), and it 
+incorporates an XML-based language developed and widely used for web documents.  See Review of the Emergency 
+Alert System; Independent Spanish Broadcasters Association, the Office of Communication of the United Church of 
+Christ, Inc., and the Minority Media and Telecommunications Council, Petition for Immediate Relief; Randy 
+Gehman Petition for Rulemaking, Fifth Report and Order, 27 FCC Rcd 642, 648, para. 10 (2012), pet. denied in 
+Multicultural Media, Telecom and Internet Council and the League of United Latin American Citizens, Petitioners, 
+v. FCC, D.C. Cir., 873 F3d 932 (Oct. 17, 2017).  CAP messages contain standardized fields that facilitate 
+interoperability between and among devices and are backwards-compatible with the EAS Protocol.  See id.
+106  See Review of the Emergency Alert System; Independent Spanish Broadcasters Association, the Office of 
+Communication of the United Church of Christ, Inc., and the Minority Media and Telecommunications Council, 
+Petition for Immediate Relief; Randy Gehman Petition for Rulemaking, Fifth Report and Order, 27 FCC Rcd 642, 
+648, para. 10 (2012), pet. denied in Multicultural Media, Telecom and Internet Council and the League of United 
+Latin American Citizens, Petitioners, v. FCC, D.C. Cir., 873 F3d 932 (Oct. 17, 2017).  Any data contained in a 
+CAP-formatted message beyond the EAS codes and audio message (if present), such as enhanced text or video files, 
+can be utilized locally by the EAS Participant that receives it, but cannot be converted into the EAS Protocol and 
+thus cannot be distributed via the broadcast-based distribution system, as reflected in the part 11 rules.  See e.g., 47 
+CFR § 11.51(d), (g)(3), (h)(3), (j)(2).
+107 See 47 CFR § 11.51(d), (g)(3), (j)(2).Federal Communications Commission
+31through the provision of a digital signature and an encryption field that enables greater protection of the 
+CAP message.108  
+Figure 3. IPAWS Architecture
+108 See OASIS, Common Alerting Protocol Version 1.2 (2010), available at https://docs.oasis-
+open.org/emergency/cap/v1.2/CAP-v1.2.pdf (last visited Jan. 3, 2024).
