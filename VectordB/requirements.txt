@@ -1,3 +1,8 @@
 streamlit
 openai
-pinecone>=3.0.0
+chromadb
+python-dotenv
+numpy
+serpapi
+beautifulsoup4
+requests
