@@ -42,31 +42,30 @@ import numpy as np
 # === Configuration ===
 
 # Access API keys from Streamlit secrets or .env fallback
-if STREAMLIT_AVAILABLE and hasattr(st, 'secrets') and "OPENAI_API_KEY" in st.secrets:
-    # Running on Streamlit Cloud - use secrets
-    OPENAI_API_KEY = st.secrets["OPENAI_API_KEY"]
-    SERPAPI_API_KEY = st.secrets.get("SERPAPI_KEY", st.secrets.get("SERPAPI_API_KEY", ""))
-else:
-    # Running locally - use .env
-    from dotenv import load_dotenv
-    load_dotenv()
-    OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-    SERPAPI_API_KEY = os.getenv("SERPAPI_KEY") or os.getenv("SERPAPI_API_KEY")
+# Always try .env first for local development
+from dotenv import load_dotenv
+load_dotenv()
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+SERPAPI_API_KEY = os.getenv("SERPAPI_KEY") or os.getenv("SERPAPI_API_KEY")
+
+# Override with Streamlit secrets if available (for cloud deployment)
+if STREAMLIT_AVAILABLE:
+    try:
+        if hasattr(st, 'secrets') and st.secrets:
+            OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY", OPENAI_API_KEY)
+            SERPAPI_API_KEY = st.secrets.get("SERPAPI_KEY", st.secrets.get("SERPAPI_API_KEY", SERPAPI_API_KEY))
+    except:
+        pass  # Use .env values
 
 # Determine correct path for ChromaDB based on where script is running from
-if STREAMLIT_AVAILABLE and hasattr(st, 'secrets'):
-    # Running on Streamlit Cloud - use relative path from script location
-    PERSIST_PATH = os.path.join(os.path.dirname(__file__), "chroma_fcc_storage")
+local_path = "./chroma_fcc_storage"
+parent_path = "../chroma_fcc_storage"
+if os.path.exists(local_path):
+    PERSIST_PATH = local_path
+elif os.path.exists(parent_path):
+    PERSIST_PATH = parent_path
 else:
-    # Running locally - check both locations
-    local_path = "./chroma_fcc_storage"
-    parent_path = "../chroma_fcc_storage"
-    if os.path.exists(local_path):
-        PERSIST_PATH = local_path
-    elif os.path.exists(parent_path):
-        PERSIST_PATH = parent_path
-    else:
-        PERSIST_PATH = os.environ.get("CHROMA_PERSIST_PATH", "./chroma_fcc_storage")
+    PERSIST_PATH = os.environ.get("CHROMA_PERSIST_PATH", "./chroma_fcc_storage")
 
 COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION", "fcc_documents")
 EMBED_MODEL = "text-embedding-3-small"
