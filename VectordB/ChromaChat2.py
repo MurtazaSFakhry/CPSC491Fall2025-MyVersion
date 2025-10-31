@@ -31,7 +31,11 @@ except ImportError:
 
 from chromadb import PersistentClient
 from openai import OpenAI
-from serpapi import GoogleSearch
+try:
+    from serpapi import GoogleSearch
+except ImportError:
+    # Newer serpapi versions use different import
+    from serpapi.google_search import GoogleSearch
 from uuid import uuid4
 import numpy as np
 

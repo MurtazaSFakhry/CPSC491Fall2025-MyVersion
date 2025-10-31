@@ -3,6 +3,6 @@ openai
 chromadb
 python-dotenv
 numpy
-serpapi
+google-search-results
 beautifulsoup4
 requests
