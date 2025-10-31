@@ -16,29 +16,134 @@ import time
 import streamlit as st
 from chromadb import PersistentClient
 from openai import OpenAI
+from dotenv import load_dotenv
 
 try:
     from serpapi import GoogleSearch
 except ImportError:
     from serpapi.google_search import GoogleSearch
 
-# Import functions from ChromaChat2
+# Load environment variables
+load_dotenv()
+
+# === Configuration - Use correct paths ===
+# Point to the root-level chroma_fcc_storage
+PERSIST_PATH = str(ROOT / "chroma_fcc_storage")
+COLLECTION_NAME = "fcc_documents"
+EMBED_MODEL = "text-embedding-3-small"
+SIMILARITY_TOP_K = 5
+MAX_RESPONSE_TOKENS = 500
+FALLBACK_TEXT = "No information available in the dataset or external sources for that question."
+RELEVANCE_THRESHOLD = 0.35
+
+# API Keys
+OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+SERPAPI_API_KEY = os.getenv("SERPAPI_KEY") or os.getenv("SERPAPI_API_KEY")
+
+# Override with Streamlit secrets if available
+try:
+    if hasattr(st, 'secrets') and st.secrets:
+        OPENAI_API_KEY = st.secrets.get("OPENAI_API_KEY", OPENAI_API_KEY)
+        SERPAPI_API_KEY = st.secrets.get("SERPAPI_KEY", st.secrets.get("SERPAPI_API_KEY", SERPAPI_API_KEY))
+except:
+    pass
+
+# Initialize clients
+openai_client = OpenAI(api_key=OPENAI_API_KEY)
+chroma_client = PersistentClient(path=PERSIST_PATH)
+collection = chroma_client.get_or_create_collection(name=COLLECTION_NAME)
+
+# Import helper functions from ChromaChat2
+sys.path.insert(0, str(ROOT / "VectordB"))
 from ChromaChat2 import (
     embed_text,
-    retrieve_relevant_chunks,
     external_search,
     fetch_full_text,
-    save_external_docs_to_chroma,
     build_prompt,
     parse_sources,
     is_relevant_to_emergency_systems,
-    PERSIST_PATH,
-    COLLECTION_NAME,
-    FALLBACK_TEXT,
-    MAX_RESPONSE_TOKENS,
-    openai_client,
-    collection
+    EMERGENCY_TOPICS
 )
+
+# === Helper Functions ===
+
+def retrieve_relevant_chunks(query: str, top_k: int = SIMILARITY_TOP_K):
+    """Retrieve relevant chunks from ChromaDB"""
+    q_emb = embed_text(query)
+    res = collection.query(
+        query_embeddings=[q_emb],
+        n_results=top_k,
+        include=["documents", "metadatas"]
+    )
+    docs = res.get("documents", [[]])[0]
+    metas = res.get("metadatas", [[]])[0]
+    return [{"document": doc, "metadata": meta} for doc, meta in zip(docs, metas)]
+
+def save_external_docs_to_chroma(external_docs):
+    """Save external docs to ChromaDB"""
+    from uuid import uuid4
+    import datetime
+    
+    batched_ids = []
+    batched_docs = []
+    batched_embs = []
+    batched_meta = []
+    
+    CHUNK_SIZE = 2000
+    CHUNK_OVERLAP = 200
+    MIN_ARTICLE_LENGTH = 300
+    
+    def chunk_text(text: str):
+        if len(text) <= CHUNK_SIZE:
+            return [text]
+        chunks = []
+        start = 0
+        while start < len(text):
+            end = min(start + CHUNK_SIZE, len(text))
+            chunks.append(text[start:end])
+            if end == len(text):
+                break
+            start = end - CHUNK_OVERLAP
+        return chunks
+    
+    def embed_texts(texts):
+        if not texts:
+            return []
+        resp = openai_client.embeddings.create(model=EMBED_MODEL, input=texts)
+        return [r.embedding for r in resp.data]
+    
+    for d in external_docs:
+        url = d.get("url", "")
+        title = d.get("title", "External Source")
+        content = d.get("content", "")
+        if not url or not content or len(content) < MIN_ARTICLE_LENGTH:
+            continue
+        
+        chunks = chunk_text(content)
+        embeddings = embed_texts(chunks)
+        
+        today = str(datetime.date.today())
+        for idx, (chunk, emb) in enumerate(zip(chunks, embeddings)):
+            batched_ids.append(str(uuid4()))
+            batched_docs.append(chunk)
+            batched_embs.append(emb)
+            batched_meta.append({
+                "source": url,
+                "title": title,
+                "retrieved": today,
+                "chunk_index": idx,
+            })
+    
+    if batched_ids:
+        try:
+            collection.add(
+                ids=batched_ids,
+                documents=batched_docs,
+                embeddings=batched_embs,
+                metadatas=batched_meta,
+            )
+        except Exception as e:
+            st.sidebar.warning(f"⚠️ Failed saving external docs: {e}")
 
 # === Streamlit Configuration ===
 st.set_page_config(
