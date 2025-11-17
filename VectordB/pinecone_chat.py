@@ -16,7 +16,7 @@ if query:
 
         # Step 1: Embed query
         embed_response = client.embeddings.create(
-            model="text-embedding-ada-002",
+            model="text-embedding-3-small",
             input=[query]
         )
         query_vector = embed_response.data[0].embedding

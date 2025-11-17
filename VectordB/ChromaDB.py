@@ -50,9 +50,14 @@ from newspaper import Article
 from bs4 import BeautifulSoup
 from sklearn.metrics.pairwise import cosine_similarity
 from chromadb import PersistentClient
+from pinecone import Pinecone
 
 from config import get_api_key as get_openai_key, get_serpapi_key
 from openai import OpenAI
+from dotenv import load_dotenv
+
+# Load environment variables
+load_dotenv()
 
 try:
     from serpapi import GoogleSearch
@@ -65,6 +70,7 @@ logger = logging.getLogger(__name__)
 
 OPENAI_CLIENT = None
 EMBED_MODEL = "text-embedding-3-small"
+EMBED_DIMENSIONS = 1536  # Using 1536 dimensions for Pinecone compatibility
 SIMILARITY_THRESHOLD = 0.85
 SIMILARITY_TOP_K = 5
 MIN_ARTICLE_LENGTH = 300
@@ -102,6 +108,20 @@ COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION", "fcc_documents")
 client = PersistentClient(path=PERSIST_PATH)
 collection = client.get_or_create_collection(name=COLLECTION_NAME)
 
+# Initialize Pinecone (for cloud persistence)
+PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
+PINECONE_INDEX = os.getenv("PINECONE_INDEX", "fcc-chatbot-index")
+pc = None
+pinecone_index = None
+try:
+    if not PINECONE_API_KEY:
+        logger.warning("PINECONE_API_KEY not set; Pinecone uploads will be skipped")
+    else:
+        pc = Pinecone(api_key=PINECONE_API_KEY)
+        pinecone_index = pc.Index(PINECONE_INDEX)
+except Exception as _e:
+    logger.warning(f"Could not initialize Pinecone: {_e}. Pinecone uploads will be skipped")
+
 def chunk_text(text: str, chunk_size: int = CHUNK_SIZE, overlap: int = CHUNK_OVERLAP) -> List[str]:
     if len(text) <= chunk_size:
         return [text]
@@ -119,6 +139,14 @@ def backoff_sleep(attempt: int) -> None:
     sleep_time = min(BACKOFF_BASE ** attempt + (0.1 * attempt), BACKOFF_MAX_SLEEP)
     time.sleep(sleep_time)
 
+def is_disallowed_url(url: str) -> bool:
+    """Return True if the URL should be excluded (e.g., any fcc.gov)."""
+    try:
+        host = urlparse(url).hostname or ""
+        return "fcc.gov" in host.lower()
+    except Exception:
+        return False
+
 def ensure_openai_client():
     global OPENAI_CLIENT
     if OPENAI_CLIENT is None:
@@ -130,7 +158,7 @@ def embed_texts(texts: List[str], max_retries: int = 5) -> List[List[float]]:
     for attempt in range(max_retries):
         try:
             client = ensure_openai_client()
-            resp = client.embeddings.create(model=EMBED_MODEL, input=texts)
+            resp = client.embeddings.create(model=EMBED_MODEL, input=texts, dimensions=EMBED_DIMENSIONS)
             return [r.embedding for r in resp.data]
         except Exception as e:
             if attempt == max_retries - 1:
@@ -163,7 +191,10 @@ def fetch_search_results(query: str, limit: int = SEARCH_RESULTS_PER_QUERY) -> L
     try:
         search = GoogleSearch(params)
         res = search.get_dict()
-        return [r.get("link") for r in res.get("organic_results", []) if r.get("link")]
+        links = [r.get("link") for r in res.get("organic_results", []) if r.get("link")]
+        # Filter out disallowed domains (e.g., fcc.gov) as an extra guard
+        links = [u for u in links if not is_disallowed_url(u)]
+        return links
     except Exception as e:
         print(f"⚠️ Search failed for '{query}': {e}")
         return []
@@ -223,6 +254,10 @@ def ingest_from_urls(urls: Iterable[str]) -> Tuple[int, int]:
     skipped_chunks = 0
 
     for url in tqdm(list(urls), desc="URLs"):
+        # Skip any disallowed domains
+        if is_disallowed_url(url):
+            print(f"   ⛔ Skipping disallowed domain: {url}")
+            continue
         if url_already_ingested(url):
             continue
         scraped = scrape_article(url)
@@ -251,6 +286,8 @@ def ingest_from_urls(urls: Iterable[str]) -> Tuple[int, int]:
                 "title": scraped["title"],
                 "retrieved": str(datetime.date.today()),
                 "chunk_index": idx,
+                # include text copy for Pinecone metadata (trim to 1000 chars)
+                "text": (chunk[:1000] if isinstance(chunk, str) else ""),
             }
             batched_ids.append(str(uuid4()))
             batched_docs.append(chunk)
@@ -261,6 +298,29 @@ def ingest_from_urls(urls: Iterable[str]) -> Tuple[int, int]:
         if batched_ids:
             print(f"✅ Adding {len(batched_ids)} novel chunks to collection '{COLLECTION_NAME}' ...")
             collection.add(ids=batched_ids, documents=batched_docs, embeddings=batched_embs, metadatas=batched_meta)
+
+            # Also upsert to Pinecone if configured
+            if pinecone_index is not None:
+                try:
+                    vectors = []
+                    for _id, emb, meta, doc in zip(batched_ids, batched_embs, batched_meta, batched_docs):
+                        # Ensure metadata has a 'text' field for retrieval in Pinecone-backed chat
+                        meta_out = dict(meta)
+                        if "text" not in meta_out or not meta_out["text"]:
+                            meta_out["text"] = (doc[:1000] if isinstance(doc, str) else "")
+                        vectors.append({
+                            "id": _id,
+                            "values": emb,
+                            "metadata": meta_out,
+                        })
+
+                    # Upsert in batches of 100
+                    BATCH = 100
+                    for i in range(0, len(vectors), BATCH):
+                        pinecone_index.upsert(vectors=vectors[i:i+BATCH])
+                    print(f"☁️  Also uploaded {len(vectors)} vectors to Pinecone index '{PINECONE_INDEX}'")
+                except Exception as e:
+                    print(f"⚠️ Failed to upsert to Pinecone: {e}")
         else:
             print(f"ℹ️ No new chunks to add for URL: {url}")
 

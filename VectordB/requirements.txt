@@ -6,3 +6,5 @@ numpy
 google-search-results
 beautifulsoup4
 requests
+pinecone
+tqdm

@@ -3,6 +3,6 @@
 __pycache__/
 *.pyc
 
-# Allow chroma_fcc_storage for Streamlit Cloud deployment
-# chroma_fcc_storage/
-# VectordB/chroma_fcc_storage/
+# Ignore local Chroma storage (using Pinecone in cloud)
+chroma_fcc_storage/
+VectordB/chroma_fcc_storage/
