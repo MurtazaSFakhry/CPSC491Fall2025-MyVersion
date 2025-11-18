@@ -2,7 +2,7 @@
 Simple CLI chat that retrieves top-k documents from Pinecone and answers with inline citations.
 
 Usage:
-  python VectordB/ChromaChatTest.py
+  python3 VectordB/ChromaChat2.py
 
 Features:
 - Uses Pinecone cloud vector storage for retrieval
@@ -16,6 +16,9 @@ Features:
 import pathlib
 import sys
 
+ROOT = pathlib.Path(__file__).resolve().parents[1]  # parent of VectordB or ingestion
+if str(ROOT) not in sys.path:
+    sys.path.insert(0, str(ROOT))
 
 import os
 import time
@@ -28,6 +31,7 @@ try:
 except ImportError:
     STREAMLIT_AVAILABLE = False
 
+from chromadb import PersistentClient
 from pinecone import Pinecone
 from openai import OpenAI
 try:
@@ -62,6 +66,17 @@ if STREAMLIT_AVAILABLE:
     except:
         pass  # Use .env values
 
+# Determine correct path for ChromaDB based on where script is running from
+local_path = "./chroma_fcc_storage"
+parent_path = "../chroma_fcc_storage"
+if os.path.exists(local_path):
+    PERSIST_PATH = local_path
+elif os.path.exists(parent_path):
+    PERSIST_PATH = parent_path
+else:
+    PERSIST_PATH = os.environ.get("CHROMA_PERSIST_PATH", "./chroma_fcc_storage")
+
+COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION", "fcc_documents")
 EMBED_MODEL = "text-embedding-3-small"
 EMBED_DIMENSIONS = 1536  # Using 1536 dimensions for Pinecone compatibility
 SIMILARITY_TOP_K = 5
@@ -94,6 +109,10 @@ if not PINECONE_API_KEY:
 
 pc = Pinecone(api_key=PINECONE_API_KEY)
 pinecone_index = pc.Index(PINECONE_INDEX)
+
+# Keep ChromaDB as backup (optional)
+client = PersistentClient(path=PERSIST_PATH)
+collection = client.get_or_create_collection(name=COLLECTION_NAME)
 
 def get_openai_client():
     """Initialize OpenAI client with API key from Streamlit secrets or .env"""
@@ -375,6 +394,47 @@ def save_external_docs_to_pinecone(external_docs: List[Dict]) -> int:
             print(f"⚠️ Failed saving external docs to Pinecone: {e}")
             return 0
     return 0
+
+def save_external_docs_to_chroma(external_docs: List[Dict]) -> None:
+    """Save external docs (with full text content) into ChromaDB as chunks with embeddings."""
+    batched_ids: List[str] = []
+    batched_docs: List[str] = []
+    batched_embs: List[List[float]] = []
+    batched_meta: List[Dict] = []
+
+    for d in external_docs:
+        url = d.get("url", "")
+        title = d.get("title", "External Source")
+        content = d.get("content", "")
+        if not url or not content or len(content) < MIN_ARTICLE_LENGTH:
+            continue
+
+        chunks = chunk_text(content)
+        embeddings = embed_texts(chunks)
+
+        today = str(datetime.date.today())
+        for idx, (chunk, emb) in enumerate(zip(chunks, embeddings)):
+            batched_ids.append(str(uuid4()))
+            batched_docs.append(chunk)
+            batched_embs.append(emb)
+            batched_meta.append({
+                "source": url,
+                "title": title,
+                "retrieved": today,
+                "chunk_index": idx,
+            })
+
+    if batched_ids:
+        try:
+            collection.add(
+                ids=batched_ids,
+                documents=batched_docs,
+                embeddings=batched_embs,
+                metadatas=batched_meta,
+            )
+        except Exception as e:
+            # Non-fatal: continue chat even if persistence fails
+            print(f"⚠️ Failed saving external docs to ChromaDB: {e}")
 
 # === Prompt Construction ===
 

@@ -1,25 +1,27 @@
 """
-Ingestion pipeline with similarity filtering for ChromaDB.
+Ingestion pipeline with similarity filtering for Pinecone cloud storage.
 
 Features:
 - Uses OpenAI embeddings to embed scraped pages (chunked) using same model as chat.
-- Checks similarity against existing vectors in ChromaDB; skips near-duplicates.
+- Checks similarity against existing vectors in Pinecone; skips near-duplicates.
 - Chunks large documents before embedding with overlap.
 - Supports URL acquisition via: hardcoded SEARCH_QUERIES (SerpAPI), a --urls-file, or direct --url args.
 - Provides summary report at end.
 - Graceful handling of timeouts / rate limits with simple exponential backoff.
 
 Usage examples:
-  python ingestion/ingest_with_similarity.py
-  python ingestion/ingest_with_similarity.py --urls-file urls.txt
-  python ingestion/ingest_with_similarity.py --url https://www.fcc.gov/example1 --url https://www.fcc.gov/example2
+  python VectordB/ChromaDB2.py
+  python VectordB/ChromaDB2.py --urls-file urls.txt
+  python VectordB/ChromaDB2.py --url https://example.gov/page1 --url https://example.gov/page2
 
 Environment variables required:
   OPENAI_API_KEY
+  PINECONE_API_KEY
 Optional:
-  SERPAPI_API_KEY, CHROMA_PERSIST_PATH
+  SERPAPI_API_KEY
+  PINECONE_INDEX (default: fcc-chatbot-index)
 
-Result: Adds novel chunks (by similarity threshold) to the configured Chroma collection.
+Result: Adds novel chunks (by similarity threshold) to Pinecone cloud index.
 """
 
 import os
@@ -49,7 +51,6 @@ from tqdm import tqdm
 from newspaper import Article
 from bs4 import BeautifulSoup
 from sklearn.metrics.pairwise import cosine_similarity
-from chromadb import PersistentClient
 from pinecone import Pinecone
 
 from config import get_api_key as get_openai_key, get_serpapi_key
@@ -99,16 +100,7 @@ DEFAULT_SEARCH_QUERIES = [
 ]
 
 
-# Use absolute path to chroma storage in parent directory
-SCRIPT_DIR = os.path.dirname(os.path.abspath(__file__))
-PARENT_DIR = os.path.dirname(SCRIPT_DIR)
-PERSIST_PATH = os.environ.get("CHROMA_PERSIST_PATH", os.path.join(PARENT_DIR, "chroma_fcc_storage"))
-COLLECTION_NAME = os.environ.get("CHROMA_COLLECTION", "fcc_documents")
-
-client = PersistentClient(path=PERSIST_PATH)
-collection = client.get_or_create_collection(name=COLLECTION_NAME)
-
-# Initialize Pinecone (for cloud persistence)
+# Initialize Pinecone (cloud-only persistence)
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX = os.getenv("PINECONE_INDEX", "fcc-chatbot-index")
 pc = None
@@ -168,15 +160,20 @@ def embed_texts(texts: List[str], max_retries: int = 5) -> List[List[float]]:
     raise RuntimeError("Unreachable: embedding loop exhausted")
 
 def is_similar_to_existing(embedding: List[float], threshold: float = SIMILARITY_THRESHOLD, top_k: int = SIMILARITY_TOP_K) -> bool:
+    """Check if embedding is similar to existing vectors in Pinecone."""
+    if pinecone_index is None:
+        return False
     try:
-        results = collection.query(query_embeddings=[embedding], n_results=top_k, include=["embeddings"])
-        existing_embeddings = results.get("embeddings", [[]])[0]
-        if existing_embeddings is None or len(existing_embeddings) == 0:
+        results = pinecone_index.query(
+            vector=embedding,
+            top_k=top_k,
+            include_values=True
+        )
+        if not results.matches:
             return False
-        existing = np.array(existing_embeddings)
-        query_vec = np.array(embedding).reshape(1, -1)
-        sims = cosine_similarity(query_vec, existing)[0]
-        return float(np.max(sims)) >= threshold
+        # Check cosine similarity (Pinecone returns scores which are cosine similarities for this metric)
+        max_score = max(match.score for match in results.matches)
+        return float(max_score) >= threshold
     except Exception as e:
         print(f"   ⚠️ similarity check failed: {e}")
         return False
@@ -241,10 +238,18 @@ def scrape_article(url: str) -> Optional[dict]:
         return None
 
 def url_already_ingested(url: str) -> bool:
+    """Check if URL already exists in Pinecone by querying metadata."""
+    if pinecone_index is None:
+        return False
     try:
-        results = collection.query(query_texts=[url], n_results=1, include=["metadatas"])
-        metadatas = results.get("metadatas", [[]])[0]
-        return any(meta.get("source") == url for meta in metadatas)
+        # Query Pinecone with filter on source metadata
+        results = pinecone_index.query(
+            vector=[0.0] * EMBED_DIMENSIONS,  # dummy vector for metadata-only query
+            top_k=1,
+            filter={"source": {"$eq": url}},
+            include_metadata=True
+        )
+        return len(results.matches) > 0
     except Exception as e:
         print(f"   ⚠️ URL ingest check failed for {url}: {e}")
         return False
@@ -296,10 +301,7 @@ def ingest_from_urls(urls: Iterable[str]) -> Tuple[int, int]:
             added_chunks += 1
 
         if batched_ids:
-            print(f"✅ Adding {len(batched_ids)} novel chunks to collection '{COLLECTION_NAME}' ...")
-            collection.add(ids=batched_ids, documents=batched_docs, embeddings=batched_embs, metadatas=batched_meta)
-
-            # Also upsert to Pinecone if configured
+            # Upsert to Pinecone (cloud-only persistence)
             if pinecone_index is not None:
                 try:
                     vectors = []
@@ -318,22 +320,24 @@ def ingest_from_urls(urls: Iterable[str]) -> Tuple[int, int]:
                     BATCH = 100
                     for i in range(0, len(vectors), BATCH):
                         pinecone_index.upsert(vectors=vectors[i:i+BATCH])
-                    print(f"☁️  Also uploaded {len(vectors)} vectors to Pinecone index '{PINECONE_INDEX}'")
+                    print(f"☁️  Added {len(vectors)} novel chunks to Pinecone index '{PINECONE_INDEX}'")
                 except Exception as e:
                     print(f"⚠️ Failed to upsert to Pinecone: {e}")
+            else:
+                print(f"⚠️ Pinecone not configured - cannot persist {len(batched_ids)} chunks")
         else:
             print(f"ℹ️ No new chunks to add for URL: {url}")
 
     return added_chunks, skipped_chunks
 
 def parse_args() -> argparse.Namespace:
-    parser = argparse.ArgumentParser(description="Ingest documents with similarity filtering into ChromaDB.")
+    parser = argparse.ArgumentParser(description="Ingest documents with similarity filtering into Pinecone.")
     parser.add_argument("--url", dest="urls", action="append", help="One or more URLs to ingest", default=[])
     parser.add_argument("--urls-file", dest="urls_file", help="Path to file containing URLs (one per line)")
     parser.add_argument("--no-search", dest="no_search", action="store_true", help="Disable SerpAPI search; only use provided URLs")
     parser.add_argument("--threshold", type=float, default=SIMILARITY_THRESHOLD, help="Similarity threshold (default 0.85)")
     parser.add_argument("--top-k", type=int, default=SIMILARITY_TOP_K, help="Top K neighbors for similarity (default 5)")
-    parser.add_argument("--dry-run", action="store_true", help="Do everything except adding to Chroma")
+    parser.add_argument("--dry-run", action="store_true", help="Do everything except adding to Pinecone")
     return parser.parse_args()
 
 def load_urls_from_file(path: str) -> List[str]:
@@ -382,17 +386,16 @@ def main():
     added, skipped = ingest_from_urls(urls)
 
     if args.dry_run:
-        print("(Dry run) Skipped writing to DB.")
+        print("(Dry run) Skipped writing to Pinecone.")
     else:
-        print("Ingestion complete.")
+        print("Ingestion complete - all data persisted to Pinecone cloud.")
 
     print("Summary:")
     print(f"  Added chunks:   {added}")
     print(f"  Skipped chunks: {skipped}")
     print(f"  Threshold:      {SIMILARITY_THRESHOLD}")
     print(f"  Top-K:          {SIMILARITY_TOP_K}")
-    print(f"  Collection:     {COLLECTION_NAME}")
-    print(f"  Persist path:   {PERSIST_PATH}")
+    print(f"  Pinecone Index: {PINECONE_INDEX}")
 
 if __name__ == "__main__":
     main()

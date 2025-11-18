@@ -31,22 +31,18 @@ except ImportError:
 load_dotenv()
 
 # === Configuration ===
-# Chroma (legacy/local) paths kept for optional local runs
-PERSIST_PATH = str(ROOT / "chroma_fcc_storage")
-COLLECTION_NAME = "fcc_documents"
 EMBED_MODEL = "text-embedding-3-small"
 EMBED_DIMENSIONS = 1536
 SIMILARITY_TOP_K = 5
 MAX_RESPONSE_TOKENS = 500
 FALLBACK_TEXT = "No information available in the dataset or external sources for that question."
-RELEVANCE_THRESHOLD = 0.35
+#RELEVANCE_THRESHOLD = 0.35
 
 # API Keys
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 SERPAPI_API_KEY = os.getenv("SERPAPI_KEY") or os.getenv("SERPAPI_API_KEY")
 PINECONE_API_KEY = os.getenv("PINECONE_API_KEY")
 PINECONE_INDEX = os.getenv("PINECONE_INDEX") or os.getenv("PINECONE_INDEX_NAME") or "fcc-chatbot-index"
-USE_PINECONE = True  # default to Pinecone per user request
 ID_STRATEGY = os.getenv("PINECONE_ID_STRATEGY", "url")  # 'url' (default) or 'content'
 
 # Override with Streamlit secrets if available
@@ -56,34 +52,28 @@ try:
         SERPAPI_API_KEY = st.secrets.get("SERPAPI_KEY", st.secrets.get("SERPAPI_API_KEY", SERPAPI_API_KEY))
         PINECONE_API_KEY = st.secrets.get("PINECONE_API_KEY", PINECONE_API_KEY)
         PINECONE_INDEX = st.secrets.get("PINECONE_INDEX", st.secrets.get("PINECONE_INDEX_NAME", PINECONE_INDEX))
-        USE_PINECONE = st.secrets.get("USE_PINECONE", USE_PINECONE)
 except:
     pass
 
 # Initialize clients
 openai_client = OpenAI(api_key=OPENAI_API_KEY)
 
-# Pinecone client (preferred)
+# Pinecone client (required)
 pc = None
 pinecone_index = None
-if USE_PINECONE and PINECONE_API_KEY and Pinecone is not None:
-    try:
-        pc = Pinecone(api_key=PINECONE_API_KEY)
-        pinecone_index = pc.Index(PINECONE_INDEX)
-    except Exception as e:
-        pinecone_index = None
-        st.sidebar.warning(f"⚠️ Pinecone init failed: {e}. Falling back to Chroma (local).")
+if not PINECONE_API_KEY:
+    st.error("❌ PINECONE_API_KEY not set. Please configure your Pinecone API key.")
+    st.stop()
+if Pinecone is None:
+    st.error("❌ Pinecone library not installed. Run: pip install pinecone-client")
+    st.stop()
 
-# Fallback Chroma client (local only)
-collection = None
-if pinecone_index is None:
-    try:
-        from chromadb import PersistentClient  # defer import until needed
-        chroma_client = PersistentClient(path=PERSIST_PATH)
-        collection = chroma_client.get_or_create_collection(name=COLLECTION_NAME)
-        USE_PINECONE = False
-    except Exception as e:
-        st.error(f"❌ Neither Pinecone nor Chroma could be initialized: {e}")
+try:
+    pc = Pinecone(api_key=PINECONE_API_KEY)
+    pinecone_index = pc.Index(PINECONE_INDEX)
+except Exception as e:
+    st.error(f"❌ Failed to initialize Pinecone: {e}")
+    st.stop()
 
 # Import helper functions from ChromaChat2
 sys.path.insert(0, str(ROOT / "VectordB"))
@@ -149,8 +139,6 @@ def save_external_docs_to_pinecone(external_docs: List[Dict]) -> int:
     """Save external docs to Pinecone as chunks with embeddings.
     Returns the count of vectors that were actually upserted (new or updated) according to Pinecone response.
     """
-    if not (USE_PINECONE and pinecone_index is not None):
-        return 0
     vectors_to_upsert = []
 
     import datetime as _dt
@@ -210,18 +198,8 @@ def save_external_docs_to_pinecone(external_docs: List[Dict]) -> int:
 
     return upserted_total
 
-def _retrieve_from_chroma(query: str, top_k: int = SIMILARITY_TOP_K) -> List[Dict]:
-    q_emb = embed_text(query)
-    res = collection.query(
-        query_embeddings=[q_emb],
-        n_results=top_k,
-        include=["documents", "metadatas"]
-    )
-    docs = res.get("documents", [[]])[0]
-    metas = res.get("metadatas", [[]])[0]
-    return [{"document": doc, "metadata": meta} for doc, meta in zip(docs, metas)]
-
-def _retrieve_from_pinecone(query: str, top_k: int = SIMILARITY_TOP_K) -> List[Dict]:
+def retrieve_relevant_chunks(query: str, top_k: int = SIMILARITY_TOP_K) -> List[Dict]:
+    """Retrieve relevant chunks from Pinecone."""
     q_emb = embed_text(query)
     results = pinecone_index.query(vector=q_emb, top_k=top_k, include_metadata=True)
     matches = results.get("matches", []) if isinstance(results, dict) else results.matches
@@ -236,79 +214,6 @@ def _retrieve_from_pinecone(query: str, top_k: int = SIMILARITY_TOP_K) -> List[D
         if text:
             chunks.append({"document": text, "metadata": meta})
     return chunks
-
-def retrieve_relevant_chunks(query: str, top_k: int = SIMILARITY_TOP_K) -> List[Dict]:
-    if USE_PINECONE and pinecone_index is not None:
-        return _retrieve_from_pinecone(query, top_k)
-    if collection is not None:
-        return _retrieve_from_chroma(query, top_k)
-    return []
-
-def save_external_docs_to_chroma(external_docs):
-    """Save external docs to ChromaDB"""
-    from uuid import uuid4
-    import datetime
-    
-    batched_ids = []
-    batched_docs = []
-    batched_embs = []
-    batched_meta = []
-    
-    CHUNK_SIZE = 2000
-    CHUNK_OVERLAP = 200
-    MIN_ARTICLE_LENGTH = 300
-    
-    def chunk_text(text: str):
-        if len(text) <= CHUNK_SIZE:
-            return [text]
-        chunks = []
-        start = 0
-        while start < len(text):
-            end = min(start + CHUNK_SIZE, len(text))
-            chunks.append(text[start:end])
-            if end == len(text):
-                break
-            start = end - CHUNK_OVERLAP
-        return chunks
-    
-    def embed_texts(texts):
-        if not texts:
-            return []
-        resp = openai_client.embeddings.create(model=EMBED_MODEL, input=texts)
-        return [r.embedding for r in resp.data]
-    
-    for d in external_docs:
-        url = d.get("url", "")
-        title = d.get("title", "External Source")
-        content = d.get("content", "")
-        if not url or not content or len(content) < MIN_ARTICLE_LENGTH:
-            continue
-        
-        chunks = chunk_text(content)
-        embeddings = embed_texts(chunks)
-        
-        today = str(datetime.date.today())
-        for idx, (chunk, emb) in enumerate(zip(chunks, embeddings)):
-            batched_ids.append(str(uuid4()))
-            batched_docs.append(chunk)
-            batched_embs.append(emb)
-            batched_meta.append({
-                "source": url,
-                "title": title,
-                "retrieved": today,
-                "chunk_index": idx,
-            })
-    
-    if batched_ids:
-        try:
-            collection.add(
-                ids=batched_ids,
-                documents=batched_docs,
-                embeddings=batched_embs,
-                metadatas=batched_meta,
-            )
-        except Exception as e:
-            st.sidebar.warning(f"⚠️ Failed saving external docs: {e}")
 
 # === Streamlit Configuration ===
 st.set_page_config(
@@ -325,23 +230,14 @@ def main():
     # Sidebar with stats
     with st.sidebar:
         st.header("📊 System Stats")
-        if USE_PINECONE and pinecone_index is not None:
-            st.success(f"Using Pinecone index: {PINECONE_INDEX}")
-            # Optional: try to get stats if supported
-            try:
-                stats = pinecone_index.describe_index_stats()
-                total_vecs = stats.get("total_vector_count") if isinstance(stats, dict) else getattr(stats, "total_vector_count", None)
-                if total_vecs is not None:
-                    st.info(f"Vectors: {total_vecs:,}")
-            except Exception:
-                pass
-        else:
-            try:
-                initial_count = collection.count()
-                st.success(f"**ChromaDB Embeddings:** {initial_count:,}")
-                st.info(f"**Database Path:** `{PERSIST_PATH}`")
-            except Exception as e:
-                st.error(f"⚠️ ChromaDB Error: {e}")
+        st.success(f"Using Pinecone index: {PINECONE_INDEX}")
+        try:
+            stats = pinecone_index.describe_index_stats()
+            total_vecs = stats.get("total_vector_count") if isinstance(stats, dict) else getattr(stats, "total_vector_count", None)
+            if total_vecs is not None:
+                st.info(f"Vectors: {total_vecs:,}")
+        except Exception as e:
+            st.warning(f"⚠️ Could not retrieve stats: {e}")
         
         st.markdown("---")
         st.markdown("### 💡 Tips")
@@ -399,25 +295,18 @@ def main():
                             if full:
                                 d["content"] = full
                         
-                        # Save external docs to the active backend
+                        # Save external docs to Pinecone
                         try:
-                            if USE_PINECONE and pinecone_index is not None:
-                                before_stats = pinecone_index.describe_index_stats()
-                                before_cnt = before_stats.get("total_vector_count") if isinstance(before_stats, dict) else getattr(before_stats, "total_vector_count", None)
-                                _ = save_external_docs_to_pinecone(external_docs)
-                                time.sleep(2)
-                                after_stats = pinecone_index.describe_index_stats()
-                                after_cnt = after_stats.get("total_vector_count") if isinstance(after_stats, dict) else getattr(after_stats, "total_vector_count", None)
-                                new_added = 0
-                                if before_cnt is not None and after_cnt is not None:
-                                    new_added = max(after_cnt - before_cnt, 0)
-                                st.sidebar.success(f"✅ Added {new_added} new embeddings. Pinecone total: {after_cnt:,}")
-                            elif collection is not None:
-                                before_cnt = collection.count()
-                                save_external_docs_to_chroma(external_docs)
-                                after_cnt = collection.count()
-                                added = max(after_cnt - before_cnt, 0)
-                                st.sidebar.success(f"✅ Added {added} new embeddings. Chroma total: {after_cnt:,}")
+                            before_stats = pinecone_index.describe_index_stats()
+                            before_cnt = before_stats.get("total_vector_count") if isinstance(before_stats, dict) else getattr(before_stats, "total_vector_count", None)
+                            _ = save_external_docs_to_pinecone(external_docs)
+                            time.sleep(2)
+                            after_stats = pinecone_index.describe_index_stats()
+                            after_cnt = after_stats.get("total_vector_count") if isinstance(after_stats, dict) else getattr(after_stats, "total_vector_count", None)
+                            new_added = 0
+                            if before_cnt is not None and after_cnt is not None:
+                                new_added = max(after_cnt - before_cnt, 0)
+                            st.sidebar.success(f"✅ Added {new_added} new embeddings. Pinecone total: {after_cnt:,}")
                         except Exception as e:
                             st.sidebar.warning(f"⚠️ Could not save external docs: {e}")
                         
